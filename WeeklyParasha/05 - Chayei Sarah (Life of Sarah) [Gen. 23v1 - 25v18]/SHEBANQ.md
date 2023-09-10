@@ -1,0 +1,1 @@
+# SHEBANQ Queries (Parasha Chayei Sarah; Gen. 23v1 - 25v18)

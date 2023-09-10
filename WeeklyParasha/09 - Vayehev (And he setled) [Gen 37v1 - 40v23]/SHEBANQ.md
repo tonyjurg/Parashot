@@ -1,0 +1,1 @@
+# SHEBANQ Queries (Parasha Vayehev; Gen 37v1 - 40v23)

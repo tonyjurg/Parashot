@@ -1,0 +1,1 @@
+# SHEBANQ Queries (Parasha Vayera; Gen. 18v1 - 22v24)

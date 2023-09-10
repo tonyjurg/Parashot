@@ -1,0 +1,1 @@
+# SHEBANQ Queries (Parasha Miketz; Gen. 41v1 - 44v17)
