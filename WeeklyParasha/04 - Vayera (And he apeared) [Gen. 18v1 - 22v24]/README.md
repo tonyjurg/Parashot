@@ -2,7 +2,7 @@
 
 ## Reading passages
 
-Torah: Gen. 18:1- 22:24; Haftarah: II Kings 4:1-37.
+Torah: Gen. 18:1- 22:24; Haftorah: II Kings 4:1-37.
 
 ## Related SHEBANQ queries
 
