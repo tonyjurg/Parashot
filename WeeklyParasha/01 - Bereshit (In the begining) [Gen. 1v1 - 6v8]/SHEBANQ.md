@@ -1,1 +1,0 @@
-# SHEBANQ Queries (Parasha Bereshit; Gen. 1v1 - 6v8)
