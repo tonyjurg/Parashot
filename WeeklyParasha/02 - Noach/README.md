@@ -2,8 +2,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 6:9-11:32](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.6:9-11:32&options=HNVUGz);
-Haftarah: [Isaiah 42:5-43:10](https://www.stepbible.org/?q=version=NASB2020|reference=Isa.54:1-55:5&options=HNVUG).
+Torah: [Gen. 6:9-11:32](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.6:9-11:32&options=HNVUG)<br>
+Haftarah: [Isaiah 42:5-43:10](https://www.stepbible.org/?q=version=NASB2020|reference=Isa.54:1-55:5&options=HNVUG)
 
 
 ## Summary
