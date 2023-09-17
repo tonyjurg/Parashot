@@ -2,8 +2,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 37:1 - 40:23](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.37:1-40:23&options=HNVUG);
-Haftarah: [Amos 2:6-3:8](https://www.stepbible.org/?q=version=NASB2020|reference=Amos.2:6-3:8&options=HNVUG).
+Torah: [Gen. 37:1 - 40:23](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.37:1-40:23&options=HNVUG)<br>
+Haftarah: [Amos 2:6-3:8](https://www.stepbible.org/?q=version=NASB2020|reference=Amos.2:6-3:8&options=HNVUG)
 
 ## Summary
 
