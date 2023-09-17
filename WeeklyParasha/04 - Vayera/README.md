@@ -1,4 +1,4 @@
-# Parasha Vayera
+# Parasha Vayera (וַיֵּרָ֤א)
 
 ## Reading passages
 
