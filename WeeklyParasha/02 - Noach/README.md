@@ -1,4 +1,4 @@
-# Parasha Noach
+# Parasha Noach (נֹ֔חַ)
 
 ## Reading passages
 

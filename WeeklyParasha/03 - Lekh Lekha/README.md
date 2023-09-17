@@ -1,4 +1,4 @@
-# Parasha Lekh Lekha
+# Parasha Lekh Lekha (לֶךְ־לְךָ֛)
 
 ## Reading passages
 
