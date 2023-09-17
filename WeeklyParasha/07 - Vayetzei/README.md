@@ -2,9 +2,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 28:10 - 32:3](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:10-32:3&options=HNVUG);
-Haftarah: [Hosea 11:7-11;12:1-12;13:1-5](https://www.stepbible.org/?q=version=NASB2020|reference=Hos.11:7-11;12:1-15&options=HNVUG).
-Torah: Gen. 28:10 - 32:3; Haftarah: Hosea 11:7-11;12:1-15;13:1-5.
+Torah: [Gen. 28:10 - 32:3](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:10-32:3&options=HNVUG)<br>
+Haftarah: [Hosea 11:7-11;12:1-12;13:1-5](https://www.stepbible.org/?q=version=NASB2020|reference=Hos.11:7-11;12:1-15&options=HNVUG)
 
 ## Summary
 

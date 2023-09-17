@@ -3,8 +3,8 @@
 ## Reading passages
 
 Torah: [Gen. 23:1 - 25:18](
-https://www.stepbible.org/?q=version=NASB2020|reference=Gen.23:1-25:18&options=HNVUGz);
-Haftarah: [I Kings 1:1-31](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.1:1-31&options=HNVUG).
+https://www.stepbible.org/?q=version=NASB2020|reference=Gen.23:1-25:18&options=HNVUG)<br>
+Haftarah: [I Kings 1:1-31](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.1:1-31&options=HNVUG)
 
 ## Summary
 
