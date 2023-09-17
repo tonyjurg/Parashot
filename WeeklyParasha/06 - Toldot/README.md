@@ -2,9 +2,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 25:19 - 28:9](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:19-28:9&options=HNVUGz);
-Haftarah: [Maleachi 1:1-4, 2:1-7](https://www.stepbible.org/?q=version=NASB2020|reference=Mal.1:1-4;2:1-7&options=HNVUG).
-Torah: Gen. ; Haftarah: Maleachi 1:1-4, 2:1-7.
+Torah: [Gen. 25:19 - 28:9](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:19-28:9&options=HNVUG)<br>
+Haftarah: [Maleachi 1:1-4, 2:1-7](https://www.stepbible.org/?q=version=NASB2020|reference=Mal.1:1-4;2:1-7&options=HNVUG)
 
 ## Sumary
 
@@ -14,7 +13,6 @@ Parashat Toldot primarily focuses on the generations of Isaac and Rebekah. It re
 
 Query | Description
 --- | ---
-
 
 ## Related Text-Fabric Notebooks
 
