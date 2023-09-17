@@ -13,6 +13,7 @@ Parashat Toldot primarily focuses on the generations of Isaac and Rebekah. It re
 
 Query | Description
 --- | ---
+[shalom as greeting](https://shebanq.ancient-data.org/hebrew/queries?goto=3224) | Jacob asks the shepherd about the well being of Laban, using the word 'shalom'.
 
 ## Related Text-Fabric Notebooks
 
