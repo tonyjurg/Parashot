@@ -1,1 +1,0 @@
-# SHEBANQ Queries (Parasha Toldot; Gen. 25v19 - 28v9)

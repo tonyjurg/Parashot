@@ -1,1 +1,0 @@
-# SHEBANQ Queries (Parasha Lekh Lekha; Gen. 12v1 - 17v27)

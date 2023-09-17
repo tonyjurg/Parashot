@@ -1,1 +1,0 @@
-# SHEBANQ Queries (Parasha Vayishlach; Gen. 32v4 - 36v43)

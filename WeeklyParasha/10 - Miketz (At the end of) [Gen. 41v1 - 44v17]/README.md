@@ -1,8 +1,8 @@
-# Parasha Noach
+# Parasha Miketz
 
 ## Reading passages
 
-Torah: Gen. 6:9-11:32; Haftarah: Isaiah 54:1-55:5.
+Torah: Gen. 41:1 - 44:17; Haftarah: 
 
 ## Related SHEBANQ queries
 

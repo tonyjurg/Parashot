@@ -1,1 +1,0 @@
-# SHEBANQ Queries (Parasha Vayetzei; Gen. 28v10 - 32v3)

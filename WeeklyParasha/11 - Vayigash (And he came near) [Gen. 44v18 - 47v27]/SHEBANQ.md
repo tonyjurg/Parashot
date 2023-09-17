@@ -1,1 +1,0 @@
-# SHEBANQ Queries (Parasha Vayigash; Gen. 44v18 - 47v27)

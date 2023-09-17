@@ -1,1 +1,0 @@
-# SHEBANQ Queries (Parasha Va'era; Ex. 6v2 - 9v35)
