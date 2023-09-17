@@ -2,11 +2,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 18:1- 22:24](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.18:1-22:24&options=HNVUGz);
-Haftarah: [II Kings 4:1-37](https://www.stepbible.org/?q=version=NASB2020|reference=2Kgs.4:1-37&options=HNVUG).
-
-
-Torah: Gen. 18:1- 22:24; Haftorah: .
+Torah: [Gen. 18:1- 22:24](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.18:1-22:24&options=HNVUG)<br>
+Haftarah: [II Kings 4:1-37](https://www.stepbible.org/?q=version=NASB2020|reference=2Kgs.4:1-37&options=HNVUG)
 
 ## Summary
 
