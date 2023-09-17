@@ -14,3 +14,7 @@ irst portion of the Torah, which recounts the creation of the world in six days,
 Query | Description
 --- | ---
 [and it brought forth](https://shebanq.ancient-data.org/hebrew/text?iid=5623&page=1&mr=r&qw=q) | find first occurrence of וַיֵּצֵ֥א (wayiqtol) - and it brought forth. The first what was brougth forth were the green plants on the earth (Gen. 1:12)
+
+## Related Text-Fabric Notebooks
+
+To be added
