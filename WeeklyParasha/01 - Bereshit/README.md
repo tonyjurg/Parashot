@@ -2,7 +2,7 @@
 
 ## Reading passages
 
-Torah: [Gen. 1:1-6:8](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUGz);
+Torah: [Gen. 1:1-6:8](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUG);
 Haftarah: [Isaiah 42:5-43:10](https://www.stepbible.org/?q=version=NASB2020|reference=Isa.42:5-43:10&options=HNVUG).
 
 ## Summary
