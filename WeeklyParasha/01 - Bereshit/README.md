@@ -3,7 +3,7 @@
 ## Reading passages
 
 Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUG" target="_blank">Gen. 1:1-6:8</a><br>
-Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.42:5-43:10&options=HNVUG" target="_blank">Isaiah 42:5-43:10]</a>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.42:5-43:10&options=HNVUG" target="_blank">Isaiah 42:5-43:10</a>
 
 ## Summary
 Parashat Bereshit is the f
@@ -14,4 +14,3 @@ irst portion of the Torah, which recounts the creation of the world in six days,
 Query | Description
 --- | ---
 [and it brought forth](https://shebanq.ancient-data.org/hebrew/text?iid=5623&page=1&mr=r&qw=q) | find first occurrence of וַיֵּצֵ֥א (wayiqtol) - and it brought forth. The first what was brougth forth were the green plants on the earth (Gen. 1:12)
- <a href=
