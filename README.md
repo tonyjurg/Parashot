@@ -4,3 +4,6 @@
 Digital Humanities for the weekly Parasha (Torah portion of the week)
 
 Reading the weekly parasha: [STEP bible](https://www.stepbible.org/html/parashot.html).
+
+<img src="images/ReadingTroughTheLensOfTenach.png">
+AI generated image with prompt 'Reading trough the Lens of Tenach"
