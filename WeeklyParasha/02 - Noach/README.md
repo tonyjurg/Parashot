@@ -8,7 +8,7 @@ Haftarah: [Isaiah 42:5-43:10](https://www.stepbible.org/?q=version=NASB2020|refe
 
 ## Summary
 
-Parashat Noach centers around the story of Noah and the Great Flood. God instructs Noah to build an ark to save himself, his family, and two of every animal species from the impending deluge. The floodwaters engulf the world, but eventually recede, and Noah and his descendants repopulate the earth, emphasizing themes of divine judgment, obedience, and renewal in this portion of the Torah.
+Parasha Noach ("Noah") centers around the story of Noah and the Great Flood. God instructs Noah to build an ark to save himself, his family, and two of every animal species from the impending deluge. The floodwaters engulf the world, but eventually recede, and Noah and his descendants repopulate the earth, emphasizing themes of divine judgment, obedience, and renewal in this portion of the Torah.
 
 ## Related SHEBANQ queries
 
