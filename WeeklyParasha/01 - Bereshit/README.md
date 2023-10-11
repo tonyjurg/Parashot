@@ -18,3 +18,9 @@ Query | Description
 ## Related Text-Fabric Notebooks
 
 To be added
+
+## AI generated image
+
+<img src="stablediffusion_image.png">
+
+Image created by Stable Diffusion using prompt "in the beginning god created the heavens and the earth" (cinematic-default).
