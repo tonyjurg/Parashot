@@ -23,4 +23,4 @@ To be added
 
 <img src="stablediffusion_image.png">
 
-Image created by Stable Diffusion using prompt "in the beginning god created the heavens and the earth" (cinematic-default).
+Image created by Stable Diffusion using prompt "in the beginning God created the heavens and the earth" (cinematic-default).
