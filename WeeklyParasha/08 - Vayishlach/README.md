@@ -1,4 +1,4 @@
-# Parasha Vayishlach
+# Parasha Vayishlach (וַיִּשְׁלַח)
 
 ## Reading passages
 
@@ -17,3 +17,7 @@ Query | Description
 ## Related Text-Fabric Notebooks
 
 To be added
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayishlach](https://www.hebcal.com/sedrot/vayishlach).
