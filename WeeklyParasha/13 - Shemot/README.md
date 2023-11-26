@@ -2,7 +2,6 @@
 
 ## Reading passages
 
-Torah: Ex. 1:1 - 6:1; Haftarah: 
 Torah: [Ex. 1:1 - 6:1](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.1:1-6:1&options=HNVUG)<br>
 Haftarah: [Isaiah 27:6 - 28:13; Isaiah 29:22-23](https://www.stepbible.org/?q=version=NASB2020|reference=Is.27:6-28:13+Is.29:22-23&options=HNVUG)
 
