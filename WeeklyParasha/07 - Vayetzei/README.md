@@ -1,4 +1,4 @@
-# Parasha Vayetzei
+# Parasha Vayetzei (וַיֵּצֵא)
 
 ## Reading passages
 
@@ -17,5 +17,9 @@ Query | Description
 
 ## Related Text-Fabric Notebooks
 
-To be added
+To be added.
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayetzei](https://www.hebcal.com/sedrot/vayetzei).
 
