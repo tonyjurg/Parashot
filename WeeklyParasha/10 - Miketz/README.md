@@ -3,7 +3,7 @@
 ## Reading passages
 
 Torah: [Gen. 41:1-44:17](
-https://www.stepbible.org/?q=version=NASB2020|reference=Gen.41:1-44:17&options=HNVUG)<br>
+https://www.stepbible.org/?q=version=NASB2020|reference=Gen.41:1-44:17&options=HNVUG)  &nbsp;&nbsp; [(Hebrew: מִקֵּץ)](https://tikkun.io/#/p/miketz)<br>
 Haftarah: [I Kings 3:15-4:1](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.3:15-4:1&options=HNVUG)
 
 ## Summary
