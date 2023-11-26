@@ -1,4 +1,4 @@
-# Parasha Toldot
+# Parasha Toldot (תּוֹלְדוֹת)
 
 ## Reading passages
 
