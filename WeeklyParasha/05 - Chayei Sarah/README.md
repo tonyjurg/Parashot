@@ -1,4 +1,4 @@
-# Parasha Chayei-Sarah (שָׂרָה‎ חַיֵּי)
+# Parasha Chayei Sara (שָׂרָה‎ חַיֵּי)
 
 ## Reading passages
 
@@ -17,4 +17,8 @@ Query | Description
 
 ## Related Text-Fabric Notebooks
 
-To be added
+To be added.
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Chayei Sara](https://www.hebcal.com/sedrot/Chayei-Sara).
