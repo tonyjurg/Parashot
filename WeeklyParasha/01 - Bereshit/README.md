@@ -1,4 +1,4 @@
-# Parasha Bereshit (בְּרֵאשִׁ֖ית)
+# Parasha Bereshit (בְּרֵאשִׁית)
 
 ## Reading passages
 
