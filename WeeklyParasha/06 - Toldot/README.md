@@ -4,7 +4,6 @@
 
 Torah: [Gen. 25:19 - 28:9](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:19-28:9&options=HNVUG)<br>
 Haftarah: [Maleachi 1:1-4, 2:1-7](https://www.stepbible.org/?q=version=NASB2020|reference=Mal.1:1-4;2:1-7&options=HNVUG)
-[Hebcal entry for this parasha](https://www.hebcal.com/sedrot/toldot)
 
 ## Summary
 
@@ -19,3 +18,7 @@ Query | Description
 ## Related Text-Fabric Notebooks
 
 To be added
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for this parasha](https://www.hebcal.com/sedrot/toldot)
