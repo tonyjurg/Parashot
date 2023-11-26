@@ -1,4 +1,4 @@
-# Parasha Lech Lecha (לֶךְ־לְךָ֛)
+# Parasha Lech Lecha (לֶךְ־לְךָ)
 
 ## Reading passages
 
