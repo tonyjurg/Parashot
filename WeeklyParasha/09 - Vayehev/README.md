@@ -1,4 +1,4 @@
-# Parasha Vayehev
+# Parasha Vayehev (וַיֵּשֶׁב‎)
 
 ## Reading passages
 
@@ -7,7 +7,7 @@ Haftarah: [Amos 2:6-3:8](https://www.stepbible.org/?q=version=NASB2020|reference
 
 ## Summary
 
-This parasha focuses on the saga of Joseph. It highlights Joseph's tumultuous journey from being sold into slavery by his brothers to rising to a position of power in Egypt.
+Parasha Vayeshev is the ninth weekly Torah portion in the annual Jewish cycle of Torah reading. It recounts the narrative of Jacob's sons selling Joseph into Egyptian captivity. Additionally, it delves into the story of Judah's mistreatment of his daughter-in-law Tamar, who ingeniously tricks him into fulfilling his oath. The parasha also narrates Joseph's service to Potiphar and his subsequent imprisonment due to false accusations of assaulting Potiphar's wife.
 
 ## Related SHEBANQ queries
 
