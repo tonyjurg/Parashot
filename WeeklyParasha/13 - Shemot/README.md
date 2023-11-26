@@ -1,4 +1,4 @@
-# Parasha Shemot
+# Parasha Shemot (שְׁמוֹת֙)
 
 ## Reading passages
 
