@@ -20,6 +20,10 @@ Query | Description
 
 To be added
 
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Bereshit](https://www.hebcal.com/sedrot/bereshit)
+
 ## AI generated image
 
 <img src="stablediffusion_image.png">
