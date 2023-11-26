@@ -3,7 +3,7 @@
 ## Reading passages
 
 Torah: [Gen. 23:1 - 25:18](
-https://www.stepbible.org/?q=version=NASB2020|reference=Gen.23:1-25:18&options=HNVUG)<br>
+https://www.stepbible.org/?q=version=NASB2020|reference=Gen.23:1-25:18&options=HNVUG)  &nbsp;&nbsp; [(Hebrew: שָׂרָה‎ חַיֵּי)](https://tikkun.io/#/p/chayei-sara)<br>
 Haftarah: [I Kings 1:1-31](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.1:1-31&options=HNVUG)
 
 ## Summary
