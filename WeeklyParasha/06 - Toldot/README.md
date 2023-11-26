@@ -21,4 +21,4 @@ To be added
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for this parasha](https://www.hebcal.com/sedrot/toldot)
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Toldot](https://www.hebcal.com/sedrot/toldot)
