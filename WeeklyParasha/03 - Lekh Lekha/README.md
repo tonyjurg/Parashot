@@ -1,8 +1,8 @@
-# Parasha Lekh Lekha (לֶךְ־לְךָ֛)
+# Parasha Lech Lecha (לֶךְ־לְךָ)
 
 ## Reading passages
 
-Torah: [Gen. 12:1-17:27](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.12:1-17:27&options=HNVUG)<br>
+Torah: [Gen. 12:1-17:27](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.12:1-17:27&options=HNVUG) &nbsp;&nbsp; [(Hebrew: בְּרֵאשִׁית)](https://tikkun.io/#/p/lech-lecha)<br>
 Haftarah: [Isaiah 40:27-41:16](https://www.stepbible.org/?q=version=NASB2020|reference=Isa.40:27-41:16&options=HNVUG)
 
 ## Summary:
@@ -15,4 +15,8 @@ Query | Description
 
 ## Related Text-Fabric Notebooks
 
-To be added
+To be added.
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Lech Lecha](https://www.hebcal.com/sedrot/lech-lecha).

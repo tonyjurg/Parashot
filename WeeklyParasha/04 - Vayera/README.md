@@ -1,8 +1,8 @@
-# Parasha Vayera (וַיֵּרָ֤א)
+# Parasha Vayera (וַיֵּרָא)
 
 ## Reading passages
 
-Torah: [Gen. 18:1- 22:24](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.18:1-22:24&options=HNVUG)<br>
+Torah: [Gen. 18:1- 22:24](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.18:1-22:24&options=HNVUG) &nbsp;&nbsp; [(Hebrew: בְּרֵאשִׁית)](https://tikkun.io/#/p/lech-lecha)<br>
 Haftarah: [II Kings 4:1-37](https://www.stepbible.org/?q=version=NASB2020|reference=2Kgs.4:1-37&options=HNVUG)
 
 ## Summary
@@ -17,4 +17,8 @@ Query | Description
 
 ## Related Text-Fabric Notebooks
 
-To be added
+To be added.
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayera](https://www.hebcal.com/sedrot/vayera).

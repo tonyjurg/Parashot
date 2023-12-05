@@ -1,9 +1,8 @@
-# Parasha Shemot
+# Parasha Shemot (שְׁמוֹת‎)
 
 ## Reading passages
 
-Torah: Ex. 1:1 - 6:1; Haftarah: 
-Torah: [Ex. 1:1 - 6:1](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.1:1-6:1&options=HNVUG)<br>
+Torah: [Ex. 1:1 - 6:1](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.1:1-6:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: שְׁמוֹת)](https://tikkun.io/#/p/shemot)<br>
 Haftarah: [Isaiah 27:6 - 28:13; Isaiah 29:22-23](https://www.stepbible.org/?q=version=NASB2020|reference=Is.27:6-28:13+Is.29:22-23&options=HNVUG)
 
 ## Summary
@@ -18,4 +17,8 @@ Query | Description
 
 ## Related Text-Fabric Notebooks
 
-To be added
+To be added.
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Shemot](https://www.hebcal.com/sedrot/shemot).

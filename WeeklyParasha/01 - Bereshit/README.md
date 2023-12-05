@@ -1,8 +1,8 @@
-# Parasha Bereshit (בְּרֵאשִׁ֖ית)
+# Parasha Bereshit (בְּרֵאשִׁית)
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUG" target="_blank">Gen. 1:1-6:8</a><br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUG" target="_blank">Gen. 1:1-6:8</a> &nbsp;&nbsp; [(Hebrew: בְּרֵאשִׁית)](https://tikkun.io/#/p/bereshit)<br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.42:5-43:10&options=HNVUG" target="_blank">Isaiah 42:5-43:10</a>
 
 ## Summary
@@ -19,6 +19,10 @@ Query | Description
 ## Related Text-Fabric Notebooks
 
 To be added
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Bereshit](https://www.hebcal.com/sedrot/bereshit).
 
 ## AI generated image
 

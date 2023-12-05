@@ -1,8 +1,8 @@
-# Parasha Vayishlach
+# Parasha Vayishlach (וַיִּשְׁלַח)
 
 ## Reading passages
 
-Torah: [Gen. 32:4 - 36:43](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.32:4-36:43&options=HNVUG)<br>
+Torah: [Gen. 32:4 - 36:43](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.32:4-36:43&options=HNVUG) &nbsp;&nbsp; [(Hebrew: וַיִּשְׁלַח)](https://tikkun.io/#/p/vayishlach)<br>
 Haftarah: [Obadja 1:1-21](https://www.stepbible.org/?q=version=NASB2020|reference=Obad&options=HNVUG)
 
 ## Summary
@@ -17,3 +17,7 @@ Query | Description
 ## Related Text-Fabric Notebooks
 
 To be added
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayishlach](https://www.hebcal.com/sedrot/vayishlach).

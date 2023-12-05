@@ -1,9 +1,9 @@
-# Parasha Chayei-Sarah (שָׂרָה‎ חַיֵּי)
+# Parasha Chayei Sara (שָׂרָה‎ חַיֵּי)
 
 ## Reading passages
 
 Torah: [Gen. 23:1 - 25:18](
-https://www.stepbible.org/?q=version=NASB2020|reference=Gen.23:1-25:18&options=HNVUG)<br>
+https://www.stepbible.org/?q=version=NASB2020|reference=Gen.23:1-25:18&options=HNVUG)  &nbsp;&nbsp; [(Hebrew: שָׂרָה‎ חַיֵּי)](https://tikkun.io/#/p/chayei-sara)<br>
 Haftarah: [I Kings 1:1-31](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.1:1-31&options=HNVUG)
 
 ## Summary
@@ -17,4 +17,8 @@ Query | Description
 
 ## Related Text-Fabric Notebooks
 
-To be added
+To be added.
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Chayei Sara](https://www.hebcal.com/sedrot/Chayei-Sara).

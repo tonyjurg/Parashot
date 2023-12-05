@@ -1,8 +1,8 @@
-# Parasha Vayetzei
+# Parasha Vayetzei (וַיֵּצֵא)
 
 ## Reading passages
 
-Torah: [Gen. 28:10 - 32:3](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:10-32:3&options=HNVUG)<br>
+Torah: [Gen. 28:10 - 32:3](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:10-32:3&options=HNVUG) &nbsp;&nbsp; [(Hebrew: וַיֵּצֵא)](https://tikkun.io/#/p/vayetzei)<br>
 Haftarah: [Hosea 11:7-11;12:1-12;13:1-5](https://www.stepbible.org/?q=version=NASB2020|reference=Hos.11:7-11;12:1-15&options=HNVUG)
 
 ## Summary
@@ -17,5 +17,9 @@ Query | Description
 
 ## Related Text-Fabric Notebooks
 
-To be added
+To be added.
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayetzei](https://www.hebcal.com/sedrot/vayetzei).
 

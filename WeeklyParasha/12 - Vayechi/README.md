@@ -2,7 +2,7 @@
 
 ## Reading passages
 
-Torah: [Gen. 47:28 - 50:26](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.47:28-50:26&options=HNVUG)<br>
+Torah: [Gen. 47:28 - 50:26](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.47:28-50:26&options=HNVUG) &nbsp;&nbsp; [(Hebrew: וַיְחִי)](https://tikkun.io/#/p/vayechi)<br>
 Haftarah: [1 Kings 2:1-12](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.2:1-12&options=HNVUG)
 
 ## Summary
@@ -17,4 +17,8 @@ Query | Description
 
 ## Related Text-Fabric Notebooks
 
-To be added
+To be added.
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayechi](https://www.hebcal.com/sedrot/vayechi).
