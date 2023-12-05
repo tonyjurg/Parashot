@@ -13,7 +13,7 @@ This parasha focuses on the saga of Joseph. It highlights Joseph's tumultuous jo
 
 Query | Description
 --- | ---
-
+[Dotted nota accusivus (Gen 37:12)](https://shebanq.ancient-data.org/hebrew/text?iid=6257&page=1&mr=r&qw=q) | The ETH is dotted, which might (according to Midrash Rabbah) indictes Josephs brothers were feeding themself (instead of the sheep).
 
 ## Related Text-Fabric Notebooks
 
