@@ -15,6 +15,7 @@ Query | Description
 --- | ---
 [and it brought forth](https://shebanq.ancient-data.org/hebrew/text?iid=5623&page=1&mr=r&qw=q) | find first occurrence of וַיֵּצֵ֥א (wayiqtol) - and it brought forth. The first what was brougth forth were the green plants on the earth (Gen. 1:12)
 [dominion of large and small light](https://shebanq.ancient-data.org/hebrew/text?iid=6242&page=1&mr=r&qw=q)| Occurences of מֶמְשֶׁ֣לֶת
+[family stories - Toldot](https://shebanq.ancient-data.org/hebrew/text?iid=6261&page=1&mr=r&qw=q) | Toldot is found first time in Gen. 2:4; telling the family story of heaven and earth.
 
 ## Related Text-Fabric Notebooks
 
