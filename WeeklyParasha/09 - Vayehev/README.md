@@ -17,7 +17,7 @@ Query | Description
 
 ## Related Text-Fabric Notebooks
 
-To be added.
+[Notebook on Vayehev](Vayehev.ipynb)
 
 ## Hebcal
 
