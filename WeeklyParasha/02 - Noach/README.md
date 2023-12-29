@@ -1,4 +1,5 @@
-# Parasha Noach (נֹחַ)
+<span style="float: right;"><sup>Previous parasha: <a href="../01%20-%20Bereshit/README.md#start">Bereshit</a> &nbsp;&nbsp;Next parasha: <a href="../03%20-%20Lekh%20Lekha/README.md#start">Lekh Lekha</a></sup></span>
+# Parasha Noach (נֹחַ) <a name="start"></a> 
 
 ## Reading passages
 
@@ -12,10 +13,14 @@ Parasha Noach ("Noah") centers around the story of Noah and the Great Flood. God
 
 ## Related SHEBANQ queries
 
-Query | Description
---- | ---
-[Find similar constructs like לָֽמֹו](https://shebanq.ancient-data.org/hebrew/queries?goto=5529) | In Genesis 9:26&27 the construct לָֽמֹו is found twice, a preposition combined with the personal suffix מֹו.
-[taking violence (חמס)](https://shebanq.ancient-data.org/hebrew/queries?goto=5616) | Find clauses containing a verb where any subject is taking violence (חמס) as an object (Earth is taking Violence - Gen. 6:11&13).
+Verse | Query | Short description
+--- | --- | ---
+[Gen. 6:11&13](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.6:11,13&options=HNVUG) | [taking violence (חמס)](https://shebanq.ancient-data.org/hebrew/text?iid=5616&page=1&mr=r&qw=q) | Find clauses containing a verb where any subject is taking violence (חמס) as an object (Earth is taking Violence - Gen. 6:11&13).
+[Gen. 9:1&7](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.9:1,7&options=HNVUG) | [be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&page=1&mr=r&qw=q) | Command twice given by God to Noach after the flood
+[Gen. 9:26&27](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.9:26,27&options=HNVUG)  | [Find similar constructs like לָֽמֹו](https://shebanq.ancient-data.org/hebrew/text?iid=5529&page=1&mr=r&qw=q) | In Gen. 9:26&27 the construct לָֽמֹו is found twice, a preposition combined with the personal suffix מֹו. Here for the first time in Torah.
+
+
+
 
 ## Hebcal
 
