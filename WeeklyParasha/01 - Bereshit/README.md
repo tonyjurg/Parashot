@@ -18,6 +18,7 @@ Query | Description
 [family stories - Toldot](https://shebanq.ancient-data.org/hebrew/text?iid=6261&page=1&mr=r&qw=q) | Toldot is found first time in Gen. 2:4; telling the family story of heaven and earth.
 [God speaking (קרא) + prep ל](https://shebanq.ancient-data.org/hebrew/text?iid=6279&page=1&mr=r&qw=q) | Search for paterns like the ones first found in Genesis 1:5,8 and 10 when giving names
 [day one or first day](https://shebanq.ancient-data.org/hebrew/text?iid=6281&page=1&mr=r&qw=q) | Does Gen. 1:5 refer to 'first day' (ordinal) or to 'one day' (cardinal)?
+[be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&page=1&mr=r&qw=q) | Command by God to animals (Gen. 1:22) and mankind, Adam/Eve (Gen. 1:28)
 
 ## Related Text-Fabric Notebooks
 
