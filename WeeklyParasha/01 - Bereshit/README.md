@@ -7,7 +7,7 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.4
 
 ## Summary
 
-Parashat Bereshit ("in beginning" or "in the beginning") is the first portion of the Torah, which recounts the creation of the world in six days, including the formation of humanity, Adam and Eve's placement in the Garden of Eden, and their subsequent expulsion due to disobedience. It also introduces the genealogy of the early generations, highlighting key figures like Adam, Eve, Cain, and Abel.
+Parashat Bereshit, which translates to "in the beginning," is the inaugural portion of the Torah and serves as an introduction to the Biblical narrative. It recounts the majestic creation of the world in six days and culminates on the seventh day with God blessing and sanctifying the Sabbath. The portion further sets the stage for the subsequent narratives of the Torah by describing Adam and Eve's placement in the Garden of Eden and their subsequent expulsion due to disobedience. It also introduces the genealogy of the early generations, highlighting key figures like Adam, Eve, Cain, and Abel.
 
 ## Related SHEBANQ queries
 
