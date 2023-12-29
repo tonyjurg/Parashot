@@ -1,5 +1,5 @@
-# Parasha Bereshit (בְּרֵאשִׁית)
-
+<span style="float: right;"><sup>Next parasha: <a href="../02%20-%20Noach/README.md#start">Noach</a></sup></span>
+# Parasha Bereshit (בְּרֵאשִׁית) <a name="start"></a> 
 ## Reading passages
 
 Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUG" target="_blank">Gen. 1:1-6:8</a> &nbsp;&nbsp; [(Hebrew: בְּרֵאשִׁית)](https://tikkun.io/#/p/bereshit)<br>
