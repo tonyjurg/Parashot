@@ -16,8 +16,8 @@ Query | Description
 [and it brought forth](https://shebanq.ancient-data.org/hebrew/text?iid=5623&page=1&mr=r&qw=q) | find first occurrence of וַיֵּצֵ֥א (wayiqtol) - and it brought forth. The first what was brougth forth were the green plants on the earth (Gen. 1:12)
 [dominion of large and small light](https://shebanq.ancient-data.org/hebrew/text?iid=6242&page=1&mr=r&qw=q)| Occurences of מֶמְשֶׁ֣לֶת
 [family stories - Toldot](https://shebanq.ancient-data.org/hebrew/text?iid=6261&page=1&mr=r&qw=q) | Toldot is found first time in Gen. 2:4; telling the family story of heaven and earth.
-[God speaking (קרא) + prep ל](https://shebanq.ancient-data.org/hebrew/queries?goto=6279) | Search for paterns like the ones first found in Genesis 1:5,8 and 10 when giving names
-[day one or first day](https://shebanq.ancient-data.org/hebrew/queries#) | Does Gen. 1:5 refer to 'first day' (ordinal) or to 'one day' (cardinal)?
+[God speaking (קרא) + prep ל](https://shebanq.ancient-data.org/hebrew/text?iid=6279&page=1&mr=r&qw=q) | Search for paterns like the ones first found in Genesis 1:5,8 and 10 when giving names
+[day one or first day](https://shebanq.ancient-data.org/hebrew/text?iid=6281&page=1&mr=r&qw=q) | Does Gen. 1:5 refer to 'first day' (ordinal) or to 'one day' (cardinal)?
 
 ## Related Text-Fabric Notebooks
 
