@@ -16,6 +16,8 @@ Query | Description
 --- | ---
 [Find similar constructs like לָֽמֹו](https://shebanq.ancient-data.org/hebrew/queries?goto=5529) | In Genesis 9:26&27 the construct לָֽמֹו is found twice, a preposition combined with the personal suffix מֹו.
 [taking violence (חמס)](https://shebanq.ancient-data.org/hebrew/queries?goto=5616) | Find clauses containing a verb where any subject is taking violence (חמס) as an object (Earth is taking Violence - Gen. 6:11&13).
+[be fertile and be many](https://shebanq.ancient-data.org/hebrew/queries?goto=6286) | Command by God to Noach the flood (Gen. 9:1&7)
+
 
 ## Hebcal
 
