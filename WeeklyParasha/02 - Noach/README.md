@@ -12,11 +12,13 @@ Parasha Noach ("Noah") centers around the story of Noah and the Great Flood. God
 
 ## Related SHEBANQ queries
 
-Query | Description
---- | ---
-[Find similar constructs like לָֽמֹו](https://shebanq.ancient-data.org/hebrew/text?iid=5529&page=1&mr=r&qw=q) | In Genesis 9:26&27 the construct לָֽמֹו is found twice, a preposition combined with the personal suffix מֹו.
-[taking violence (חמס)](https://shebanq.ancient-data.org/hebrew/text?iid=5616&page=1&mr=r&qw=q) | Find clauses containing a verb where any subject is taking violence (חמס) as an object (Earth is taking Violence - Gen. 6:11&13).
-[be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&page=1&mr=r&qw=q) | Command by God to Noach the flood (Gen. 9:1&7)
+Verse | Query | Short description
+--- | --- | ---
+Gen. 6:11&13 | [taking violence (חמס)](https://shebanq.ancient-data.org/hebrew/text?iid=5616&page=1&mr=r&qw=q) | Find clauses containing a verb where any subject is taking violence (חמס) as an object (Earth is taking Violence - Gen. 6:11&13).
+Gen. 9:1&7 | [be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&page=1&mr=r&qw=q) | Command twice given by God to Noach after the flood
+Gen. 9:26&2 | [Find similar constructs like לָֽמֹו](https://shebanq.ancient-data.org/hebrew/text?iid=5529&page=1&mr=r&qw=q) | In Gen. 9:26&27 the construct לָֽמֹו is found twice, a preposition combined with the personal suffix מֹו.
+
+
 
 
 ## Hebcal
