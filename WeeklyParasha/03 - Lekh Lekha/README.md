@@ -1,4 +1,4 @@
-<span style="float: right;"><sup>Previous parasha: <a href="../02%20-%20Noach/README.md#start">Noach</a> &nbsp;&nbsp;Next parasha: <a href="../03%20-%20Vayera/README.md#start">Vayera</a></sup></span>
+<span style="float: right;"><sup>Previous parasha: <a href="../02%20-%20Noach/README.md#start">Noach</a> &nbsp;&nbsp;Next parasha: <a href="../04%20-%20Vayera/README.md#start">Vayera</a></sup></span>
 # Parasha Lech Lecha (לֶךְ־לְךָ) <a name="start"></a> 
 
 ## Reading passages
