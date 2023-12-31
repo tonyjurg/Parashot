@@ -1,5 +1,5 @@
 
-<span style="float: right;"><sup>Previous parasha: <a href="../05%20-%20Vayera/README.md#start">Lech Lecha</a> &nbsp;&nbsp;Next parasha: <a href="../06%20-%20Toldot/README.md#start">Toldot</a></sup></span>
+<span style="float: right;"><sup>Previous parasha: <a href="../04%20-%20Vayera/README.md#start">Vayera</a> &nbsp;&nbsp;Next parasha: <a href="../06%20-%20Toldot/README.md#start">Toldot</a></sup></span>
 # Parasha Chayei Sarah (שָׂרָה‎ חַיֵּי) <a name="start"></a>
 
 ## Reading passages
