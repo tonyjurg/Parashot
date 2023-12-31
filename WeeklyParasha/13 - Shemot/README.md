@@ -15,6 +15,7 @@ In the Parshah "Shemot" (Names), the children of Israel multiply in Egypt, leadi
 Verse | Query | Short description
 --- | --- | ---
 Ex. 1:1 | [These are the names](https://shebanq.ancient-data.org/hebrew/text?iid=6284&page=1&mr=r&qw=q) | Find other occurences of the phrase "these are the names"
+Ex. 1:7 | [Be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&page=1&mr=r&qw=q) | The children of Israel became fertile and many(וּבְנֵ֣י יִשְׂרָאֵ֗ל פָּר֧וּ וַֽיִּשְׁרְצ֛וּ וַיִּרְבּ֥וּ). This was fulfilling the command given in Gen. 1:28.
 
 
 ## Related Text-Fabric Notebooks
