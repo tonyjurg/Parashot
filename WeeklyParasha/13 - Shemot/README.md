@@ -12,8 +12,9 @@ In the Parshah "Shemot" (Names), the children of Israel multiply in Egypt, leadi
 
 ## Related SHEBANQ queries
 
-Query | Description
---- | ---
+Verse | Query | Short description
+--- | --- | ---
+Ex. 1:1 | [These are the names](https://shebanq.ancient-data.org/hebrew/text?iid=6284&page=1&mr=r&qw=q) | Find other occurences of the phrase "these are the names"
 
 
 ## Related Text-Fabric Notebooks
