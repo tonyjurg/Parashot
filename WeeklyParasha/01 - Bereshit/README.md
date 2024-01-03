@@ -1,4 +1,4 @@
-<span style="float: right;"><sup>Next parasha: <a href="../02%20-%20Noach/README.md#start">Noach</a></sup></span>
+<span style="float: right;"><sup>Next parasha (#2): <a href="../02%20-%20Noach/README.md#start">Noach</a></sup></span>
 # Parasha Bereshit (בְּרֵאשִׁית) <a name="start"></a> 
 ## Reading passages
 
