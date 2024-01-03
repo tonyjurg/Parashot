@@ -1,6 +1,6 @@
-<span style="float: right;"><sup>Previous parasha: <a href="../06%20-%20Toldot/README.md#start">Toldot</a> &nbsp;&nbsp;Next parasha: <a href="../08%20-%20Vayishlach/README.md#start">Vayishlach</a></sup></span>
+<span style="float: right;"><sup>Previous parasha (#6): <a href="../06%20-%20Toldot/README.md#start">Toldot</a> &nbsp;&nbsp;Next parasha (#8): <a href="../08%20-%20Vayishlach/README.md#start">Vayishlach</a></sup></span>
 
-# Parasha Vayetzei (וַיֵּצֵא) <a name="start"></a>
+# Parasha #7: Vayetzei (וַיֵּצֵא) <a name="start"></a>
 
 ## Reading passages
 
