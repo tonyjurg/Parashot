@@ -1,4 +1,6 @@
-# Parasha Vayishlach (וַיִּשְׁלַח)
+<span style="float: right;"><sup>Previous parasha (#7): <a href="../07%20-%20Vayetzei/README.md#start">Vayetzei</a> &nbsp;&nbsp;Next parasha (#9): <a href="../09%20-%20Vayehev/README.md#start">Vayehev</a></sup></span>
+
+# Parasha #8: Vayishlach (וַיִּשְׁלַח) <a name="start"></a>
 
 ## Reading passages
 
