@@ -28,3 +28,9 @@ To be added.
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Shemot](https://www.hebcal.com/sedrot/shemot).
+
+## AI generated image
+
+<img src="moses_calling_DALL-E.jpg">
+
+Image created by DALL-E.
