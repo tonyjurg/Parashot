@@ -1,4 +1,6 @@
-# Parasha Vayechi (וַיְחִי)
+<span style="float: right;"><sup>Previous parasha (#11): <a href="../10%20-%20Vayigash/README.md#start">Vayigash</a> &nbsp;&nbsp;Next parasha (#13): <a href="../12%20-%20Shemot/README.md#start">Shemot</a></sup></span>
+
+# Parasha Vayechi (וַיְחִי) <a name="start"></a>
 
 ## Reading passages
 
