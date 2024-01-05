@@ -1,4 +1,6 @@
-# Parasha Shemot (שְׁמוֹת‎)
+<span style="float: right;"><sup>Previous parasha (#12): <a href="../12%20-%20Vayechi/README.md#start">Vayechi</a> &nbsp;&nbsp;Next parasha (#14): <a href="../14%20-%20Va'era/README.md#start">Va'era</a></sup></span>
+
+# Parasha Shemot (שְׁמוֹת‎) <a name="start"></a>
 
 ## Reading passages
 
