@@ -15,7 +15,7 @@ Parashat Toldot primarily focuses on the generations of Isaac and Rebekah. It re
 
 Verse | Query | Description
 --- | --- | ---
-[Genesis 29:6](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.29:6&options=HNVUG) | [shalom as greeting](https://shebanq.ancient-data.org/hebrew/queries?goto=3224) | Jacob asks the shepherd about the well being of Laban, using the word 'shalom'.
+[Genesis 29:6](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.29:6&options=HNVUG) | [shalom as greeting](https://shebanq.ancient-data.org/hebrew/queries?goto=3224) | Jacob asks the shepherd about the well-being of Laban, using the word 'shalom'.
 
 ## Related Text-Fabric Notebooks
 
