@@ -14,8 +14,8 @@ Parashat Chayei-Sarah ("life of Sarah") begins with the death of Sarah and Abrah
 
 ## Related SHEBANQ queries
 
-Query | Description
---- | ---
+Verse | Query | Description
+--- | --- | ---
 
 ## Related Text-Fabric Notebooks
 
