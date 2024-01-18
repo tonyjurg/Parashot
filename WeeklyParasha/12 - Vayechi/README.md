@@ -13,8 +13,8 @@ Parasha Vayechi ("and he lived") is the final portion of the Book of Genesis in 
 
 ## Related SHEBANQ queries
 
-Query | Description
---- | ---
+Verse | Query | Description
+--- | --- | ---
 
 
 ## Related Text-Fabric Notebooks
