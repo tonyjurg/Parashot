@@ -13,8 +13,8 @@ Parasha Vayigash ("and he drew near") is the eleventh portion in the Book of Gen
 
 ## Related SHEBANQ queries
 
-Query | Description
---- | ---
+Verse | Query | Description
+--- | --- | ---
 
 
 ## Related Text-Fabric Notebooks
