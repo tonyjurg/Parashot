@@ -1,4 +1,4 @@
-# Parasha Bo <a name="start"></a>
+# Parasha Bo (בֹּא) <a name="start"></a>
 
 ## Reading passages
 
@@ -7,8 +7,8 @@ Haftarah:
 
 ## Related SHEBANQ queries
 
-Query | Description
---- | ---
+Verse | Query | Description
+--- | --- | ---
 
 
 ## Related Text-Fabric Notebooks
