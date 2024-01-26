@@ -1,8 +1,9 @@
-# Parasha Beshalach
+# Parasha Beshalach (When he let go)
 
 ## Reading passages
 
-Torah: Ex. 13:17 - 17:16; Haftarah: Judges 4:4-5:31.
+Torah: Ex. 13:17 - 17:16
+Haftarah: Judges 4:4-5:31.
 
 ## Related SHEBANQ queries
 

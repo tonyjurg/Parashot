@@ -1,8 +1,9 @@
-# Parasha Bo
+# Parasha Va'era
 
 ## Reading passages
 
-Torah: Ex. 10:1 - 13:16; Haftarah: 
+Torah: Ex. 6:2 - 9:35; 
+Haftarah: 
 
 ## Related SHEBANQ queries
 
