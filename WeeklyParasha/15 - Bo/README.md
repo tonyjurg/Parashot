@@ -1,4 +1,4 @@
-# Parasha Bo
+# Parasha Bo <a name="start"></a>
 
 ## Reading passages
 
