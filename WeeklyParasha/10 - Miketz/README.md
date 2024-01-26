@@ -14,8 +14,8 @@ Parasha Miketz ("at the end") continuing the story of Joseph in Egypt. It recoun
 
 ## Related SHEBANQ queries
 
-Query | Description
---- | ---
+Verse | Query | Description
+--- | --- | ---
 
 
 ## Related Text-Fabric Notebooks

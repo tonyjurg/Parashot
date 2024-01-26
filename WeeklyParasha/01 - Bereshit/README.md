@@ -13,7 +13,8 @@ Parashat Bereshit, which translates to "in the beginning," is the inaugural port
 
 Verse | Query | Short description
 --- | --- | ---
-[Gen. 1:1](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.1:1&options=HNVUG) | [subject of בָּרָ֣א](https://shebanq.ancient-data.org/hebrew/text?iid=6282&page=1&mr=r&qw=q) | How is the word בָּרָ֣א being used? Who is creating?
+[Gen. 1:1](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.1:1&options=HNVUG) | [Who is subject of בָּרָ֣א](https://shebanq.ancient-data.org/hebrew/text?iid=6282&page=1&mr=r&qw=q) | How is the word בָּרָ֣א being used? Who is creating something?
+[Gen. 1:4](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.1:4&options=HNVUG) | [Making separation - בדל hiphil](https://shebanq.ancient-data.org/hebrew/text?iid=6299&page=1&mr=r&qw=q) | This verse describes the first act of seperating. Where else. What is separated?
 [Gen. 1:5](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.1:5&options=HNVUG) | [day one or first day](https://shebanq.ancient-data.org/hebrew/text?iid=6281&page=1&mr=r&qw=q) | Does Gen. 1:5 refer to 'first day' (ordinal) or to 'one day' (cardinal)?
 [Gen. 1:5,8&10](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.1:5,8,10&options=HNVUG) | [God calling (קרא) + prep ל](https://shebanq.ancient-data.org/hebrew/text?iid=6279&page=1&mr=r&qw=q) | Search for paterns like the ones first found in Genesis 1:5,8 and 10 when giving names
 [Gen. 1:12](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.1:12&options=HNVUG) | [and it brought forth](https://shebanq.ancient-data.org/hebrew/text?iid=5623&page=1&mr=r&qw=q) | find first occurrence of וַיֵּצֵ֥א (wayiqtol) - and it brought forth. The first what was brougth forth were the green plants on the earth

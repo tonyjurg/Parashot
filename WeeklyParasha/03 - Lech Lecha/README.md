@@ -11,8 +11,8 @@ Parashat Lekh Lekha ("go for yourself") marks the beginning of Abraham's journey
 
 ## Related SHEBANQ queries
 
-Query | Description
---- | ---
+Verse | Query | Description
+--- | --- | ---
 
 ## Related Text-Fabric Notebooks
 
