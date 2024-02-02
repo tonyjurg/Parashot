@@ -1,3 +1,5 @@
+<span style="float: right;"><sup>Previous parasha (#15): <a href="../15%20-%20Bo/README.md#start">Bo</a> &nbsp;&nbsp;Next parasha (#17): <a href="../17%20-%20Yitroh/README.md#start">Yitro</a></sup></span>
+
 # Parasha Beshalach (When he let go)
 
 ## Reading passages
