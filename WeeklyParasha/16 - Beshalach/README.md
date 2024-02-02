@@ -6,6 +6,7 @@
 ## Reading passages
 
 Torah: [Ex. 13:17 - 17:16](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.13:17-17:16&options=HNVUG)
+
 Haftarah: Judges 4:4-5:31.
 
 ## Related SHEBANQ queries
