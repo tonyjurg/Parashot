@@ -17,3 +17,7 @@ Verse | Query | Description
 ## Related Text-Fabric Notebooks
 
 To be added
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Bo](https://www.hebcal.com/sedrot/bo).
