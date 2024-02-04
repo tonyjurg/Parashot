@@ -16,7 +16,9 @@ Verse | Query | Description
 
 ## Related Text-Fabric Notebooks
 
-To be added
+GitHub | NBviewer | Short description
+---|---|---
+[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/18%20-%20Mishpatim/hapax.ipynb)| find unique words (*hapax legomena*)
 
 ## Hebcal
 
