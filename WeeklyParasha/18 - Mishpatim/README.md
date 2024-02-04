@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: Ex. 21:1 - 24:18;
+Torah: Ex. 21:1 - 24:18; &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תְּרוּמָה)](https://tikkun.io/#/p/mishpatim)<br>
 
 Haftarah: 
 
