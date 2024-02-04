@@ -4,7 +4,8 @@
 
 ## Reading passages
 
-Torah: Ex. 6:2 - 9:35; 
+Torah: [Ex. 6:2 - 9:35](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.6:2-9:35&options=HNVUG)
+
 Haftarah: 
 
 ## Related SHEBANQ queries
