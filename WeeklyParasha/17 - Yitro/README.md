@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: [Ex. 18:1 - 20:23](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.18:1-20:23&options=HNVUG)
+Torah: [Ex. 18:1 - 20:23](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.18:1-20:23&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת יִתְרוֹ)](https://tikkun.io/#/p/yitro)<br>
 
 Haftarah: 
 
