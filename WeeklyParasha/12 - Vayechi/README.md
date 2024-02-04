@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: [Gen. 47:28 - 50:26](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.47:28-50:26&options=HNVUG) &nbsp;&nbsp; [(Hebrew: וַיְחִי)](https://tikkun.io/#/p/vayechi)<br>
+Torah: [Gen. 47:28 - 50:26](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.47:28-50:26&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיְחִי)](https://tikkun.io/#/p/vayechi)<br>
 Haftarah: [1 Kings 2:1-12](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.2:1-12&options=HNVUG)
 
 ## Summary
