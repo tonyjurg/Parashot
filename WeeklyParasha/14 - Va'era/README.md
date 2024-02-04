@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: [Ex. 6:2 - 9:35](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.6:2-9:35&options=HNVUG)
+Torah: [Ex. 6:2 - 9:35](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.6:2-9:35&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וָאֵרָא)](https://tikkun.io/#/p/vaera)<br>
 
 Haftarah: 
 
