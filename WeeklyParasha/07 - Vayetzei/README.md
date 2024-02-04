@@ -13,8 +13,8 @@ Parasha Vayetzei, tells the story of Jacob's journey to Haran, where he encounte
 
 ## Related SHEBANQ queries
 
-Query | Description
---- | ---
+Verse | Query | Description
+--- | --- | ---
 
 
 ## Related Text-Fabric Notebooks
