@@ -4,7 +4,8 @@
 
 ## Reading passages
 
-Torah: Ex. 10:1 - 13:16; 
+Torah: [Ex. 10:1 - 13:16](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.10:1-13:16&options=HNVUG)
+
 Haftarah: 
 
 ## Related SHEBANQ queries
