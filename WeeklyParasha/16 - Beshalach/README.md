@@ -18,3 +18,7 @@ Ex. 15:2 | ['some one/thing' did 'became' somebody's rescue](https://shebanq.anc
 ## Related Text-Fabric Notebooks
 
 To be added
+
+## Hebcal
+
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Beshalach](https://www.hebcal.com/sedrot/beshalach).
