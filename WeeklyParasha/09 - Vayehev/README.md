@@ -23,4 +23,4 @@ Gen. 37:12 | [Dotted nota accusivus](https://shebanq.ancient-data.org/hebrew/tex
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayehev](https://www.hebcal.com/sedrot/vayeshev).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayeshev](https://www.hebcal.com/sedrot/vayeshev).
