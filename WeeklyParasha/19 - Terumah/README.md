@@ -5,7 +5,7 @@
 
 ## Reading passages
 
-Torah: [Ex. 21:1 - 24:18](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.21:1-24:18&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תְּרוּמָה)](https://tikkun.io/#/p/mishpatim)<br>
+Torah: [Ex. 25:1 - 27:19](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.25:1-27:19&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תְּרוּמָה)](https://tikkun.io/#/p/terumah)<br>
 
 Haftarah: 
 
@@ -21,4 +21,4 @@ To be added
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Mishpatim](https://www.hebcal.com/sedrot/mispatim).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Terumah](https://www.hebcal.com/sedrot/terumah).
