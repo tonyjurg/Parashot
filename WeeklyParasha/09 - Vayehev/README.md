@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: [Gen. 37:1 - 40:23](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.37:1-40:23&options=HNVUG) &nbsp;&nbsp; [(Hebrew: וַיֵּשֶׁב)](https://tikkun.io/#/p/vayeshev)<br>
+Torah: [Gen. 37:1 - 40:23](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.37:1-40:23&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיֵּשֶׁב)](https://tikkun.io/#/p/vayeshev)<br>
 Haftarah: [Amos 2:6-3:8](https://www.stepbible.org/?q=version=NASB2020|reference=Amos.2:6-3:8&options=HNVUG)
 
 ## Summary
