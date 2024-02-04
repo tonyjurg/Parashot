@@ -3,7 +3,7 @@
 
 ## Reading passages
 
-Torah: [Gen. 18:1- 22:24](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.18:1-22:24&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פרשת וַיֵּרָא)](https://tikkun.io/#/p/vayera)<br>
+Torah: [Gen. 18:1- 22:24](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.18:1-22:24&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיֵּרָא)](https://tikkun.io/#/p/vayera)<br>
 Haftarah: [II Kings 4:1-37](https://www.stepbible.org/?q=version=NASB2020|reference=2Kgs.4:1-37&options=HNVUG)
 
 ## Summary
