@@ -1,17 +1,17 @@
-[Ex. 27v20 - 30v10]
-<span style="float: right;"><sup>Previous parasha (#18): <a href="../17%20-%20Yitro/README.md#start">Yitro</a> &nbsp;&nbsp;Next parasha (#20): <a href="../20%20-%Tetzaveh/README.md#start">Tetzaveh</a></sup></span>
 
-# Parasha #20: Tetzaveh (?????????)
+<span style="float: right;"><sup>Previous parasha (#19): <a href="../19%20-%20Terumah/README.md#start">Terumah</a> &nbsp;&nbsp;Next parasha (#21): <a href="../21%20-%XX/README.md#start">XX</a></sup></span>
+
+# Parasha #20: Tetzaveh (תְּצַוֶּה)
 
 ## Reading passages
 
-Torah: [Ex. 25:1 - 27:19](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.25:1-27:19&options=HNVUG) &nbsp;&nbsp; [(Hebrew: ????????? ?????????)](https://tikkun.io/#/p/terumah)<br>
+Torah: [Ex. 27:20 - 30:10](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.27:20-30:10&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תְּצַוֶּה)](https://tikkun.io/#/p/tetzaveh)<br>
 
 Haftarah: 
 
 ## Related SHEBANQ queries
 
-Verse | Query | Description
+Verse | Query | Short description
 --- | --- | --- 
 
 
@@ -21,4 +21,4 @@ To be added
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Terumah](https://www.hebcal.com/sedrot/terumah).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Tetzaveh](https://www.hebcal.com/sedrot/tetzaveh).
