@@ -1,6 +1,6 @@
 <span style="float: right;"><sup>Previous parasha (#17): <a href="../17%20-%20Yitro/README.md#start">Yitro</a> &nbsp;&nbsp;Next parasha (#19): <a href="../19%20-%20Terumah/README.md#start">Terumah</a></sup></span>
 
-# Parasha #19: Mishpatim (מִּשְׁפָּטִים)
+# Parasha #18: Mishpatim (מִּשְׁפָּטִים)
 
 ## Reading passages
 
