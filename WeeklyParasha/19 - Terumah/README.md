@@ -1,4 +1,4 @@
-<span style="float: right;"><sup>Previous parasha (#18): <a href="../17%20-%20Yitro/README.md#start">Yitro</a> &nbsp;&nbsp;Next parasha (#19): <a href="../19%20-%20Terumah/README.md#start">Terumah</a></sup></span>
+<span style="float: right;"><sup>Previous parasha (#18): <a href="../17%20-%20Yitro/README.md#start">Yitro</a> &nbsp;&nbsp;Next parasha (#20): <a href="../20%20-%Tetzaveh/README.md#start">Tetzaveh</a></sup></span>
 
 # Parasha #19: Terumah (תְּרוּמָה)
 
