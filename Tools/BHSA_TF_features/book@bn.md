@@ -1,0 +1,24 @@
+Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/etcbc/BHSA/tree/master/tf) (version 2021)
+# Feature: book@bn
+Data type|Feature type|Available for nodes
+---|---|---
+[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`book`](featurebynodetype.md#book) 
+## Description
+✅ book name in bengali (বাংলা)
+## Feature Values
+### Frequency for nodetype [book](featurebynodetype.md#book)
+Value|Occurences
+---|---
+আদিপুস্তক|1
+আমোস|1
+ইসাইয়া|1
+উপদেশক|1
+এজরা|1
+এজেকিয়েল|1
+এস্থার|1
+ওবাদিয়া|1
+গণনা_পুস্তক|1
+জাখারিয়া|1
+ 
+
+Created on Feb. 04, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
