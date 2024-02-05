@@ -10,7 +10,7 @@ Haftarah:
 
 ## Related SHEBANQ queries
 
-Verse | Query | Description
+Verse | Query | Short description
 --- | --- | --- 
 Ex. 21:1 | [Put before them](https://shebanq.ancient-data.org/hebrew/text?iid=6342&page=1&mr=r&qw=q) | How is the תָּשִׂ֖ים לִפְנֵיהֶֽם used elsewhere?
 
