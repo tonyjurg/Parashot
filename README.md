@@ -5,5 +5,9 @@ Digital Humanities for the weekly Parasha (Torah portion of the week)
 
 Reading the weekly parasha: [STEP bible](https://www.stepbible.org/html/parashot.html).
 
+# Hebrew Grammar
+
+A free online grammar of Biblical Hebrew is available at [unfoldingWord Hebrew Grammar](https://uhg.readthedocs.io/en/latest/front.html).
+
 <img src="images/ReadingTroughTheLensOfTenach.png">
 AI generated image with prompt 'Reading trough the Lens of Tenach"
