@@ -12,6 +12,7 @@ Haftarah:
 
 Verse | Query | Description
 --- | --- | ---
+Ex. 12:14,17 | [6558](https://shebanq.ancient-data.org/hebrew/text?iid=6558&page=1&mr=r&qw=q) | 'on the same day'
 
 
 ## Related Text-Fabric Notebooks
