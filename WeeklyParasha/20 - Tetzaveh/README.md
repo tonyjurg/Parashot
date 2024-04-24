@@ -1,5 +1,5 @@
 
-<span style="float: right;"><sup>Previous parasha (#19): <a href="../19%20-%20Terumah/README.md#start">Terumah</a> &nbsp;&nbsp;Next parasha (#21): <a href="../21%20-%XX/README.md#start">XX</a></sup></span>
+<sup>Previous parasha (#19): <a href="../19%20-%20Terumah/README.md#start">Terumah</a> &nbsp;&nbsp;Next parasha (#21): <a href="../21%20-%XX/README.md#start">XX</a></sup>
 
 # Parasha #20: Tetzaveh (תְּצַוֶּה)
 
