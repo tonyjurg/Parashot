@@ -16,12 +16,12 @@ In the Parshah "Shemot" (Names), the children of Israel multiply in Egypt, leadi
 
 Verse | Query | Short description
 --- | --- | ---
-Ex. 1:1 | [These are the names](https://shebanq.ancient-data.org/hebrew/text?iid=6284&version=2021&page=1&mr=r&qw=q) | Find other occurences of the phrase "these are the names"
-Ex. 1:7 | [Be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q) | The children of Israel became fertile and many. This was fulfilling the command given in Gen. 1:28.
-Ex. 1:10 | [Let us act wisely](https://shebanq.ancient-data.org/hebrew/text?iid=6285&version=2021&page=1&mr=r&qw=q) | The Pharao wanted the people to 'act wisely'. Where else is this verb used?
-Ex. 2:2 | [A 'tov' child](https://shebanq.ancient-data.org/hebrew/text?iid=6289&version=2021&page=1&mr=r&qw=q) |  The mother of Moses considered the child טֹוב. What else is considered טֹוב ?
-Ex. 2:14 | [Commander and judge](https://shebanq.ancient-data.org/hebrew/text?iid=6318&version=2021&page=1&mr=r&qw=q) | The phrase שַׂ֤ר וְשֹׁפֵט֙ forms a hendiadys, saying one thing using two likewise words.
-Ex. 2:24 | [The groaning of the people](https://shebanq.ancient-data.org/hebrew/text?iid=6290&version=2021&page=1&mr=r&qw=q) | God heard the groaning of the people in Egypt. Where else is groaning found?
+[Ex. 1:1](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:1&options=HNVUG) | [These are the names](https://shebanq.ancient-data.org/hebrew/text?iid=6284&version=2021&page=1&mr=r&qw=q) | Find other occurences of the phrase "these are the names"
+[Ex. 1:7](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:7&options=HNVUG) | [Be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q) | The children of Israel became fertile and many. This was fulfilling the command given in Gen. 1:28.
+[Ex. 1:10](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:10&options=HNVUG) | [Let us act wisely](https://shebanq.ancient-data.org/hebrew/text?iid=6285&version=2021&page=1&mr=r&qw=q) | The Pharao wanted the people to 'act wisely'. Where else is this verb used?
+[Ex. 2:2](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:2&options=HNVUG) | [A 'tov' child](https://shebanq.ancient-data.org/hebrew/text?iid=6289&version=2021&page=1&mr=r&qw=q) |  The mother of Moses considered the child טֹוב. What else is considered טֹוב ?
+[Ex. 2:14](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:14&options=HNVUG) | [Commander and judge](https://shebanq.ancient-data.org/hebrew/text?iid=6318&version=2021&page=1&mr=r&qw=q) | The phrase שַׂ֤ר וְשֹׁפֵט֙ forms a hendiadys, saying one thing using two likewise words.
+[Ex. 2:24](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:24&options=HNVUG) | [The groaning of the people](https://shebanq.ancient-data.org/hebrew/text?iid=6290&version=2021&page=1&mr=r&qw=q) | God heard the groaning of the people in Egypt. Where else is groaning found?
 
 
 ## Related Text-Fabric Notebooks
