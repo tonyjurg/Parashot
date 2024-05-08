@@ -15,7 +15,7 @@ Parasha Vayeshev is the ninth weekly Torah portion in the annual Jewish cycle of
 
 Verse | Query | Description
 --- | --- | ---
-Gen. 37:12 | [Dotted nota accusivus](https://shebanq.ancient-data.org/hebrew/text?iid=6257&version=2021&page=1&mr=r&qw=q) | The ETH is dotted, which might (according to Midrash Rabbah) indictes Josephs brothers were feeding themself (instead of the sheep).
+[Gen. 37:12](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.37:12&options=HNVUG) | [Dotted nota accusivus](https://shebanq.ancient-data.org/hebrew/text?iid=6257&version=2021&page=1&mr=r&qw=q) | The ETH is dotted, which might (according to Midrash Rabbah) indictes Josephs brothers were feeding themself (instead of the sheep).
 
 ## Related Text-Fabric Notebooks
 
