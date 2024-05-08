@@ -1,4 +1,4 @@
-<sup>Previous parasha (#39): <a href="../39%20-%20Chukat/README.md#start">Balak</a> &nbsp;&nbsp;Next parasha (#41): <a href="../41%20-%20Pinchas/README.md#start">Pinchas</a></sup>
+<sup>Previous parasha (#39): <a href="../39%20-%20Chukat/README.md#start">Chukat</a> &nbsp;&nbsp;Next parasha (#41): <a href="../41%20-%20Pinchas/README.md#start">Pinchas</a></sup>
 
 # Parasha #40: Balak (בָּלָק)
 
