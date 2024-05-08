@@ -15,7 +15,7 @@ This parasha recounts Jacob's encounter with his estranged brother Esau. It high
 
 Verse | Query | Short description
 --- | --- | ---
-Gen. 35:11  | [be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&page=1&mr=r&qw=q) | Command by God to Jacob after returning to Bethel.
+Gen. 35:11  | [be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q) | Command by God to Jacob after returning to Bethel.
 
 ## Related Text-Fabric Notebooks
 
