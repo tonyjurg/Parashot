@@ -14,7 +14,7 @@ Parashat Vayera ("and He appeared") continues the narrative of Abraham, focusing
 
 Verse | Query | Short description
 --- | --- | ---
-[Gen. 18:27](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.18:27&options=HNVUG) | [Dust and ashes](https://shebanq.ancient-data.org/hebrew/queries?goto=5556&version=2021&page=1&mr=r&qw=q) | The combination of 'dust and ashes' (עָפָר and אֵפֶר) is found first in Gen. 18:27. Where else?
+[Gen. 18:27](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.18:27&options=HNVUG) | [Dust and ashes](https://shebanq.ancient-data.org/hebrew/text?iid=5556&version=2021&page=1&mr=r&qw=q) | The combination of 'dust and ashes' (עָפָר and אֵפֶר) is found first in Gen. 18:27. Where else?
 [Gen. 21:22](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.21:22&options=HNVUG) | [It was in that time](https://shebanq.ancient-data.org/hebrew/text?iid=5997&version=2021&page=1&mr=r&qw=q) |  In Genesis 21:22 we have the first instance of the phrase וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא (it was in that time). This query finds all instances of this phrase in the TeNaCH. 
 
 
