@@ -6,7 +6,7 @@
 
 Torah: [Ex. 6:2 - 9:35](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.6:2-9:35&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וָאֵרָא)](https://tikkun.io/#/p/vaera)<br>
 
-Haftarah: 
+Haftarah: [Ez. 28:25-29:21](https://www.stepbible.org/?q=version=NASB2020|reference=Ez.28:25-29:21&options=HNVUG)
 
 ## Related SHEBANQ queries
 
