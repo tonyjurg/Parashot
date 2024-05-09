@@ -7,6 +7,10 @@
 Torah: [Ex. 10:1 - 13:16](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.10:1-13:16&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בֹּא)](https://tikkun.io/#/p/bo)<br>
 Haftarah: [Jer. 46:13-28](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.46:13-28&options=HNVUG)
 
+## Summary
+
+To be added
+
 ## Related SHEBANQ queries
 
 Verse | Query | Description
