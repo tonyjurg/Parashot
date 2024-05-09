@@ -9,7 +9,7 @@ Haftarah: [Hosea 11:7-11;12:1-12;13:1-5](https://www.stepbible.org/?q=version=NA
 
 ## Summary
 
-Parasha Vayetzei, tells the story of Jacob's journey to Haran, where he encounters God in a dream and eventually marries Leah and Rachel.
+Parashat Vayetzei recounts the journey of Jacob as he flees from Esau's wrath and travels to Haran, where he encounters God in a dream at Bethel. Here, God reiterates the Abrahamic promises of land and descendants. Jacob then serves Laban for fourteen years to marry his daughters Leah and Rachel, amidst family deceptions and his growing prosperity through livestock, which sets the stage for his eventual return to Canaan.
 
 ## Related SHEBANQ queries
 
