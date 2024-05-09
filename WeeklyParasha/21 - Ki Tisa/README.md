@@ -7,7 +7,7 @@
 Torah: [Ex. 30:11 - 34:35](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.34:35-34:35&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תְּצַוֶּה)](https://tikkun.io/#/p/tetzaveh)<br>
 
 Haftarah: 
-1 Kings 18:1-39
+[1 Kings 18:1-39](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.18:1-39&options=HNVUG)
 
 
 ## Related SHEBANQ queries
