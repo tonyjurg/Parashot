@@ -6,10 +6,12 @@
 
 Torah: [Num. 22:2- 25:9](https://www.stepbible.org/?q=version=NASB2020|reference=Num.22:2-25:9&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בָּלָק
 )](https://tikkun.io/#/p/balak)<br>
-
 Haftarah: 
 [Micah 5:6-6:8](https://www.stepbible.org/?q=version=NASB2020|reference=Mic.5:6-6:8&options=HNVUG)
 
+## Summary
+
+To be added.
 
 ## Related SHEBANQ queries
 
