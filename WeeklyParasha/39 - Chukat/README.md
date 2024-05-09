@@ -5,10 +5,12 @@
 ## Reading passages
 
 Torah: [Num. 19:1- 22:1](https://www.stepbible.org/?q=version=NASB2020|reference=Num.19:1-22:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת חֻקַּת)](https://tikkun.io/#/p/chukat)<br>
-
 Haftarah: 
 [Judges 11:1-33](https://www.stepbible.org/?q=version=NASB2020|reference=Jud.11:1-33&options=HNVUG)
 
+## Summary
+
+To be added.
 
 ## Related SHEBANQ queries
 
