@@ -6,7 +6,7 @@
 ## Reading passages
 
 Torah: [Ex. 13:17 - 17:16](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.13:17-17:16&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּשַׁלַּח)](https://tikkun.io/#/p/beshalach)<br>
-Haftarah: [Jud. 4:4-5:31](https://www.stepbible.org/?q=version=NASB2020|reference=Jud.4:4-5:31&options=HNVUG).
+Haftarah: [Judges 4:4-5:31](https://www.stepbible.org/?q=version=NASB2020|reference=Judg.4:4-5:31&options=HNVUG).
 
 ## Related SHEBANQ queries
 
