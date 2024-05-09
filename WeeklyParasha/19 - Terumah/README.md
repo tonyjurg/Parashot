@@ -5,8 +5,11 @@
 ## Reading passages
 
 Torah: [Ex. 25:1 - 27:19](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.25:1-27:19&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תְּרוּמָה)](https://tikkun.io/#/p/terumah)<br>
-
 Haftarah: 
+
+## Summary
+
+To be added.
 
 ## Related SHEBANQ queries
 
