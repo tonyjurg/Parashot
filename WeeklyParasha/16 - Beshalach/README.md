@@ -1,12 +1,11 @@
 <span style="float: right;"><sup>Previous parasha (#15): <a href="../15%20-%20Bo/README.md#start">Bo</a> &nbsp;&nbsp;Next parasha (#17): <a href="../17%20-%20Yitro/README.md#start">Yitro</a></sup></span>
 
 # Parasha #16: Beshalach (בְּשַׁלַּח)
-(When he let go)
+"When he let go"
 
 ## Reading passages
 
 Torah: [Ex. 13:17 - 17:16](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.13:17-17:16&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּשַׁלַּח)](https://tikkun.io/#/p/beshalach)<br>
-
 Haftarah: [Jud. 4:4-5:31](https://www.stepbible.org/?q=version=NASB2020|reference=Jud.4:4-5:31&options=HNVUG).
 
 ## Related SHEBANQ queries
