@@ -9,7 +9,7 @@ Haftarah: [Obadja 1:1-21](https://www.stepbible.org/?q=version=NASB2020|referenc
 
 ## Summary
 
-This parasha recounts Jacob's encounter with his estranged brother Esau. It highlights their eventual reconciliation and the renaming of Jacob to Israel, emphasizing themes of forgiveness and transformation in the face of past conflicts.
+In Parashat Vayishlach, Jacob prepares to meet Esau after years apart, dividing his family and possessions into two camps as a strategic precaution and wrestling with an angel, where he earns the name Israel. The reunion with Esau is unexpectedly peaceful, contrasting sharply with the subsequent violent episode where Jacob’s daughter, Dinah, is dishounoured in Shechem, leading to her brothers Simeon and Levi's bloody vengeance against the city of Shechem. The portion concludes with the death of Rachel during childbirth and the death of Isaac.
 
 ## Related SHEBANQ queries
 
