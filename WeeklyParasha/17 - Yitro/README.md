@@ -5,8 +5,7 @@
 ## Reading passages
 
 Torah: [Ex. 18:1 - 20:23](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.18:1-20:23&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת יִתְרוֹ)](https://tikkun.io/#/p/yitro)<br>
-
-Haftarah (Ashkenazim): [Isaiah 6:1-7:6, 9:5-6](https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-7;9:5-6&options=HNVUG)
+Haftarah (Ashkenazim): [Isaiah 6:1-7:6, 9:5-6](https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-7;9:5-6&options=HNVUG)<br>
 Haftarah (Sephardim): [Isaiah 6:1-13](https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-13&options=HNVUG)
 
 ## Related SHEBANQ queries
