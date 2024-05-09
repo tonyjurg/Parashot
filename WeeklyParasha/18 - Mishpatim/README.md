@@ -7,6 +7,10 @@
 Torah: [Ex. 21:1 - 24:18](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.21:1-24:18&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת מִּשְׁפָּטִים)](https://tikkun.io/#/p/mishpatim)<br>
 Haftarah: [Jeremiah 34:8-22, 33:25-26](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.34:8-22;33:25-26&options=HNVUG)
 
+## Summary
+
+To be added.
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
