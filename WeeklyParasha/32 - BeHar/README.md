@@ -16,7 +16,8 @@ To be added.
 
 Verse | Query | Short description
 --- | --- | --- 
-Lev. 25/27 |[Year of Jubilee](https://shebanq.ancient-data.org/hebrew/text?iid=6637&page=1&mr=r&qw=q) | Where is the word יֹובֵל used?
+Lev. 25/27 | [Year of Jubilee](https://shebanq.ancient-data.org/hebrew/text?iid=6637&page=1&mr=r&qw=q) | Where is the word יֹובֵל used?
+Lev. 25/27 | [What is sold?](https://shebanq.ancient-data.org/hebrew/text?iid=6638&page=1&mr=r&qw=q) | Examine ממכרת (hapax legomenom) and מִמְכַּ֥ר.
 
 
 ## Related Text-Fabric Notebooks
