@@ -16,7 +16,7 @@ Parashat BeHar outlines the laws concerning the Sabbatical ([שׁמטה](https:/
 
 Verse | Query | Short description
 --- | --- | --- 
-[Lev. 25:1](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.25:1&options=HNVUG) | [Where else BeHar?](https://shebanq.ancient-data.org/hebrew/text?iid=6639&page=1&mr=r&qw=q) | Where else are God and Mozes on a/the mountain?
+[Lev. 25:1](https://www.stepbible.org/?q=version=NASB2020\|reference=Lev.25:1&options=HNVUG) | [Where else BeHar?](https://shebanq.ancient-data.org/hebrew/text?iid=6639&page=1&mr=r&qw=q) | Where else are God and Mozes on a/the mountain?
 Lev. 25/27 | [Year of Jubilee](https://shebanq.ancient-data.org/hebrew/text?iid=6637&page=1&mr=r&qw=q) | Where is the word יֹובֵל used?
 Lev. 25/27 | [What is sold?](https://shebanq.ancient-data.org/hebrew/text?iid=6638&page=1&mr=r&qw=q) | Examine ממכרת (*hapax legomenom*) and מִמְכַּ֥ר.
 
