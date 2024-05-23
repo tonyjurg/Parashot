@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-To be added.
+Parashat BeHar outlines the laws concerning the Sabbatical (Shemitah) and Jubilee (Yovel) years, emphasizing the importance of rest for the land and the release of slaves and debts. It details how the land must be left fallow every seventh year, and every fiftieth year, properties are to be returned to their original owners, symbolizing economic reset and social justice. The parasha underscores the principles of faith, community support, and reliance on God's provision.
 
 ## Related SHEBANQ queries
 
