@@ -1,6 +1,6 @@
 <sup>Previous parasha (#31): <a href="../31%20-%20Emor/README.md#start">Emor</a> &nbsp;&nbsp;Next parasha (#33): <a href="../33%20-%20Bechukotai/README.md#start">Bechukotai</a></sup>
 
-# Parasha #32: Behar (בְּהַר)
+# Parasha #32: BeHar (בְּהַר)
 
 ## Reading passages
 
@@ -16,6 +16,7 @@ To be added.
 
 Verse | Query | Short description
 --- | --- | --- 
+Lev. 25/27 |[Year of Jubilee](https://shebanq.ancient-data.org/hebrew/text?iid=6637&page=1&mr=r&qw=q) | Where is the word יֹובֵל used?
 
 
 ## Related Text-Fabric Notebooks
