@@ -5,7 +5,7 @@
 ## Reading passages
 
 Torah: [Ex. 25:1 - 27:19](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.25:1-27:19&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תְּרוּמָה)](https://tikkun.io/#/p/terumah)<br>
-Haftarah: 
+Haftarah: [I Kings 5:26 - 6:13](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.5:26-6:13&options=HNVUG)
 
 ## Summary
 
