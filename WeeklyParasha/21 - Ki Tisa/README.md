@@ -8,6 +8,9 @@ Torah: [Ex. 30:11 - 34:35](https://www.stepbible.org/?q=version=NASB2020|referen
 Haftarah: 
 [1 Kings 18:1-39](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.18:1-39&options=HNVUG)
 
+## Summary
+
+To be added.
 
 ## Related SHEBANQ queries
 
