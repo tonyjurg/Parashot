@@ -6,7 +6,7 @@
 ## Reading passages
 
 Torah: [Ex. 27:20 - 30:10](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.27:20-30:10&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תְּצַוֶּה)](https://tikkun.io/#/p/tetzaveh)<br>
-Haftarah: 
+Haftarah: [Ezek. 43:10-27](https://www.stepbible.org/?q=version=NASB2020|reference=Ezek.43:10-27&options=HNVUG)
 
 ## Summary
 
