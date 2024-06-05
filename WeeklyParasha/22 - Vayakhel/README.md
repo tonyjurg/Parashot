@@ -1,4 +1,4 @@
-<sup>Previous parasha (#21): <a href="../21%20-%20Ki%20Tisa/README.md#start">Ki Tisa</a> &nbsp;&nbsp;Next parasha (#23): <a href="../23%20-%Pekudei/README.md#start">Pekudei</a></sup>
+<sup>Previous parasha (#21): <a href="../21%20-%20Ki%20Tisa/README.md#start">Ki Tisa</a> &nbsp;&nbsp;Next parasha (#23): <a href="../23%20-%20Pekudei/README.md#start">Pekudei</a></sup>
 
 # Parasha #21:  Vayakhel (וַיַּקְהֵ֣ל)
 
