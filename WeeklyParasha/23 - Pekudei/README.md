@@ -7,6 +7,9 @@
 Torah: [Ex. 38:21 - 40:38](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.38:21-40:38&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת פְקוּדֵי)](https://tikkun.io/#/p/pekudei)<br>
 Haftarah: [I Kings 7:51-8:21](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.7:51-8:21&options=HNVUG)) (Ashkenazim) or [I Kings 7:40-50](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.7:40-50&options=HNVUG))  (Sephardim)
 
+## Summary
+
+To be added.
 
 ## Related SHEBANQ queries
 
