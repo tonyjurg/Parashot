@@ -25,4 +25,4 @@ GitHub | NBviewer | Short description
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Ki Tisa](https://www.hebcal.com/sedrot/pekudei).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Pekudei](https://www.hebcal.com/sedrot/pekudei).
