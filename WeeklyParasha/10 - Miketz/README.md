@@ -10,7 +10,7 @@ Haftarah: [I Kings 3:15 - 4:1](https://www.stepbible.org/?q=version=NASB2020|ref
 
 ## Summary
 
-Parasha Miketz ("at the end") continuing the story of Joseph in Egypt. It recounts how Joseph, now a high-ranking official, interprets Pharaoh's dreams and predicts a coming famine, leading to his appointment as governor. The portion also follows the reunion of Joseph with his brothers, who come to Egypt seeking food during the famine, as well as the intricate unfolding of events surrounding their family's fate.
+Parasha Miketz ("at the end") continues the story of Joseph in Egypt. It begins with Joseph, now a high-ranking official, interpreting Pharaoh's dreams, which predict seven years of plenty followed by seven years of severe famine. Impressed by his wisdom, Pharaoh appoints Joseph as governor, giving him authority over the land of Egypt to manage the forthcoming crisis. The portion also follows the reunion of Joseph with his brothers, who come to Egypt seeking food during the famine. Unrecognized by his brothers, Joseph tests their integrity by placing a silver cup in Benjamin's sack, leading to a series of tense and emotionally charged encounters. These events set the stage for the intricate unfolding of their family's fate, ultimately guiding them toward reconciliation and the preservation of their lineage.
 
 ## Related SHEBANQ queries
 
