@@ -9,7 +9,7 @@ Haftarah: [Jer. 46:13-28](https://www.stepbible.org/?q=version=NASB2020|referenc
 
 ## Summary
 
-Parashat Bo details the last three plagues that God inflicted upon Egypt to compel Pharaoh to release the Israelites from bondage. This portion includes the institution of the Passover, with specific instructions for the Israelites on how to protect their households from the final plague, the death of the firstborn. Ultimately, Pharaoh capitulates, leading to the exodus of the Israelites from Egypt, marking a pivotal moment of liberation and divine intervention.
+Parashat Bo, named after a imperative verb meaning 'come' or 'go', details the last three plagues that God inflicted upon Egypt to compel Pharaoh to release the Israelites from bondage. This portion includes the institution of the Passover, with specific instructions for the Israelites on how to protect their households from the final plague, the death of the firstborn. Ultimately, Pharaoh capitulates, leading to the exodus of the Israelites from Egypt, marking a pivotal moment of liberation and divine intervention.
 
 ## Related SHEBANQ queries
 
