@@ -3,7 +3,7 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.12:1-17:27&options=HNVUG" target="_blank">Gen. 12:1-17:27</a> &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת לֶךְ־לְךָ֛)](https://tikkun.io/#/p/lech-lecha)<br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.12:1-17:27&options=HNVUG" target="_blank">Gen. 12:1-17:27</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/lech-lecha" target="_blank">(Hebrew: פָּרָשַׁת לֶךְ־לְךָ֛)</a><br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.40:27-41:16&options=HNVUG" target="_blank">Isaiah 40:27-41:16</a>
 
 ## Summary:
@@ -18,7 +18,7 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/hapax.ipynb)| find unique words (*hapax legomena*) in this parasha
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
