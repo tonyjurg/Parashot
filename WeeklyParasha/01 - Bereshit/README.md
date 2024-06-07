@@ -3,7 +3,7 @@
 # Parasha #1: Bereshit (בְּרֵאשִׁית) <a name="start"></a> 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUG" target="_blank">Gen. 1:1-6:8</a> &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּרֵאשִׁית)](https://tikkun.io/#/p/bereshit)<br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUG" target="_blank">Gen. 1:1-6:8</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/bereshit" target="_blank">(Hebrew: פָּרָשַׁת בְּרֵאשִׁית)</a><br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.42:5-43:10&options=HNVUG" target="_blank">Isaiah 42:5-43:10</a>
 
 ## Summary
@@ -27,11 +27,11 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/01%20-%20Bereshit/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/01%20-%20Bereshit/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Bereshit](https://www.hebcal.com/sedrot/bereshit).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/bereshit" target="_blank">Hebcal entry for parasha Bereshit</a>.
 
 ## AI generated image
 
