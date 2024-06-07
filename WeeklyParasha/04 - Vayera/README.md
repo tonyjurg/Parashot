@@ -22,7 +22,7 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/04%20-%20Vayera/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*) in this parasha
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/04%20-%20Vayera/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*).
 
 ## Hebcal
 
