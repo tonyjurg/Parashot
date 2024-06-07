@@ -18,8 +18,8 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/hapax.ipynb)| find unique words (*hapax legomena*) in this parasha
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Lech Lecha](https://www.hebcal.com/sedrot/lech-lecha).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/lech-lecha" target="blank_">Hebcal entry for parasha Lech Lecha</a>.
