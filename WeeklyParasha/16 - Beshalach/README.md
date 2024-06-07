@@ -10,7 +10,7 @@ Haftarah: [Judges 4:4-5:31](https://www.stepbible.org/?q=version=NASB2020|refere
 
 ## Summary
 
-Parashat Beshalach, meaning "When he let go", narrates the dramatic events following the Israelites' departure from Egypt, including the miraculous crossing of the Red Sea. The portion highlights the song of the sea (Shirat HaYam; Ex. 15:1-19) sung by Moses and the Israelites after their deliverance from Pharaoh's army. It also recounts the Israelites' initial challenges in the wilderness, such as the provision of manna and water from the rock, demonstrating God's ongoing provision and protection.
+Parasha Beshalach, meaning "When he let go", narrates the dramatic events following the Israelites' departure from Egypt, including the miraculous crossing of the Red Sea. The portion highlights the song of the sea (Shirat HaYam; Ex. 15:1-19) sung by Moses and the Israelites after their deliverance from Pharaoh's army. It also recounts the Israelites' initial challenges in the wilderness, such as the provision of manna and water from the rock, demonstrating God's ongoing provision and protection.
 
 ## Related SHEBANQ queries
 
