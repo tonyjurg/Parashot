@@ -1,10 +1,10 @@
-<sup>Previous parasha (#22): <a href="../22%20-%20Vayakhel/README.md#start">Vayakhel</a> &nbsp;&nbsp;Next parasha (#24): <a href="../24%20-%20Vayikra/README.md#start">Vayikra</a></sup>
+<sup>Previous parasha (#22): <a href="../22%20-%20Vayakhel">Vayakhel</a> &nbsp;&nbsp;Next parasha (#24): <a href="../24%20-%20Vayikra">Vayikra</a></sup>
 
 # Parasha #23: Pekudei (פְקוּדֵי)
 
 ## Reading passages
 
-Torah: [Ex. 38:21 - 40:38](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.38:21-40:38&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת פְקוּדֵי)](https://tikkun.io/#/p/pekudei)<br>
+Torah: [Ex. 38:21-40:38](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.38:21-40:38&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת פְקוּדֵי)](https://tikkun.io/#/p/pekudei)<br>
 Haftarah: [I Kings 7:51-8:21](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.7:51-8:21&options=HNVUG)) (Ashkenazim) or [I Kings 7:40-50](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.7:40-50&options=HNVUG))  (Sephardim)
 
 ## Summary
