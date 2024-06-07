@@ -1,11 +1,11 @@
-<span style="float: right;"><sup>Previous parasha (#18): <a href="../17%20-%20Yitro/README.md#start">Yitro</a> &nbsp;&nbsp;Next parasha (#20): <a href="../20%20-%20Tetzaveh/README.md#start">Tetzaveh</a></sup></span>
+<span style="float: right;"><sup>Previous parasha (#18): <a href="../17%20-%20Yitro">Yitro</a> &nbsp;&nbsp;Next parasha (#20): <a href="../20%20-%20Tetzaveh">Tetzaveh</a></sup></span>
 
 # Parasha #19: Terumah (תְּרוּמָה)
 
 ## Reading passages
 
-Torah: [Ex. 25:1 - 27:19](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.25:1-27:19&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תְּרוּמָה)](https://tikkun.io/#/p/terumah)<br>
-Haftarah: [I Kings 5:26 - 6:13](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.5:26-6:13&options=HNVUG) 
+Torah: [Ex. 25:1-27:19](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.25:1-27:19&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תְּרוּמָה)](https://tikkun.io/#/p/terumah)<br>
+Haftarah: [I Kings 5:26-6:13](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.5:26-6:13&options=HNVUG) 
 
 ## Summary
 
