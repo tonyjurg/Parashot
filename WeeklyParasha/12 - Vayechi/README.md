@@ -1,10 +1,10 @@
-<span style="float: right;"><sup>Previous parasha (#11): <a href="../11%20-%20Vayigash/README.md#start">Vayigash</a> &nbsp;&nbsp;Next parasha (#13): <a href="../13%20-%20Shemot/README.md#start">Shemot</a></sup></span>
+<span style="float: right;"><sup>Previous parasha (#11): <a href="../11%20-%20Vayigash">Vayigash</a> &nbsp;&nbsp;Next parasha (#13): <a href="../13%20-%20Shemot">Shemot</a></sup></span>
 
 # Parasha #12: Vayechi (וַיְחִי) <a name="start"></a>
 
 ## Reading passages
 
-Torah: [Gen. 47:28 - 50:26](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.47:28-50:26&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיְחִי)](https://tikkun.io/#/p/vayechi)<br>
+Torah: [Gen. 47:28-50:26](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.47:28-50:26&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיְחִי)](https://tikkun.io/#/p/vayechi)<br>
 Haftarah: [1 Kings 2:1-12](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.2:1-12&options=HNVUG)
 
 ## Summary
