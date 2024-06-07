@@ -9,7 +9,7 @@ Haftarah: [Ez. 28:25 - 29:21](https://www.stepbible.org/?q=version=NASB2020|refe
 
 ## Summary
 
-To be added
+Parasha Va'era details God's reaffirmation of His covenant with the Israelites and the beginning of the plagues in Egypt. God reveals Himself to Moses, promising to deliver the Israelites from slavery and demonstrate His power through a series of miraculous signs. The narrative progresses with the first seven plagues—blood, frogs, gnats, flies, livestock disease, boils, and hail—striking Egypt as Pharaoh's heart remains hardened against letting the Israelites go​​.
 
 ## Related SHEBANQ queries
 
