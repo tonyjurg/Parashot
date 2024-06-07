@@ -6,17 +6,17 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
         <div class="grid-item">
 <h2>Bereshit (Genesis)</h2>
 <a href="WeeklyParasha/01%20-%20Bereshit">#1: Bereshit (Gen. 1:1-6:8)]</a><br>
-[#2: Noach (Gen. 6:9-11:32)](WeeklyParasha/02%20-%20Noach)<br>
-[#3: Lech Lecha (Gen. 12:1-17:27)](WeeklyParasha/03%20-%20Lech%20Lecha)<br>
-[#4: Vayera (Gen. 18:1-22:24)](WeeklyParasha/04%20-%20Vayera)<br>
-[#5: Chayei Sarah (Gen. 23:1-25:18)](WeeklyParasha/05%20-%20Chayei%20Sarah)<br>
-[#6: Toldot (Gen. 25:19-28:9](WeeklyParasha/06%20-%20Toldot)<br>
-[#7: Vayetzei (Gen. 28:10-32:3)](WeeklyParasha/07%20-%20Vayetzei)<br>
-[#8: Vayishlach (Gen. 32:4-36:43)](WeeklyParasha/08%20-%20Vayishlach)<br>
-[#9: Vayehev (Gen. 37:1-40:23)](WeeklyParasha/09%20-%20Vayehev)<br>
-[#10: Miketz (Gen. 41:1-44:17 )](WeeklyParasha/10%20-%20Miketz)<br>
-[#11: Vayigash (Gen. 44:18 - 47:27 )](WeeklyParasha/11%20-%20Vayigash)<br>
-[#12: Vayechi (Gen. 47:28-50:26)](WeeklyParasha/12%20-%20Vayechi)
+<a href="WeeklyParasha/02%20-%20Noach">#2: Noach (Gen. 6:9-11:32)</a><br>
+<a href="WeeklyParasha/03%20-%20Lech%20Lecha">#3: Lech Lecha (Gen. 12:1-17:27)</a><br>
+<a href="WeeklyParasha/04%20-%20Vayera">#4: Vayera (Gen. 18:1-22:24)</a><br>
+<a href="WeeklyParasha/05%20-%20Chayei%20Sarah">#5: Chayei Sarah (Gen. 23:1-25:18)</a><br>
+<a href="WeeklyParasha/06%20-%20Toldot">#6: Toldot (Gen. 25:19-28:9)</a><br>
+<a href="WeeklyParasha/07%20-%20Vayetzei">#7: Vayetzei (Gen. 28:10-32:3)</a><br>
+<a href="WeeklyParasha/08%20-%20Vayishlach">#8: Vayishlach (Gen. 32:4-36:43)</a><br>
+<a href="WeeklyParasha/09%20-%20Vayehev">#9: Vayehev (Gen. 37:1-40:23)</a><br>
+<a href="WeeklyParasha/10%20-%20Miketz">#10: Miketz (Gen. 41:1-44:17)</a><br>
+<a href="WeeklyParasha/11%20-%20Vayigash">#11: Vayigash (Gen. 44:18-47:27)</a><br>
+<a href="WeeklyParasha/12%20-%20Vayechi">#12: Vayechi (Gen. 47:28-50:26)</a>
         </div>
         <div class="grid-item">
 ## Shemot (Exodus)
@@ -50,23 +50,6 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 </div>
 
 
-<!--
-    <style>
-        .grid-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            padding: 20px;
-        }
-
-        .grid-item {
-            background-color: #f9f9f9;
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            padding: 16px;
-        }
-    </style>
--->
 
 
 
