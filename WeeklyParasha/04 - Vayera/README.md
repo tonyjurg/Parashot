@@ -3,8 +3,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 18:1- 22:24](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.18:1-22:24&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיֵּרָא)](https://tikkun.io/#/p/vayera)<br>
-Haftarah: [II Kings 4:1-37](https://www.stepbible.org/?q=version=NASB2020|reference=2Kgs.4:1-37&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.18:1-22:24&options=HNVUG" target="_blank">Gen. 18:1-22:24</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayera" target="_blank">(Hebrew: פָּרָשַׁת וַיֵּרָא)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=2Kgs.4:1-37&options=HNVUG" target="_blank"> II Kings 4:1-37</a>
 
 ## Summary
 
@@ -14,15 +14,15 @@ Parashat Vayera ("and He appeared") continues the narrative of Abraham, focusing
 
 Verse | Query | Short description
 --- | --- | ---
-[Gen. 18:27](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.18:27&options=HNVUG) | [Dust and ashes](https://shebanq.ancient-data.org/hebrew/text?iid=5556&version=2021&page=1&mr=r&qw=q) | The combination of 'dust and ashes' (עָפָר and אֵפֶר) is found first in Gen. 18:27. Where else?
-[Gen. 21:22](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.21:22&options=HNVUG) | [It was in that time](https://shebanq.ancient-data.org/hebrew/text?iid=5997&version=2021&page=1&mr=r&qw=q) |  In Genesis 21:22 we have the first instance of the phrase וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא (it was in that time). This query finds all instances of this phrase in the TeNaCH. 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.18:27&options=HNVUG" target="_blank">Gen. 18:27 </a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5556&version=2021&page=1&mr=r&qw=q" target="_blank">Dust and ashes</a> | The combination of 'dust and ashes' (עָפָר and אֵפֶר) is found first in Gen. 18:27. Where else?
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.21:22&options=HNVUG" target="_blank">Gen. 21:22</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5997&version=2021&page=1&mr=r&qw=q" target="_blank">It was in that time</a> |  In Genesis 21:22 we have the first instance of the phrase וַֽיְהִי֙ בָּעֵ֣ת הַהִ֔וא (it was in that time). This query finds all instances of this phrase in the TeNaCH. 
 
 
 ## Related Text-Fabric Notebooks
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*) in this parasha
 
 ## Hebcal
 
