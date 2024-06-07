@@ -10,7 +10,7 @@ Haftarah (Sephardim): [Isaiah 6:1-13](https://www.stepbible.org/?q=version=NASB2
 
 ## Summary
 
-To be added.
+Parashat Yitro describes the arrival of Moses' father-in-law, Jethro (Yitro), who advises Moses to delegate judicial responsibilities to capable leaders to ease his burden. The portion culminates in the Israelites' encounter with God at Mount Sinai, where they receive the Ten Commandments, establishing the foundational laws for their covenant with God. This significant event emphasizes the importance of leadership, community, and divine law in the life of Israel.
 
 ## Related SHEBANQ queries
 
