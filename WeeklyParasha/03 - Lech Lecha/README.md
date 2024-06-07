@@ -3,8 +3,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 12:1-17:27](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.12:1-17:27&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת לֶךְ־לְךָ֛)](https://tikkun.io/#/p/lech-lecha)<br>
-Haftarah: [Isaiah 40:27 - 41:16](https://www.stepbible.org/?q=version=NASB2020|reference=Isa.40:27-41:16&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.12:1-17:27&options=HNVUG" target="_blank">Gen. 12:1-17:27</a> &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת לֶךְ־לְךָ֛)](https://tikkun.io/#/p/lech-lecha)<br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.40:27-41:16&options=HNVUG" target="_blank">Isaiah 40:27 - 41:16</a>
 
 ## Summary:
 Parashat Lekh Lekha ("go for yourself") marks the beginning of Abraham's journey as the first patriarch of Judaism. God commands Abraham to leave his homeland and travel to the land of Canaan, where he is promised descendants as numerous as the stars. Along the way, Abraham faces various trials, including the covenant of circumcision and his interactions with Pharaoh and King Abimelech.
