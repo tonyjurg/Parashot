@@ -1,10 +1,10 @@
-<span style="float: right;"><sup>Previous parasha (#8): <a href="../08%20-%20Vayishlach/README.md#start">Vayetzei</a> &nbsp;&nbsp;Next parasha (#10): <a href="../10%20-%20Miketz/README.md#start">Miketz</a></sup></span>
+<span style="float: right;"><sup>Previous parasha (#8): <a href="../08%20-%20Vayishlach">Vayetzei</a> &nbsp;&nbsp;Next parasha (#10): <a href="../10%20-%20Miketz">Miketz</a></sup></span>
 
 # Parasha #9: Vayehev (וַיֵּשֶׁב‎) <a name="start"></a>
 
 ## Reading passages
 
-Torah: [Gen. 37:1 - 40:23](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.37:1-40:23&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיֵּשֶׁב)](https://tikkun.io/#/p/vayeshev)<br>
+Torah: [Gen. 37:1-40:23](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.37:1-40:23&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיֵּשֶׁב)](https://tikkun.io/#/p/vayeshev)<br>
 Haftarah: [Amos 2:6 - 3:8](https://www.stepbible.org/?q=version=NASB2020|reference=Amos.2:6-3:8&options=HNVUG)
 
 ## Summary
