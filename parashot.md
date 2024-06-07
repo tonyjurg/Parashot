@@ -19,33 +19,33 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/12%20-%20Vayechi">#12: Vayechi (Gen. 47:28-50:26)</a>
         </div>
         <div class="grid-item">
-## Shemot (Exodus)
+<h2>Shemot (Exodus)</h2>
 
-[#13: Shemot (Ex. 1:1-6:1)](WeeklyParasha/13%20-%20Shemot)<br>
-[#14: Va'era (Ex. 6:2-9:35)](WeeklyParasha/14%20-%20Va'era)<br>
-[#15: Bo (Ex. 10:1-13:16)](WeeklyParasha/15%20-%20Bo)<br>
-[#16: Beshalach (Ex. 13:17-17:16)](WeeklyParasha/16%20-%20Beshalach)<br>
-[#17: Yitro (Ex. 18:1-20:23)](WeeklyParasha/17%20-%20Yitro)<br>
-[#18: Mishpatim (Ex. 21:1-24:18)](WeeklyParasha/18%20-%20Mishpatim)<br>
-[#19: Terumah (Ex. 25:1-27:19)](WeeklyParasha/19%20-%20Terumah)<br>
-[#20: Tetzaveh (Ex. 27:20-30:10)](WeeklyParasha/20%20-%20Tetzaveh)<br>
-[#21: Ki Tisa (Ex. 30:11-34:35)](WeeklyParasha/21%20-%20Ki%20Tisa)<br>
-[#22: Vayakhel (Ex. 35:1-38:20)](WeeklyParasha/22%20-%20Vayakhel)<br>
-[#23: Pekudei (Ex. 38:21-40:38)](WeeklyParasha/23%20-%20Pekudei)
+<a href="WeeklyParasha/13%20-%20Shemot">#13: Shemot (Ex. 1:1-6:1)</a><br>
+<a href="WeeklyParasha/14%20-%20Va'era">#14: Va'era (Ex. 6:2-9:35)</a><br>
+<a href="WeeklyParasha/15%20-%20Bo">#15: Bo (Ex. 10:1-13:16)</a><br>
+<a href="WeeklyParasha/16%20-%20Beshalach">#16: Beshalach (Ex. 13:17-17:16)</a><br>
+<a href="WeeklyParasha/17%20-%20Yitro">#17: Yitro (Ex. 18:1-20:23)</a><br>
+<a href="WeeklyParasha/18%20-%20Mishpatim">#18: Mishpatim (Ex. 21:1-24:18)</a><br>
+<a href="WeeklyParasha/19%20-%20Terumah">#19: Terumah (Ex. 25:1-27:19)</a><br>
+<a href="WeeklyParasha/20%20-%20Tetzaveh">#20: Tetzaveh (Ex. 27:20-30:10)</a><br>
+<a href="WeeklyParasha/21%20-%20Ki%20Tisa">#21: Ki Tisa (Ex. 30:11-34:35)</a><br>
+<a href="WeeklyParasha/22%20-%20Vayakhel">#22: Vayakhel (Ex. 35:1-38:20)</a><br>
+<a href="WeeklyParasha/23%20-%20Pekudei">#23: Pekudei (Ex. 38:21-40:38)</a>
         </div>
         <div class="grid-item">
-## Vayikra (Leviticus)
+<h2>Vayikra (Leviticus)</h2>
 
-[#24: Vayikra (Lev. 1:1-5:26)](WeeklyParasha/24%20-%20Vayikra)<br>
-[#25: Tzav (Lev. 6:1-8:36)](WeeklyParasha/25%20-%20Tzav)<br>
-[#26: Shemeni (Lev. 9:1-11:47)](WeeklyParasha/26%20-%20Shemini)<br>
-[#27: Tazria (Lev. 12:1-13:59)](WeeklyParasha/27%20-%20Tazria)<br>
-[#28: Metzora (Lev. 14:1-15:33)](WeeklyParasha/28%20-%20Metzora)<br>
-[#29: Acharei Mot (Lev. 16:1-18:30)](WeeklyParasha/29%20-%20Acharei%20Mot)<br>
-[#30: Kedoshim (Lev. 19:1-20:27)](WeeklyParasha/30%20-%20Kedoshim)<br>
-[#31: Emor (Lev. 21:1-24:23)](WeeklyParasha/31%20-%20Emor)<br>
-[#32: BeHar (Lev. 25:1-26:2)](WeeklyParasha/32%20-%20BeHar)<br>
-[#33: Bechukotai (Lev. 26:3-27:34)](WeeklyParasha/33%20-%20Bechukotai)<br>
+<a href="WeeklyParasha/24%20-%20Vayikra">#24: Vayikra (Lev. 1:1-5:26)</a><br>
+<a href="WeeklyParasha/25%20-%20Tzav">#25: Tzav (Lev. 6:1-8:36)</a><br>
+<a href="WeeklyParasha/26%20-%20Shemini">#26: Shemeni (Lev. 9:1-11:47)</a><br>
+<a href="WeeklyParasha/27%20-%20Tazria">#27: Tazria (Lev. 12:1-13:59)</a><br>
+<a href="WeeklyParasha/28%20-%20Metzora">#28: Metzora (Lev. 14:1-15:33)</a><br>
+<a href="WeeklyParasha/29%20-%20Acharei%20Mot">#29: Acharei Mot (Lev. 16:1-18:30)</a><br>
+<a href="WeeklyParasha/30%20-%20Kedoshim">#30: Kedoshim (Lev. 19:1-20:27)</a><br>
+<a href="WeeklyParasha/31%20-%20Emor">#31: Emor (Lev. 21:1-24:23)</a><br>
+<a href="WeeklyParasha/32%20-%20BeHar">#32: BeHar (Lev. 25:1-26:2)</a><br>
+<a href="WeeklyParasha/33%20-%20Bechukotai">#33: Bechukotai (Lev. 26:3-27:34)</a><br>
 </div>
 </div>
 
