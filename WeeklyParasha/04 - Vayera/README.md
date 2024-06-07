@@ -26,4 +26,4 @@ GitHub | NBviewer | Short description
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayera" target="blank_">Hebcal entry for parasha Vayera</a>.
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayera" target="_blank">Hebcal entry for parasha Vayera</a>.
