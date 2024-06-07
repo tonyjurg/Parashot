@@ -4,9 +4,9 @@
 
 ## Reading passages
 
-Torah: [Gen. 23:1 - 25:18](
-https://www.stepbible.org/?q=version=NASB2020|reference=Gen.23:1-25:18&options=HNVUG)  &nbsp;&nbsp; [(Hebrew: שָׂרָה‎ פָּרָשַׁת חַיֵּי)](https://tikkun.io/#/p/chayei-sara)<br>
-Haftarah: [I Kings 1:1-31](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.1:1-31&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.23:1-25:18&options=HNVUG" target="_blank">Gen. 23:1-25:18</a>
+)  &nbsp;&nbsp; <a href="https://tikkun.io/#/p/chayei-sara" target="_blank">(Hebrew: שָׂרָה‎ פָּרָשַׁת חַיֵּי)</a><br>
+Haftarah:  <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.1:1-31&options=HNVUG" target="_blank">I Kings 1:1-31</a>
 
 ## Summary
 
@@ -21,9 +21,9 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sarah/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sarah/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Chayei Sara](https://www.hebcal.com/sedrot/Chayei-Sara).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/Chayei-Sara" target="_blank">Hebcal entry for parasha Chayei Sara</a>.
