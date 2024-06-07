@@ -1,10 +1,10 @@
-<span style="float: right;"><sup>Previous parasha (#10): <a href="../10%20-%20Miketz/README.md#start">Miketz</a> &nbsp;&nbsp;Next parasha (#12): <a href="../12%20-%20Vayechi/README.md#start">Vayechi</a></sup></span>
+<span style="float: right;"><sup>Previous parasha (#10): <a href="../10%20-%20Miketz>Miketz</a> &nbsp;&nbsp;Next parasha (#12): <a href="../12%20-%20Vayechi">Vayechi</a></sup></span>
 
 # Parasha #11: Vayigash (וַיִּגַּשׁ) <a name="start"></a>
 
 ## Reading passages
 
-Torah: [Gen. 44:18 - 47:27](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.44:18-47:27&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיִּגַּשׁ)](https://tikkun.io/#/p/vayigash)<br>
+Torah: [Gen. 44:18-47:27](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.44:18-47:27&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיִּגַּשׁ)](https://tikkun.io/#/p/vayigash)<br>
 Haftarah: [Ezech. 37:15-28](https://www.stepbible.org/?q=version=NASB2020|reference=Eze.37:15-28&options=HNVUG)
 
 ## Summary
