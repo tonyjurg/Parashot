@@ -9,7 +9,7 @@ Haftarah: [Ezech. 37:15-28](https://www.stepbible.org/?q=version=NASB2020|refere
 
 ## Summary
 
-Parasha Vayigash ("and he drew near") is the eleventh portion in the Book of Genesis, recounting the dramatic moment when Judah approaches the powerful Egyptian ruler, Joseph, pleading for the release of his brother Benjamin. Joseph, overcome with emotion, reveals his true identity to his astonished brothers, leading to a tearful reunion and reconciliation within the family. 
+Parasha Vayigash ("and he drew near") recounts the dramatic moment when Judah approaches the powerful Egyptian ruler, Joseph, pleading for the release of his younger brother Benjamin, offering himself as a slave instead. Overcome with emotion, Joseph reveals his true identity to his astonished brothers, leading to a tearful reunion and reconciliation within the family. This parasha also details Joseph's invitation to his father Jacob and his entire family to settle in Egypt, where they are provided with the best land in Goshen, ensuring their survival during the severe famine.
 
 ## Related SHEBANQ queries
 
