@@ -16,14 +16,14 @@ Parasha Noach ("Noah") centers around the story of Noah and the Great Flood. God
 Verse | Query | Short description
 --- | --- | ---
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.6:11,13&options=HNVUG" target="_blank">Gen. 6:11&13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5616&version=2021&page=1&mr=r&qw=q" target="_blank">taking violence (חמס)</a> | Find clauses containing a verb where any subject is taking violence (חמס) as an object (Earth is taking Violence - Gen. 6:11&13).
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.9:1,7&options=HNVUG" target="_blank">Gen. 9:1&7</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q" target="_blank">be fertile and be many</a> | Command twice given by God to Noach after the flood
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.9:1,7&options=HNVUG" target="_blank">Gen. 9:1&7</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q" target="_blank">be fertile and be many</a> | Command twice given by God to Noach after the flood.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.9:26,27&options=HNVUG" target="_blank">Gen. 9:26&27</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5529&version=2021&page=1&mr=r&qw=q" target="_blank">Find similar constructs like לָֽמֹו</a> | In Gen. 9:26&27 the construct לָֽמֹו is found twice, a preposition combined with the personal suffix מֹו. Here for the first time in Torah.
 
 ## Related Text-Fabric Notebooks
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*).
 
 ## Hebcal
 
