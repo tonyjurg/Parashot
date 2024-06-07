@@ -2,6 +2,8 @@
 
 A "parasha" is a section of the Torah divided for weekly reading. Each parasha encompasses a specific portion of text, and there are 54 parashot (plural for parasha) covering the entire five books of the Torah, ensuring the entire Torah is read over the course of a year. This weekly reading cycle, known as the Torah portion, is integral to Jewish liturgy and communal worship, providing a structured approach to studying and reflecting upon the Torah's teachings.
 
+   <div class="grid-container">
+        <div class="grid-item">
 ## Bereshit (Genesis)
 [#1: Bereshit (Gen. 1:1-6:8)](WeeklyParasha/01%20-%20Bereshit)<br>
 [#2: Noach (Gen. 6:9-11:32)](WeeklyParasha/02%20-%20Noach)<br>
@@ -15,7 +17,8 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 [#10: Miketz (Gen. 41:1-44:17 )](WeeklyParasha/10%20-%20Miketz)<br>
 [#11: Vayigash (Gen. 44:18 - 47:27 )](WeeklyParasha/11%20-%20Vayigash)<br>
 [#12: Vayechi (Gen. 47:28-50:26)](WeeklyParasha/12%20-%20Vayechi)
-
+        </div>
+        <div class="grid-item">
 ## Shemot (Exodus)
 
 [#13: Shemot (Ex. 1:1-6:1)](WeeklyParasha/13%20-%20Shemot)<br>
@@ -29,7 +32,8 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 [#21: Ki Tisa (Ex. 30:11-34:35)](WeeklyParasha/21%20-%20Ki%20Tisa)<br>
 [#22: Vayakhel (Ex. 35:1-38:20)](WeeklyParasha/22%20-%20Vayakhel)<br>
 [#23: Pekudei (Ex. 38:21-40:38)](WeeklyParasha/23%20-%20Pekudei)
-
+        </div>
+        <div class="grid-item">
 ## Vayikra (Leviticus)
 
 [#24: Vayikra (Lev. 1:1-5:26)](WeeklyParasha/24%20-%20Vayikra)<br>
@@ -42,10 +46,27 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 [#31: Emor (Lev. 21:1-24:23)](WeeklyParasha/31%20-%20Emor)<br>
 [#32: BeHar (Lev. 25:1-26:2)](WeeklyParasha/32%20-%20BeHar)<br>
 [#33: Bechukotai (Lev. 26:3-27:34)](WeeklyParasha/33%20-%20Bechukotai)<br>
+</div>
+</div>
 
 
+<!--
+    <style>
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            padding: 20px;
+        }
 
-
+        .grid-item {
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 16px;
+        }
+    </style>
+-->
 
 
 
