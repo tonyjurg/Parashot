@@ -1,4 +1,4 @@
-<sup>Previous parasha (#23): <a href="../23%20-%20Pekudei/README.md#start">Vayakhel</a> &nbsp;&nbsp;Next parasha (#24): <a href="../25%20-%20Tzav/README.md#start">Tzav</a></sup>
+<sup>Previous parasha (#23): <a href="../23%20-%20Pekudei">Vayakhel</a> &nbsp;&nbsp;Next parasha (#24): <a href="../25%20-%20Tzav">Tzav</a></sup>
 
 # Parasha #24: Vayikra (וַיִּקְרָא)
 
