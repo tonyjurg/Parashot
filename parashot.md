@@ -1,4 +1,6 @@
-# Weekly Parasha
+# The Weekly Parasha
+
+A "parasha" is a section of the Torah divided for weekly reading. Each parasha encompasses a specific portion of text, and there are 54 parashot (plural for parasha) covering the entire five books of the Torah, ensuring the entire Torah is read over the course of a year. This weekly reading cycle, known as the Torah portion, is integral to Jewish liturgy and communal worship, providing a structured approach to studying and reflecting upon the Torah's teachings.
 
 ## Bereshit (Genesis)
 [#1: Bereshit (Gen. 1:1-6:8)](WeeklyParasha/01%20-%20Bereshit)<br>
