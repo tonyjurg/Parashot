@@ -1,10 +1,10 @@
-<span style="float: right;"><sup>Previous parasha (#12): <a href="../12%20-%20Vayechi/README.md#start">Vayechi</a> &nbsp;&nbsp;Next parasha (#14): <a href="../14%20-%20Va'era/README.md#start">Va'era</a></sup></span>
+<span style="float: right;"><sup>Previous parasha (#12): <a href="../12%20-%20Vayechi">Vayechi</a> &nbsp;&nbsp;Next parasha (#14): <a href="../14%20-%20Va'era">Va'era</a></sup></span>
 
 # Parasha #13: Shemot (שְׁמוֹת‎) <a name="start"></a>
 
 ## Reading passages
 
-Torah: [Ex. 1:1 - 6:1](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.1:1-6:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת שְׁמוֹת)](https://tikkun.io/#/p/shemot)<br>
+Torah: [Ex. 1:1-6:1](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.1:1-6:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת שְׁמוֹת)](https://tikkun.io/#/p/shemot)<br>
 Haftarah (Ashkenazim): [Isaiah 27:6 - 28:13; Isaiah 29:22-23](https://www.stepbible.org/?q=version=NASB2020|reference=Is.27:6-28:13+Is.29:22-23&options=HNVUG)<br>
 Haftarah (Sephardim): [Jeremiah 1:1 - 2:3](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.1:1-2:3&options=HNVUG)
 
