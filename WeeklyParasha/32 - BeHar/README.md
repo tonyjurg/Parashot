@@ -1,10 +1,10 @@
-<sup>Previous parasha (#31): <a href="../31%20-%20Emor/README.md#start">Emor</a> &nbsp;&nbsp;Next parasha (#33): <a href="../33%20-%20Bechukotai/README.md#start">Bechukotai</a></sup>
+<sup>Previous parasha (#31): <a href="../31%20-%20Emor">Emor</a> &nbsp;&nbsp;Next parasha (#33): <a href="../33%20-%20Bechukotai">Bechukotai</a></sup>
 
 # Parasha #32: BeHar (בְּהַר)
 
 ## Reading passages
 
-Torah: [Lev. 25:1- 26:2](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.25:1-26:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּהַר)](https://tikkun.io/#/p/behar)<br>
+Torah: [Lev. 25:1-26:2](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.25:1-26:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּהַר)](https://tikkun.io/#/p/behar)<br>
 Haftarah: 
 [Jer. 32:6-27](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.6:6-27&options=HNVUG)
 
