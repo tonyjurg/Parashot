@@ -1,10 +1,4 @@
 
-<!--
----
-layout: default
-title: "Document 1"
----
--->
 <span style="float: right;"><sup>Next parasha (#2): <a href="../02%20-%20Noach">Noach</a></sup></span>
 # Parasha #1: Bereshit (בְּרֵאשִׁית) <a name="start"></a> 
 ## Reading passages
