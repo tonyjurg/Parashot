@@ -3,8 +3,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 6:9-11:32](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.6:9-11:32&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת נֹח)](https://tikkun.io/#/p/noach)<br>
-Haftarah: [Isaiah 42:5-43:10](https://www.stepbible.org/?q=version=NASB2020|reference=Isa.54:1-55:5&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.6:9-11:32&options=HNVUG" target="_blank">Gen. 6:9-11:32]</a> &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת נֹח)](https://tikkun.io/#/p/noach)<br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.54:1-55:5&options=HNVUG">Isaiah 42:5-43:10]</a>
 
 
 ## Summary
