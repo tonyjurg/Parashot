@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: [Gen. 32:4 - 36:43](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.32:4-36:43&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיִּשְׁלַח)](https://tikkun.io/#/p/vayishlach)<br>
+Torah: [Gen. 32:4-36:43](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.32:4-36:43&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיִּשְׁלַח)](https://tikkun.io/#/p/vayishlach)<br>
 Haftarah: [Obadja 1:1-21](https://www.stepbible.org/?q=version=NASB2020|reference=Obad&options=HNVUG)
 
 ## Summary
