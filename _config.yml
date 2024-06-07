@@ -6,3 +6,6 @@ markdown: kramdown
 title: Parashot
 description: Digital Humanies tools used for the weekly Parasha (Torah portion of the week).
 show_downloads: false
+
+# Optional: enable relative permalink
+permalink: /:path/:basename:output_ext
