@@ -9,7 +9,7 @@ Haftarah: [Jeremiah 34:8-22, 33:25-26](https://www.stepbible.org/?q=version=NASB
 
 ## Summary
 
-To be added.
+Parasha Mishpatim details a comprehensive set of laws covering various aspects of daily life, including civil, criminal, and ritual matters. These laws provide instructions on topics such as slavery, personal injury, property damage, social justice, and religious observances, forming the foundation for the Israelite legal system. The portion concludes with the covenant ceremony at Mount Sinai, where the Israelites affirm their commitment to follow God's commandments.
 
 ## Related SHEBANQ queries
 
