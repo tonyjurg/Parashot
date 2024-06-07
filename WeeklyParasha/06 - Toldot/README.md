@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 25:19 - 28:9](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:19-28:9&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת תּוֹלְדוֹת)](https://tikkun.io/#/p/toldot)<br>
-Haftarah: [Maleachi 1:1-4, 2:1-7](https://www.stepbible.org/?q=version=NASB2020|reference=Mal.1:1-4;2:1-7&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:19-28:9&options=HNVUG" target="_blank">Gen. 25:19-28:9</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/toldot" target="_blank">(Hebrew: פָּרָשַׁת תּוֹלְדוֹת)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Mal.1:1-4;2:1-7&options=HNVUG" target="_blank">Maleachi 1:1-4, 2:1-7</a>
 
 ## Summary
 
@@ -15,15 +15,15 @@ Parashat Toldot details the birth and early lives of Isaac and Rebekah's twin so
 
 Verse | Query | Description
 --- | --- | ---
-[Genesis 29:6](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.29:6&options=HNVUG) | [shalom as greeting](https://shebanq.ancient-data.org/hebrew/queries?goto=3224&version=2021&page=1&mr=r&qw=q) | Jacob asks the shepherd about the well-being of Laban, using the word 'shalom'.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.29:6&options=HNVUG" target="_blank">Genesis 29:6</a> | <a href="https://shebanq.ancient-data.org/hebrew/queries?goto=3224&version=2021&page=1&mr=r&qw=q" target="_blank">shalom as greeting</a> | Jacob asks the shepherd about the well-being of Laban, using the word 'shalom'.
 
 ## Related Text-Fabric Notebooks
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Toldot](https://www.hebcal.com/sedrot/toldot).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/toldot" target="_blank">Hebcal entry for parasha Toldot</a>.
