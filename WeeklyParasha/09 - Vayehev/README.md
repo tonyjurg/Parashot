@@ -9,7 +9,7 @@ Haftarah: [Amos 2:6 - 3:8](https://www.stepbible.org/?q=version=NASB2020|referen
 
 ## Summary
 
-Parasha Vayeshev is the ninth weekly Torah portion in the annual Jewish cycle of Torah reading. It recounts the narrative of Jacob's sons selling Joseph into Egyptian captivity. Additionally, it delves into the story of Judah's mistreatment of his daughter-in-law Tamar, who ingeniously tricks him into fulfilling his oath. The parasha also narrates Joseph's service to Potiphar and his subsequent imprisonment due to false accusations of assaulting Potiphar's wife.
+Parasha Vayeshev recounts the history of Jacob's sons selling their brother Joseph into Egyptian captivity out of jealousy for their father's favoritism and Joseph's dreams of future dominance. The brothers deceive Jacob into believing that Joseph has been killed by a wild animal by showing him Joseph's blood-stained coat. Additionally, the parasha delves into the story of Judah's mistreatment of his daughter-in-law Tamar, who ingeniously tricks him into fulfilling his levirate duty by disguising herself as a prostitute, leading to the birth of Perez and Zerah. The portion also describes Joseph's service to Potiphar, an Egyptian officer, and his subsequent imprisonment due to false accusations from Potiphar's wife, who claims Joseph attempted to assault her after he consistently rejects her advances. While in prison, Joseph's ability to interpret dreams brings him to the attention of Pharaoh's cupbearer and baker, setting the stage for his later rise to power in Egypt.
 
 ## Related SHEBANQ queries
 
