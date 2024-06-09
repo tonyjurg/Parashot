@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: [Ex. 6:2-9:35](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.6:2-9:35&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וָאֵרָא)](https://tikkun.io/#/p/vaera)<br>
-Haftarah: [Ez. 28:25 - 29:21](https://www.stepbible.org/?q=version=NASB2020|reference=Ez.28:25-29:21&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.6:2-9:35&options=HNVUG" target="_blank">Ex. 6:2-9:35</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vaera" target="_blank">(Hebrew: פָּרָשַׁת וָאֵרָא)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ez.28:25-29:21&options=HNVUG" target="_blank">Ez. 28:25-29:21</a>
 
 ## Summary
 
@@ -20,8 +20,8 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Va'era](https://www.hebcal.com/sedrot/vaera).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vaera" target="_blank">Hebcal entry for parasha Va'era</a>.
