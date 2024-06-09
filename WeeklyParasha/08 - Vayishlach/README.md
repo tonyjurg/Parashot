@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 32:4-36:43](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.32:4-36:43&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיִּשְׁלַח)](https://tikkun.io/#/p/vayishlach)<br>
-Haftarah: [Obadja 1:1-21](https://www.stepbible.org/?q=version=NASB2020|reference=Obad&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.32:4-36:43&options=HNVUG" target="_blank">Gen. 32:4-36:43</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayishlach" target="_blank">(Hebrew: פָּרָשַׁת וַיִּשְׁלַח)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Obad&options=HNVUG" target="_blank">Obadja 1:1-21</a>
 
 ## Summary
 
@@ -15,15 +15,14 @@ In Parashat Vayishlach Jacob prepares to meet his brother Esau after years apart
 
 Verse | Query | Short description
 --- | --- | ---
-[Gen. 35:11](https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.35:11&options=HNVUG)  | [be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q) | Command by God to Jacob after returning to Bethel.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.35:11&options=HNVUG" target="_blank">Gen. 35:11</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q" target="_blank">be fertile and be many</a> | Command by God to Jacob after returning to Bethel.
 
 ## Related Text-Fabric Notebooks
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/hapax.ipynb)| find unique words (*hapax legomena*)
-
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayishlach](https://www.hebcal.com/sedrot/vayishlach).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayishlach" target="_blank">Hebcal entry for parasha Vayishlach</a>.
