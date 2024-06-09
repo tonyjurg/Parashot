@@ -23,7 +23,7 @@ Generic
 GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayehev/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
-[Notebook on Vayehev](Vayehev.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayehev/Vayehev.ipynb" target="_blank">Vayehev</a> | -
+[Notebook on Vayehev](Vayehev.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayehev/Vayehev.ipynb" target="_blank">Vayehev</a> | (Gen. 37:4) shalom with/out wav
 
 ## Hebcal
 
