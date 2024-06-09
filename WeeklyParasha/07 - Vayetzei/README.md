@@ -28,3 +28,8 @@ GitHub | NBviewer | Short description
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayetzei" target="blank_">Hebcal entry for parasha Vayetzei</a>.
 
+## AI generated image
+
+<img src="Jacob_dream_at_bethel_DALL·E.jpg">
+
+Image created by DALL-E: Jacob dreaming at Bethel.
