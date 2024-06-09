@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 28:10 - 32:3](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:10-32:3&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיֵּצֵא)](https://tikkun.io/#/p/vayetzei)<br>
-Haftarah: [Hosea 11:7-11;12:1-12;13:1-5](https://www.stepbible.org/?q=version=NASB2020|reference=Hos.11:7-11;12:1-15&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:10-32:3&options=HNVUG" target="blank_">Gen. 28:10 - 32:3</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayetzei" target="blank_">(Hebrew: פָּרָשַׁת וַיֵּצֵא)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Hos.11:7-11;12:1-15&options=HNVUG" target="blank_">Hosea 11:7-11;12:1-12;13:1-5</a>
 
 ## Summary
 
@@ -21,10 +21,10 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/hapax.ipynb" target="blank_">hapax</a> | find unique words (*hapax legomena*)
 
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayetzei](https://www.hebcal.com/sedrot/vayetzei).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayetzei" target="blank_">Hebcal entry for parasha Vayetzei</a>.
 
