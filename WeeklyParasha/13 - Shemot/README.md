@@ -4,9 +4,9 @@
 
 ## Reading passages
 
-Torah: [Ex. 1:1-6:1](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.1:1-6:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת שְׁמוֹת)](https://tikkun.io/#/p/shemot)<br>
-Haftarah (Ashkenazim): [Isaiah 27:6 - 28:13; Isaiah 29:22-23](https://www.stepbible.org/?q=version=NASB2020|reference=Is.27:6-28:13+Is.29:22-23&options=HNVUG)<br>
-Haftarah (Sephardim): [Jeremiah 1:1 - 2:3](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.1:1-2:3&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.1:1-6:1&options=HNVUG" target="_blank">Ex. 1:1-6:1</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/shemot" target="_blank">(Hebrew: פָּרָשַׁת שְׁמוֹת)</a><br>
+Haftarah (Ashkenazim): <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.27:6-28:13+Is.29:22-23&options=HNVUG" target="_blank">Isaiah 27:6-28:13; 29:22-23</a><br>
+Haftarah (Sephardim): <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Jer.1:1-2:3&options=HNVUG" target="_blank">Jeremiah 1:1 - 2:3</a>
 
 ## Summary
 
@@ -16,23 +16,23 @@ In parasha Shemot ("Names"), the children of Israel multiply in Egypt, leading P
 
 Verse | Query | Short description
 --- | --- | ---
-[Ex. 1:1](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:1&options=HNVUG) | [These are the names](https://shebanq.ancient-data.org/hebrew/text?iid=6284&version=2021&page=1&mr=r&qw=q) | Find other occurences of the phrase "these are the names"
-[Ex. 1:7](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:7&options=HNVUG) | [Be fertile and be many](https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q) | The children of Israel became fertile and many. This was fulfilling the command given in Gen. 1:28.
-[Ex. 1:10](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:10&options=HNVUG) | [Let us act wisely](https://shebanq.ancient-data.org/hebrew/text?iid=6285&version=2021&page=1&mr=r&qw=q) | The Pharao wanted the people to 'act wisely'. Where else is this verb used?
-[Ex. 2:2](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:2&options=HNVUG) | [A 'tov' child](https://shebanq.ancient-data.org/hebrew/text?iid=6289&version=2021&page=1&mr=r&qw=q) |  The mother of Moses considered the child טֹוב. What else is considered טֹוב ?
-[Ex. 2:14](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:14&options=HNVUG) | [Commander and judge](https://shebanq.ancient-data.org/hebrew/text?iid=6318&version=2021&page=1&mr=r&qw=q) | The phrase שַׂ֤ר וְשֹׁפֵט֙ forms a hendiadys, saying one thing using two likewise words.
-[Ex. 2:24](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:24&options=HNVUG) | [The groaning of the people](https://shebanq.ancient-data.org/hebrew/text?iid=6290&version=2021&page=1&mr=r&qw=q) | God heard the groaning of the people in Egypt. Where else is groaning found?
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:1&options=HNVUG" target="_blank">Ex. 1:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6284&version=2021&page=1&mr=r&qw=q" target="_blank">These are the names</a> | Find other occurences of the phrase "these are the names"
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:7&options=HNVUG" target="_blank">Ex. 1:7</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q" target="_blank">Be fertile and be many</a> | The children of Israel became fertile and many. This was fulfilling the command given in Gen. 1:28.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:10&options=HNVUG" target="_blank">Ex. 1:10</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6285&version=2021&page=1&mr=r&qw=q" target="_blank">Let us act wisely</a> | The Pharao wanted the people to 'act wisely'. Where else is this verb used?
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:2&options=HNVUG" target="_blank">Ex. 2:2</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6289&version=2021&page=1&mr=r&qw=q" target="_blank">A 'tov' child</a> |  The mother of Moses considered the child טֹוב. What else is considered טֹוב ?
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:14&options=HNVUG" target="_blank">Ex. 2:14</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6318&version=2021&page=1&mr=r&qw=q" target="_blank">Commander and judge</a> | The phrase שַׂ֤ר וְשֹׁפֵט֙ forms a hendiadys, saying one thing using two likewise words.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:24&options=HNVUG" target="_blank">Ex. 2:24</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6290&version=2021&page=1&mr=r&qw=q" target="_blank">The groaning of the people</a> | God heard the groaning of the people in Egypt. Where else is groaning found?
 
 
 ## Related Text-Fabric Notebooks
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/13%20-%20Shemot/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/13%20-%20Shemot/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Shemot](https://www.hebcal.com/sedrot/shemot).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/shemot" target="_blank">Hebcal entry for parasha Shemot</a>.
 
 ## AI generated image
 
