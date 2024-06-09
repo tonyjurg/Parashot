@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 47:28-50:26](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.47:28-50:26&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיְחִי)](https://tikkun.io/#/p/vayechi)<br>
-Haftarah: [1 Kings 2:1-12](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.2:1-12&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.47:28-50:26&options=HNVUG" target="_blank">Gen. 47:28-50:26</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayechi" target="_blank">(Hebrew: פָּרָשַׁת וַיְחִי)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.2:1-12&options=HNVUG" target="_blank">1 Kings 2:1-12</a>
 
 ## Summary
 
@@ -21,8 +21,8 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayechi](https://www.hebcal.com/sedrot/vayechi).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayechi" target="_blank">Hebcal entry for parasha Vayechi</a>.
