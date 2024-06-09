@@ -1,4 +1,4 @@
-<span style="float: right;"><sup>Previous parasha (#10): <a href="../10%20-%20Miketz>Miketz</a> &nbsp;&nbsp;Next parasha (#12): <a href="../12%20-%20Vayechi">Vayechi</a></sup></span>
+<span style="float: right;"><sup>Previous parasha (#10): <a href="../10%20-%20Miketz">Miketz</a> &nbsp;&nbsp;Next parasha (#12): <a href="../12%20-%20Vayechi">Vayechi</a></sup></span>
 
 # Parasha #11: Vayigash (וַיִּגַּשׁ) <a name="start"></a>
 
