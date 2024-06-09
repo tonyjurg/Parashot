@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: [Gen. 44:18-47:27](https://www.stepbible.org/?q=version=NASB2020|reference=Gen.44:18-47:27&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיִּגַּשׁ)](https://tikkun.io/#/p/vayigash)<br>
-Haftarah: [Ezech. 37:15-28](https://www.stepbible.org/?q=version=NASB2020|reference=Eze.37:15-28&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.44:18-47:27&options=HNVUG" target="_blank">Gen. 44:18-47:27</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayigash" target="_blank">(Hebrew: פָּרָשַׁת וַיִּגַּשׁ)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Eze.37:15-28&options=HNVUG" target="_blank">Ezech. 37:15-28</a>
 
 ## Summary
 
@@ -21,8 +21,8 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/11%20-%20Vayigash/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/11%20-%20Vayigash/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayigash](https://www.hebcal.com/sedrot/vayigash).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayigash" target="_blank">Hebcal entry for parasha Vayigash</a>.
