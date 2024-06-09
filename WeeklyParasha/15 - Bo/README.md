@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: [Ex. 10:1-13:16](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.10:1-13:16&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בֹּא)](https://tikkun.io/#/p/bo)<br>
-Haftarah: [Jer. 46:13-28](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.46:13-28&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.10:1-13:16&options=HNVUG" target="_blank">Ex. 10:1-13:16</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/bo" target="_blank">(Hebrew: פָּרָשַׁת בֹּא)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Jer.46:13-28&options=HNVUG" target="_blank">Jer. 46:13-28</a>
 
 ## Summary
 
@@ -15,15 +15,15 @@ Parasha Bo, named after a imperative verb meaning 'come' or 'go', details the la
 
 Verse | Query | Description
 --- | --- | ---
-[Ex. 12:14&17](https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.12:14,17&options=HNVUG) | [6558](https://shebanq.ancient-data.org/hebrew/text?iid=6558&page=1&mr=r&qw=q) | 'on the same day'
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.12:14,17&options=HNVUG" target="_blank">Ex. 12:14&17</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6558&page=1&mr=r&qw=q" target="_blank">6558</a> | 'on the same day'
 
 
 ## Related Text-Fabric Notebooks
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Bo](https://www.hebcal.com/sedrot/bo).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/bo" target="_blank">Hebcal entry for parasha Bo</a>.
