@@ -23,7 +23,12 @@ GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sarah/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
-
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/Chayei-Sara" target="_blank">Hebcal entry for parasha Chayei Sara</a>.
+
+## AI generated image
+
+<img src="Rebekah_at_the_well_DALL·E.jpg">
+
+Image created by DALL-E: Rebekah at the well.
