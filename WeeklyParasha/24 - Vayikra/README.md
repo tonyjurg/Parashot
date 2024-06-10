@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: [Lev. 1:1-5:26](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.1:1-5:26&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת וַיִּקְרָא)](https://tikkun.io/#/p/vayikra)<br>
-Haftarah: [Isaiah 43:21-44:23 ](https://www.stepbible.org/?q=version=NASB2020|reference=Is.43:21-44:23&options=HNVUG)) 
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Lev.1:1-5:26&options=HNVUG" target="_blank">Lev. 1:1-5:26</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayikra" target="_blank">(Hebrew: פָּרָשַׁת וַיִּקְרָא)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.43:21-44:23&options=HNVUG" target="_blank">Isaiah 43:21-44:23</a>
 ## Summary
 
 To be added.
@@ -20,9 +20,9 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/24%20-%20Vayikra/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/24%20-%20Vayikra/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Vayikra](https://www.hebcal.com/sedrot/vayikra).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayikra" target="_blank">Hebcal entry for parasha Vayikra</a>.
 
