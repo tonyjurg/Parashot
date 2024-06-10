@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: [Ex. 38:21-40:38](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.38:21-40:38&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת פְקוּדֵי)](https://tikkun.io/#/p/pekudei)<br>
-Haftarah: [I Kings 7:51-8:21](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.7:51-8:21&options=HNVUG)) (Ashkenazim) or [I Kings 7:40-50](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.7:40-50&options=HNVUG))  (Sephardim)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.38:21-40:38&options=HNVUG" target="_blank">Ex. 38:21-40:38</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/pekudei" target="_blank">(Hebrew: פָּרָשַׁת פְקוּדֵי)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.7:51-8:21&options=HNVUG" target="_blank">I Kings 7:51-8:21</a> (Ashkenazim) or <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.7:40-50&options=HNVUG" target="_blank">I Kings 7:40-50</a>  (Sephardim)
 
 ## Summary
 
@@ -21,8 +21,8 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/23%20-%20Pekudei/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/23%20-%20Pekudei/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Pekudei](https://www.hebcal.com/sedrot/pekudei).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/pekudei" target="_blank">Hebcal entry for parasha Pekudei</a>.
