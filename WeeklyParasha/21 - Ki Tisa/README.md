@@ -4,9 +4,9 @@
 
 ## Reading passages
 
-Torah: [Ex. 30:11-34:35](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.34:35-34:35&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת כִּי תִשָּׂא)](https://tikkun.io/#/p/tetzaveh)<br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.34:35-34:35&options=HNVUG" target="_blank">Ex. 30:11-34:35</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/tetzaveh" target="_blank">(Hebrew: פָּרָשַׁת כִּי תִשָּׂא)</a><br>
 Haftarah: 
-[1 Kings 18:1-39](https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.18:1-39&options=HNVUG)
+<a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.18:1-39&options=HNVUG" target="_blank">1 Kings 18:1-39</a>
 
 ## Summary
 
@@ -22,8 +22,8 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/21%20-%20Ki%20Tisa/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/21%20-%20Ki%20Tisa/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Ki Tisa](https://www.hebcal.com/sedrot/ki-tisa).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/ki-tisa" target="_blank">Hebcal entry for parasha Ki Tisa</a>.
