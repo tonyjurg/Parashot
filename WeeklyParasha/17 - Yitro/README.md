@@ -4,9 +4,9 @@
 
 ## Reading passages
 
-Torah: [Ex. 18:1-20:23](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.18:1-20:23&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת יִתְרוֹ)](https://tikkun.io/#/p/yitro)<br>
-Haftarah (Ashkenazim): [Isaiah 6:1-7:6, 9:5-6](https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-7;9:5-6&options=HNVUG)<br>
-Haftarah (Sephardim): [Isaiah 6:1-13](https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-13&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.18:1-20:23&options=HNVUG" target="_blank">Ex. 18:1-20:23</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/yitro" target="_blank">(Hebrew: פָּרָשַׁת יִתְרוֹ)</a><br>
+Haftarah (Ashkenazim): <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-7;9:5-6&options=HNVUG" target="_blank">Isaiah 6:1-7:6, 9:5-6</a><br>
+Haftarah (Sephardim): <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-13&options=HNVUG" target="_blank">Isaiah 6:1-13</a>
 
 ## Summary
 
@@ -21,9 +21,9 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/17%20-%20Yitro/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/17%20-%20Yitro/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Yitro](https://www.hebcal.com/sedrot/yitro).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/yitro" target="_blank">Hebcal entry for parasha Yitro</a>.
