@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: [Ex. 21:1-24:18](https://www.stepbible.org/?q=version=NASB2020|reference=Ex.21:1-24:18&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת מִּשְׁפָּטִים)](https://tikkun.io/#/p/mishpatim)<br>
-Haftarah: [Jeremiah 34:8-22, 33:25-26](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.34:8-22;33:25-26&options=HNVUG)
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.21:1-24:18&options=HNVUG" target="_blank">Ex. 21:1-24:18</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/mishpatim" target="_blank">(Hebrew: פָּרָשַׁת מִּשְׁפָּטִים)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Jer.34:8-22;33:25-26&options=HNVUG" target="_blank">Jeremiah 34:8-22, 33:25-26</a>
 
 ## Summary
 
@@ -15,14 +15,14 @@ Parasha Mishpatim details a comprehensive set of laws covering various aspects o
 
 Verse | Query | Short description
 --- | --- | --- 
-Ex. 21:1 | [Put before them](https://shebanq.ancient-data.org/hebrew/text?iid=6342&page=1&mr=r&qw=q) | How is the תָּשִׂ֖ים לִפְנֵיהֶֽם used elsewhere?
+Ex. 21:1 | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6342&page=1&mr=r&qw=q" target="_blank">Put before them</a> | How is the תָּשִׂ֖ים לִפְנֵיהֶֽם used elsewhere?
 
 ## Related Text-Fabric Notebooks
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/18%20-%20Mishpatim/hapax.ipynb)| find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/18%20-%20Mishpatim/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 
-Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Mishpatim](https://www.hebcal.com/sedrot/mispatim).
+Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/mispatim" target="_blank">Hebcal entry for parasha Mishpatim</a>.
