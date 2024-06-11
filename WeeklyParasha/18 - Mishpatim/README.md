@@ -1,4 +1,4 @@
-<span style="float: right;"><sup>Previous parasha (#17): <a href="../17%20-%20Yitro">Yitro</a> &nbsp;&nbsp;Next parasha (#19): <a href="../19%20-%20Terumah">Terumah</a></sup></span>
+<span style="float: right;"><sup><a href="../17%20-%20Yitro">Previous parasha (#17): Yitro</a> &nbsp;&nbsp;<a href="../19%20-%20Terumah">Next parasha (#19): Terumah</a></sup></span>
 
 # Parasha #18: Mishpatim (מִּשְׁפָּטִים)
 
