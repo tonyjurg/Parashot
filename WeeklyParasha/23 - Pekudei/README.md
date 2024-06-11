@@ -1,4 +1,4 @@
-<sup>Previous parasha (#22): <a href="../22%20-%20Vayakhel">Vayakhel</a> &nbsp;&nbsp;Next parasha (#24): <a href="../24%20-%20Vayikra">Vayikra</a></sup>
+<sup><a href="../22%20-%20Vayakhel">Previous parasha (#22): Vayakhel</a> &nbsp;&nbsp;<a href="../24%20-%20Vayikra">Next parasha (#24): Vayikra</a></sup>
 
 # Parasha #23: Pekudei (פְקוּדֵי)
 
