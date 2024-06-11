@@ -1,4 +1,4 @@
-<span style="float: right;"><sup>Previous parasha (#7): <a href="../07%20-%20Vayetzei">Vayetzei</a> &nbsp;&nbsp;Next parasha (#9): <a href="../09%20-%20Vayehev">Vayehev</a></sup></span>
+<span style="float: right;"><sup><a href="../07%20-%20Vayetzei">Previous parasha (#7): Vayetzei</a> &nbsp;&nbsp;<a href="../09%20-%20Vayehev">Next parasha (#9): Vayehev</a></sup></span>
 
 # Parasha #8: Vayishlach (וַיִּשְׁלַח) <a name="start"></a>
 
