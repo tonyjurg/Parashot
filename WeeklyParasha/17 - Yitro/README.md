@@ -1,4 +1,4 @@
-<span style="float: right;"><sup>Previous parasha (#16): <a href="../16%20-%20Beshalach">Beshalach</a> &nbsp;&nbsp;Next parasha (#18): <a href="../18%20-%20Mishpatim">Mishpatim</a></sup></span>
+<span style="float: right;"><sup><a href="../16%20-%20Beshalach">Previous parasha (#16): Beshalach</a> &nbsp;&nbsp;<a href="../18%20-%20Mishpatim">Next parasha (#18): Mishpatim</a></sup></span>
 
 # Parasha #17: Yitro (יִתְרוֹ)
 
