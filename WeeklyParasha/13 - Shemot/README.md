@@ -1,4 +1,4 @@
-<span style="float: right;"><sup>Previous parasha (#12): <a href="../12%20-%20Vayechi">Vayechi</a> &nbsp;&nbsp;Next parasha (#14): <a href="../14%20-%20Va'era">Va'era</a></sup></span>
+<span style="float: right;"><sup><a href="../12%20-%20Vayechi">Previous parasha (#12): Vayechi</a> &nbsp;&nbsp;<a href="../14%20-%20Va'era">Next parasha (#14): Va'era</a></sup></span>
 
 # Parasha #13: Shemot (שְׁמוֹת‎) <a name="start"></a>
 
