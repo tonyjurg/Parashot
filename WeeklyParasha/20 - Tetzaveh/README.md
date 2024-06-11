@@ -1,5 +1,5 @@
 
-<sup>Previous parasha (#19): <a href="../19%20-%20Terumah">Terumah</a> &nbsp;&nbsp;Next parasha (#21): <a href="../21%20-%20Ki%20Tisa">Ki Tisa</a></sup>
+<sup><a href="../19%20-%20Terumah">Previous parasha (#19): Terumah</a> &nbsp;&nbsp;<a href="../21%20-%20Ki%20Tisa">Next parasha (#21): Ki Tisa</a></sup>
 
 # Parasha #20: Tetzaveh (תְּצַוֶּה)
 
