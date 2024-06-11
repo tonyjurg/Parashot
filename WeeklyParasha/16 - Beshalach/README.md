@@ -1,4 +1,4 @@
-<span style="float: right;"><sup>Previous parasha (#15): <a href="../15%20-%20Bo">Bo</a> &nbsp;&nbsp;Next parasha (#17): <a href="../17%20-%20Yitro">Yitro</a></sup></span>
+<span style="float: right;"><sup><a href="../15%20-%20Bo">Previous parasha (#15): Bo</a> &nbsp;&nbsp;<a href="../17%20-%20Yitro">Next parasha (#17): Yitro</a></sup></span>
 
 # Parasha #16: Beshalach (בְּשַׁלַּח)
 
