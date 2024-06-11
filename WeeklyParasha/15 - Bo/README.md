@@ -1,4 +1,4 @@
-<span style="float: right;"><sup>Previous parasha (#14): <a href="../14%20-%20Va'era">Va'era</a> &nbsp;&nbsp;Next parasha (#16): <a href="../16%20-%20Beshalach">Beshalach</a></sup></span>
+<span style="float: right;"><sup><a href="../14%20-%20Va'era">Previous parasha (#14): Va'era</a> &nbsp;&nbsp;<a href="../16%20-%20Beshalach">Next parasha (#16): Beshalach</a></sup></span>
 
 # Parasha #15: Bo (בֹּא) <a name="start"></a>
 
