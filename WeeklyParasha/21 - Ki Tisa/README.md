@@ -1,4 +1,4 @@
-<sup>Previous parasha (#20): <a href="../20%20-%20Tetzaveh">Tetzaveh</a> &nbsp;&nbsp;Next parasha (#22): <a href="../22%20-%20Vayakhel">Vayakhel</a></sup>
+<sup><a href="../20%20-%20Tetzaveh">Previous parasha (#20): Tetzaveh</a> &nbsp;&nbsp;<a href="../22%20-%20Vayakhel">Next parasha (#22): Vayakhel</a></sup>
 
 # Parasha #21: Ki Tisa (כִּי תִשָּׂא)
 
