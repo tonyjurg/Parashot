@@ -8,7 +8,7 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=2Kgs.
 
 ## Summary
 
-Parashat Vayera ("and He appeared") continues the narrative of Abraham, focusing on his encounters with divine messengers and the impending birth of his son Isaac. The portion also includes the dramatic story of the destruction of Sodom and Gomorrah, highlighting themes of hospitality, divine intervention, and the fulfillment of God's promises to Abraham and Sarah.
+Parasha Vayera ("and He appeared") continues the narrative of Abraham, focusing on his encounters with divine messengers and the impending birth of his son Isaac. The portion also includes the dramatic story of the destruction of Sodom and Gomorrah, highlighting themes of hospitality, divine intervention, and the fulfillment of God's promises to Abraham and Sarah.
 
 ## Related SHEBANQ queries
 
