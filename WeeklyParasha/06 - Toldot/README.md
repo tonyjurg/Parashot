@@ -9,7 +9,7 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Mal.1
 
 ## Summary
 
-Parashat Toldot ("generations" or "descendants") details the birth and early lives of Isaac and Rebekah's twin sons, Esau and Jacob. The parasha highlights the stark differences between the brothers, with Esau being a skilled hunter and Jacob a quiet man dwelling in tents. It recounts how Jacob, taking advantage of Esau's hunger, persuades Esau to sell him his birthright for a bowl of lentil stew. The story also includes the deception orchestrated by Rebekah and Jacob to secure Isaac’s blessing intended for Esau, resulting in Jacob fleeing to Haran to escape Esau's wrath and find a wife from his mother's family.
+Parasha Toldot ("generations" or "descendants") details the birth and early lives of Isaac and Rebekah's twin sons, Esau and Jacob. The parasha highlights the stark differences between the brothers, with Esau being a skilled hunter and Jacob a quiet man dwelling in tents. It recounts how Jacob, taking advantage of Esau's hunger, persuades Esau to sell him his birthright for a bowl of lentil stew. The story also includes the deception orchestrated by Rebekah and Jacob to secure Isaac’s blessing intended for Esau, resulting in Jacob fleeing to Haran to escape Esau's wrath and find a wife from his mother's family.
 
 ## Related SHEBANQ queries
 
