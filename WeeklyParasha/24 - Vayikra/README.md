@@ -1,4 +1,4 @@
-<sup><a href="../23%20-%20Pekudei">Previous parasha (#23): Vayakhel</a> &nbsp;&nbsp;<a href="../25%20-%20Tzav">Next parasha (#24): Tzav</a></sup>
+<sup><a href="../23%20-%20Pekudei">Previous parasha (#23): Vayakhel</a> &nbsp;&nbsp;<a href="../25%20-%20Tzav">Next parasha (#25): Tzav</a></sup>
 
 # Parasha #24: Vayikra (וַיִּקְרָא)
 
@@ -8,7 +8,7 @@ Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Lev.1:1-
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.43:21-44:23&options=HNVUG" target="_blank">Isaiah 43:21-44:23</a>
 ## Summary
 
-To be added.
+Parasha Vayikra introduces the sacrificial system of ancient Israel, detailing various offerings such as burnt offerings, grain offerings, peace offerings, sin offerings, and guilt offerings. It provides specific instructions on how each type of offering should be conducted, emphasizing the role of sacrifices in atonement and maintaining a relationship with God. The portion underscores the importance of obedience to God's commandments and the need for atonement for sins​.
 
 ## Related SHEBANQ queries
 
