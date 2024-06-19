@@ -1,4 +1,4 @@
-<sup><a href="../35%20-%20Naso">Previous parasha (#35):Naso</a> &nbsp;&nbsp;<a href="../37%20-%20Bechukotai">Next parasha (#37): https://www.heb</a></sup>
+<sup><a href="../35%20-%20Naso">Previous parasha (#35): Naso</a> &nbsp;&nbsp;<a href="../37%20-%20Shlach Lecha">Next parasha (#37): Sh'lach Lecha</a></sup>
 
 # Parasha #36: Beha'alotcha (בְּהַעֲלֹתְךָ)
 

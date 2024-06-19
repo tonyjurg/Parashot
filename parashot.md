@@ -54,8 +54,8 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/34%20-%20Bamidbar">#34: Bamidbar (Num. 1:1-4:20)</a><br>
 <a href="WeeklyParasha/35%20-%20Naso">#35: Naso (Num. 4:21-7:89)</a><br>
 <a href="WeeklyParasha/36%20-%20BehaAlotcha">#36: Beha’alotcha (Num. 8:1-12:16)</a><br>
-<a href="WeeklyParasha/37%20-%20">#37: Shelach Lekha (Num. 13:1-15:41)</a><br>
-<a href="WeeklyParasha/38%20-%20">#38: Korach (Num. 16:1-18:32)</a><br>
+<a href="WeeklyParasha/37%20-%20Shlach%20Lecha">#37: Sh'lach Lecha (Num. 13:1-15:41)</a><br>
+<a href="WeeklyParasha/38%20-%20Korach">#38: Korach (Num. 16:1-18:32)</a><br>
 <a href="WeeklyParasha/39%20-%20Chukat">#39: Chukat (Num. 19:1-22:1)</a><br>
 <a href="WeeklyParasha/40%20-%20Balak">#40: Balak (Num. 22:2-25:9)</a><br>
 <a href="WeeklyParasha/41%20-%20Pinchas">#41: Pinchas (Num. 25:10-30:1)</a><br>
