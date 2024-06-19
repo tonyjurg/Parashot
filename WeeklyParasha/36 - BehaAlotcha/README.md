@@ -1,12 +1,12 @@
-<sup><a href="../35%20-%20Emor">Previous parasha (#35): Emor</a> &nbsp;&nbsp;<a href="../37%20-%20Bechukotai">Next parasha (#37): Bechukotai</a></sup>
+<sup><a href="../35%20-%20Naso">Previous parasha (#35):Naso</a> &nbsp;&nbsp;<a href="../37%20-%20Bechukotai">Next parasha (#37): https://www.heb</a></sup>
 
 # Parasha #36: Beha'alotcha (בְּהַעֲלֹתְךָ)
 
 ## Reading passages
 
-Torah: [Lev. 25:1-26:2](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.25:1-26:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּהַעֲלֹתְךָ)](https://tikkun.io/#/p/behaalotcha)<br>
+Torah: [Num. 8:1-12:16](https://www.stepbible.org/?q=version=NASB2020|reference=Num.8:1-12:16&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּהַעֲלֹתְךָ)](https://tikkun.io/#/p/behaalotcha)<br>
 Haftarah: 
-[Jer. 32:6-27](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.6:6-27&options=HNVUG)
+[Zechariah 2:14-4:7](https://www.stepbible.org/?q=version=NASB2020|reference=Zech.3:1-4:7&options=HNVUG) 
 
 ## Summary
 
