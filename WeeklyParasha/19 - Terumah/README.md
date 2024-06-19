@@ -9,7 +9,7 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.
 
 ## Summary
 
-To be added.
+Parasha Terumah details God's instructions to Moses for the construction of the Mishkan (Tabernacle), a portable sanctuary for the Israelites. It describes the specific offerings (terumah) requested from the people, including gold, silver, and fine fabrics, and provides detailed plans for the Ark of the Covenant, the Table of Showbread, the Menorah, and the structure of the Tabernacle itself. The portion emphasizes the importance of following God's precise instructions to create a dwelling place for His presence among the Israelites​​.
 
 ## Related SHEBANQ queries
 
