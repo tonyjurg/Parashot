@@ -10,7 +10,7 @@ Haftarah:  <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs
 
 ## Summary
 
-Parashat Chayei-Sarah ("life of Sarah") begins with the death of Sarah and Abraham's purchase of the Cave of Machpelah as a burial site for her. It also details Abraham's efforts to find a suitable wife, Rebekah, for his son Isaac, emphasizing the importance of maintaining the family line and God's providence in guiding their actions.
+Parasha Chayei-Sarah ("life of Sarah") begins with the death of Sarah and Abraham's purchase of the Cave of Machpelah as a burial site for her. It also details Abraham's efforts to find a suitable wife, Rebekah, for his son Isaac, emphasizing the importance of maintaining the family line and God's providence in guiding their actions.
 
 ## Related SHEBANQ queries
 
