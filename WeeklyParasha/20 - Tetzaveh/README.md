@@ -10,7 +10,7 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ezek.
 
 ## Summary
 
-To be added.
+Parasha Tetzaveh continues the instructions for the Mishkan, focusing on the garments and consecration of the priests. It details the design and materials for the priestly garments, including the ephod, breastplate, robe, tunic, turban, and sash, and describes the ordination ceremony for Aaron and his sons. The portion also covers the preparation of the altar of incense, emphasizing the need for purity and holiness in serving God​​.
 
 ## Related SHEBANQ queries
 
