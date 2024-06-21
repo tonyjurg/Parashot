@@ -1,4 +1,4 @@
-<sup>Previous parasha (#38): <a href="../38%20-%20Korach">Korach</a> &nbsp;&nbsp;Next parasha (#40): <a href="../40%20-%20Balak">Balak</a></sup>
+<sup><a href="../38%20-%20Korach">Previous parasha (#38): Korach</a> &nbsp;&nbsp;<a href="../40%20-%20Balak">Next parasha (#40): Balak</a></sup>
 
 # Parasha #39: Chukat (חֻקַּת)
 
