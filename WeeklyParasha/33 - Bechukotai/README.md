@@ -1,4 +1,4 @@
-<sup><a href="../32%20-%20Behar">Previous parasha (#32): Behar</a> &nbsp;&nbsp;<a href="../34%20-%20Bamidbar">Next parasha (#34): Bamidbar</a></sup>
+<sup><a href="../32%20-%20BeHar">Previous parasha (#32): Behar</a> &nbsp;&nbsp;<a href="../34%20-%20Bamidbar">Next parasha (#34): Bamidbar</a></sup>
 
 # Parasha #33: Bechukotai (בְּחֻקֹּתַי)
 
