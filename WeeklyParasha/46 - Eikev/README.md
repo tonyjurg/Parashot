@@ -1,6 +1,6 @@
 <sup> <a href="../45%20-%20Va'etchanan">Previous parasha (#45): Va'etchanan</a> &nbsp;&nbsp; <a href="../47%20-%20Re'eh">Next parasha (#47): Re'eh</a></sup>
 
-# Parasha #44: Eikev (עֵקֶב)
+# Parasha #46: Eikev (עֵקֶב)
 
 ## Reading passages
 

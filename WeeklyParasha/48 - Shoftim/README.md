@@ -1,6 +1,6 @@
 <sup> <a href="../47%20-%20Re'eh">Previous parasha (#47): Re'eh</a> &nbsp;&nbsp; <a href="../49%20-%20Ki%20Teitzei">Next parasha (#49): Ki Teitzei</a></sup>
 
-# Parasha #44: Shoftim (שׁוֹפְטִים)
+# Parasha #48: Shoftim (שׁוֹפְטִים)
 
 ## Reading passages
 

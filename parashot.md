@@ -63,6 +63,22 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/43%20-%20Masei">#43: Masei (Num. 33:1-36:13)</a><br>
 </div>
 
+        <div class="grid-item">
+<h2>Devarim (Deuteronomy)</h2>
+
+<a href="WeeklyParasha/44%20-%20Devarim">#44: Devarim (Deut. 1:1-3:22 )</a><br>
+<a href="WeeklyParasha/45%20-%20Va'etchanan">#45: Va'etchanan (Deut. 3:23-7:11)</a><br>
+<a href="WeeklyParasha/46%20-%20Eikev">#46: Eikev (Deut. 8:1-12:16)</a><br>
+<a href="WeeklyParasha/47%20-%20Re’eh">#47: Re’eh (Deut. 11:26-16:17)</a><br>
+<a href="WeeklyParasha/48%20-%20Shoftim">#48: Shoftim (Deut. 16:18-21:9)</a><br>
+<a href="WeeklyParasha/49%20-%20Ki%20Teitzei">#49: Ki Teitzei (Deut. 21:10-25:19)</a><br>
+<a href="WeeklyParasha/50%20-%20Ki%20Tavo">#50: Ki Tavo (Deut. 26:1-29:8)</a><br>
+<a href="WeeklyParasha/51%20-%20Nitzavim">#51: Nitzavim (Deut. 29:9-30:20)</a><br>
+<a href="WeeklyParasha/52%20-%20Vayeilech">#52: Vayeilech (Deut. 31:1-31:30)</a><br>
+<a href="WeeklyParasha/53%20-%20Ha'azinu">#53: Ha'azinu (Deut. 32:1-32:52)</a><br>
+<a href="WeeklyParasha/54%20-%20Vezot%20Haerakhah">#54: Vezot Haerakhah (Deut. 33:1-34:12)</a><br>
+</div>
+
 </div>
 
 
