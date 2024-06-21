@@ -1,4 +1,4 @@
-<sup>Previous parasha (#31): <a href="../31%20-%20Emor">Emor</a> &nbsp;&nbsp;Next parasha (#33): <a href="../33%20-%20Bechukotai">Bechukotai</a></sup>
+<sup><a href="../31%20-%20Emor">Previous parasha (#31): Emor</a> &nbsp;&nbsp;<a href="../33%20-%20Bechukotai">Next parasha (#33): Bechukotai</a></sup>
 
 # Parasha #32: BeHar (בְּהַר)
 
