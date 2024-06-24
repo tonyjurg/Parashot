@@ -2,8 +2,8 @@
 
 A "parasha" is a section of the Torah divided for weekly reading. Each parasha encompasses a specific portion of text, and there are 54 parashot (plural for parasha) covering the entire five books of the Torah, ensuring the entire Torah is read over the course of a year. This weekly reading cycle, known as the Torah portion, is integral to Jewish liturgy and communal worship, providing a structured approach to studying and reflecting upon the Torah's teachings.
 
-   <div class="grid-container">
-        <div class="grid-item">
+<div class="grid-container">
+<div class="grid-item">
 <h2>Bereshit (Genesis)</h2>
 <a href="WeeklyParasha/01%20-%20Bereshit">#1: Bereshit (Gen. 1:1-6:8)]</a><br>
 <a href="WeeklyParasha/02%20-%20Noach">#2: Noach (Gen. 6:9-11:32)</a><br>
@@ -17,11 +17,10 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/10%20-%20Miketz">#10: Miketz (Gen. 41:1-44:17)</a><br>
 <a href="WeeklyParasha/11%20-%20Vayigash">#11: Vayigash (Gen. 44:18-47:27)</a><br>
 <a href="WeeklyParasha/12%20-%20Vayechi">#12: Vayechi (Gen. 47:28-50:26)</a>
-        </div>
+</div>
       
-        <div class="grid-item">
+<div class="grid-item">
 <h2>Shemot (Exodus)</h2>
-
 <a href="WeeklyParasha/13%20-%20Shemot">#13: Shemot (Ex. 1:1-6:1)</a><br>
 <a href="WeeklyParasha/14%20-%20Va'era">#14: Va'era (Ex. 6:2-9:35)</a><br>
 <a href="WeeklyParasha/15%20-%20Bo">#15: Bo (Ex. 10:1-13:16)</a><br>
@@ -33,11 +32,10 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/21%20-%20Ki%20Tisa">#21: Ki Tisa (Ex. 30:11-34:35)</a><br>
 <a href="WeeklyParasha/22%20-%20Vayakhel">#22: Vayakhel (Ex. 35:1-38:20)</a><br>
 <a href="WeeklyParasha/23%20-%20Pekudei">#23: Pekudei (Ex. 38:21-40:38)</a>
-        </div>
+</div>
         
-        <div class="grid-item">
+<div class="grid-item">
 <h2>Vayikra (Leviticus)</h2>
-
 <a href="WeeklyParasha/24%20-%20Vayikra">#24: Vayikra (Lev. 1:1-5:26)</a><br>
 <a href="WeeklyParasha/25%20-%20Tzav">#25: Tzav (Lev. 6:1-8:36)</a><br>
 <a href="WeeklyParasha/26%20-%20Shemini">#26: Shemeni (Lev. 9:1-11:47)</a><br>
@@ -50,9 +48,8 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/33%20-%20Bechukotai">#33: Bechukotai (Lev. 26:3-27:34)</a><br>
 </div>
 
-        <div class="grid-item">
+<div class="grid-item">
 <h2>Bamidbar (Numbers)</h2>
-
 <a href="WeeklyParasha/34%20-%20Bamidbar">#34: Bamidbar (Num. 1:1-4:20)</a><br>
 <a href="WeeklyParasha/35%20-%20Naso">#35: Naso (Num. 4:21-7:89)</a><br>
 <a href="WeeklyParasha/36%20-%20BehaAlotcha">#36: Beha’alotcha (Num. 8:1-12:16)</a><br>
@@ -65,9 +62,8 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/43%20-%20Masei">#43: Masei (Num. 33:1-36:13)</a><br>
 </div>
 
-        <div class="grid-item">
+<div class="grid-item">
 <h2>Devarim (Deuteronomy)</h2>
-
 <a href="WeeklyParasha/44%20-%20Devarim">#44: Devarim (Deut. 1:1-3:22 )</a><br>
 <a href="WeeklyParasha/45%20-%20Va'etchanan">#45: Va'etchanan (Deut. 3:23-7:11)</a><br>
 <a href="WeeklyParasha/46%20-%20Eikev">#46: Eikev (Deut. 8:1-12:16)</a><br>
@@ -80,6 +76,5 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/53%20-%20Ha'azinu">#53: Ha'azinu (Deut. 32:1-32:52)</a><br>
 <a href="WeeklyParasha/54%20-%20Vezot%20Haberakhah">#54: Vezot Haberakhah (Deut. 33:1-34:12)</a><br>
 </div>
-
 </div>
 
