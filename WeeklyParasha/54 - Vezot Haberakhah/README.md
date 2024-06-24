@@ -1,4 +1,4 @@
-<span style="float: right;"><sup> <a href="../47%20-%20Re'eh">Previous parasha (#47): Re'eh</a> &nbsp;&nbsp; <a href="../49%20-%20Ki%20Teitzei">Next parasha (#49): Ki Teitzei</a></sup></span>
+<span style="float: right;"><sup> <a href="../53%20-%20Ha'azinu">Previous parasha (#53): Ha'azinu</a> &nbsp;&nbsp; <a href="../01%20-%20Bereshit">Next parasha (#1): Bereshit</a></sup></span>
 
 # Parasha #54: Vezot Haberakhah (וְזֹאת הַבְּרָכָה)
 
