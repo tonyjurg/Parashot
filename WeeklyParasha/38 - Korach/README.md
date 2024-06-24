@@ -1,6 +1,6 @@
 <span style="float: right;"><sup><a href="../37%20-%20Shlach%20Lecha">Previous parasha (#37): Sh'lach Lecha</a> &nbsp;&nbsp;<a href="../39%20-%20Chukat">Next parasha (#39): Chukat</a></sup></span>
 
-# Parasha #37: Korach  (קוֹרַח)
+# Parasha #38: Korach  (קוֹרַח)
 
 ## Reading passages
 
