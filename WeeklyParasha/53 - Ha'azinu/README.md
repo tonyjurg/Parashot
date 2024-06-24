@@ -1,4 +1,4 @@
-<span style="float: right;"><sup> <a href="../52%20-%20Vayeilech">Previous parasha (#52): Vayeilech</a> &nbsp;&nbsp; <a href="../54%20-%20Ki%20Vezot%20Haberakhah">Next parasha (#54): Vezot Haberakhah</a></sup></span>
+<span style="float: right;"><sup> <a href="../52%20-%20Vayeilech">Previous parasha (#52): Vayeilech</a> &nbsp;&nbsp; <a href="../54%20-%20Vezot%20Haberakhah">Next parasha (#54): Vezot Haberakhah</a></sup></span>
 
 # Parasha #53: Ha’azinu (הַאֲזִינוּ)
 
