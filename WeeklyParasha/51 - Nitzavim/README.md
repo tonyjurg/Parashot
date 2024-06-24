@@ -1,4 +1,4 @@
-<span style="float: right;"><sup> <a href="../50%20-%20Ki%20Ki%20Tavo">Previous parasha (#50): Ki Tavo</a> &nbsp;&nbsp; <a href="../52%20-%20Ki%20Ki%20Vayeilech">Next parasha (#52): Vayeilech</a></sup></span>
+<span style="float: right;"><sup> <a href="../50%20-%20Ki%20Ki%20Tavo">Previous parasha (#50): Ki Tavo</a> &nbsp;&nbsp; <a href="../52%20-%20Vayeilech">Next parasha (#52): Vayeilech</a></sup></span>
 
 # Parasha #51: Nitzavim (נִצָּבִים)
 
