@@ -1,4 +1,4 @@
-<sup> <a href="../44%20-%20Devarim">Previous parasha (#44): Devarim</a> &nbsp;&nbsp; <a href="../46%20-%20Eikev">Next parasha (#46): Eikev</a></sup>
+<span style="float: right;"><sup> <a href="../44%20-%20Devarim">Previous parasha (#44): Devarim</a> &nbsp;&nbsp; <a href="../46%20-%20Eikev">Next parasha (#46): Eikev</a></sup></span><br>
 
 # Parasha #45: Va'etchanan (וָאֶתְחַנַּן)
 

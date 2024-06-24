@@ -1,4 +1,4 @@
-<sup> <a href="../40%20-%20Balak">Previous parasha (#40): Balak</a> &nbsp;&nbsp; <a href="../42%20-%20Mattot">Next parasha (#42): Mattot</a></sup>
+<span style="float: right;"><sup> <a href="../40%20-%20Balak">Previous parasha (#40): Balak</a> &nbsp;&nbsp; <a href="../42%20-%20Mattot">Next parasha (#42): Mattot</a></sup></span>
 
 # Parasha #41: Pinchas (פִּינְחָס)
 

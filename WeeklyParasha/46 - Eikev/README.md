@@ -1,4 +1,4 @@
-<sup> <a href="../45%20-%20Va'etchanan">Previous parasha (#45): Va'etchanan</a> &nbsp;&nbsp; <a href="../47%20-%20Re'eh">Next parasha (#47): Re'eh</a></sup>
+<span style="float: right;"><sup> <a href="../45%20-%20Va'etchanan">Previous parasha (#45): Va'etchanan</a> &nbsp;&nbsp; <a href="../47%20-%20Re'eh">Next parasha (#47): Re'eh</a></sup></span>
 
 # Parasha #46: Eikev (עֵקֶב)
 

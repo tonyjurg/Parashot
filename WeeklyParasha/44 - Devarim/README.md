@@ -1,4 +1,4 @@
-<sup> <a href="../43%20-%20Masei">Previous parasha (#43): Masei</a> &nbsp;&nbsp; <a href="../45%20-%20Va'etchanan">Next parasha (#45): Va'etchanan</a></sup>
+<span style="float: right;"><sup> <a href="../43%20-%20Masei">Previous parasha (#43): Masei</a> &nbsp;&nbsp; <a href="../45%20-%20Va'etchanan">Next parasha (#45): Va'etchanan</a></sup></span>
 
 # Parasha #44: Devarim (דְּבָרִים)
 
@@ -22,7 +22,7 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/40%20-%20Devarim/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/44%20-%20Devarim/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
 
 ## Hebcal
 

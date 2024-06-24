@@ -1,4 +1,4 @@
-<sup><a href="../34%20-%20Bamidbar">Previous parasha (#34): Bamidbar</a> &nbsp;&nbsp;<a href="../36%20-%20BehaAlotcha">Next parasha (#36): Beha'alotcha</a></sup>
+<span style="float: right;"><sup><a href="../34%20-%20Bamidbar">Previous parasha (#34): Bamidbar</a> &nbsp;&nbsp;<a href="../36%20-%20BehaAlotcha">Next parasha (#36): Beha'alotcha</a></sup></span>
 
 # Parasha #35: Naso (נָשׂא)
 

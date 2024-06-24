@@ -1,4 +1,4 @@
-<sup><a href="../28%20-%20Metzora">Previous parasha (#28): Metzora</a> &nbsp;&nbsp;<a href="../30%20-%20Kedoshim">Next parasha (#30): Kedoshim</a></sup>
+<span style="float: right;"><sup><a href="../28%20-%20Metzora">Previous parasha (#28): Metzora</a> &nbsp;&nbsp;<a href="../30%20-%20Kedoshim">Next parasha (#30): Kedoshim</a></sup></span>
 
 # Parasha #29: Achrei Mot (אַחֲרֵי מוֹת)
 

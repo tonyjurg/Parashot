@@ -1,4 +1,4 @@
-<sup> <a href="../41%20-%20Pinchas">Previous parasha (#41): Pinchas</a> &nbsp;&nbsp; <a href="../43%20-%20Masei">Next parasha (#43): Masei</a></sup>
+<span style="float: right;"><sup> <a href="../41%20-%20Pinchas">Previous parasha (#41): Pinchas</a> &nbsp;&nbsp; <a href="../43%20-%20Masei">Next parasha (#43): Masei</a></sup></span>
 
 # Parasha #42: Mattot (מַּטּוֹת)
 

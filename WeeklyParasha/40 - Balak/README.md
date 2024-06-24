@@ -1,4 +1,4 @@
-<sup> <a href="../39%20-%20Chukat">Previous parasha (#39): Chukat</a> &nbsp;&nbsp; <a href="../41%20-%20Pinchas">Next parasha (#41): Pinchas</a></sup>
+<span style="float: right;"><sup> <a href="../39%20-%20Chukat">Previous parasha (#39): Chukat</a> &nbsp;&nbsp; <a href="../41%20-%20Pinchas">Next parasha (#41): Pinchas</a></sup></span>
 
 # Parasha #40: Balak (בָּלָק)
 

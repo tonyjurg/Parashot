@@ -1,4 +1,4 @@
-<sup><a href="../24%20-%20Vayikra">Previous parasha (#24): Vayikra</a> &nbsp;&nbsp;<a href="../26%20-%20Shemini">Next parasha (#26): Shemini</a></sup>
+<span style="float: right;"><sup><a href="../24%20-%20Vayikra">Previous parasha (#24): Vayikra</a> &nbsp;&nbsp;<a href="../26%20-%20Shemini">Next parasha (#26): Shemini</a></sup></span>
 
 # Parasha #25: Tzav (צַו)
 

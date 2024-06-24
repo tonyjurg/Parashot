@@ -1,4 +1,4 @@
-<sup> <a href="../42%20-%20Mattot">Previous parasha (#42): Mattot</a> &nbsp;&nbsp; <a href="../44%20-%20Devarim">Next parasha (#44): Devarim</a></sup>
+<span style="float: right;"><sup> <a href="../42%20-%20Mattot">Previous parasha (#42): Mattot</a> &nbsp;&nbsp; <a href="../44%20-%20Devarim">Next parasha (#44): Devarim</a></sup></span>
 
 # Parasha #43: Masei (מַסְעֵי)
 

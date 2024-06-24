@@ -1,4 +1,4 @@
-<sup><a href="../29%20-%20Achrei%20Mot">Previous parasha (#29): Achrei Mot</a> &nbsp;&nbsp;<a href="../31%20-%20Emor">Next parasha (#31): Emor</a></sup>
+<span style="float: right;"><sup><a href="../29%20-%20Achrei%20Mot">Previous parasha (#29): Achrei Mot</a> &nbsp;&nbsp;<a href="../31%20-%20Emor">Next parasha (#31): Emor</a></sup></span>
 
 # Parasha #30: Kedoshim (קְדשִׁים)
 

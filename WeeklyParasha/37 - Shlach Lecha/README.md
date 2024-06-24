@@ -1,4 +1,4 @@
-<sup><a href="../36%20-%20BehaAlotcha">Previous parasha (#36): Beha'alotcha</a> &nbsp;&nbsp;<a href="../38%20-%20Korach">Next parasha (#38): Korach</a></sup>
+<span style="float: right;"><sup><a href="../36%20-%20BehaAlotcha">Previous parasha (#36): Beha'alotcha</a> &nbsp;&nbsp;<a href="../38%20-%20Korach">Next parasha (#38): Korach</a></sup></span>
 
 # Parasha #37: Sh'lach Lecha (שְׁלַח־לְךָ)
 

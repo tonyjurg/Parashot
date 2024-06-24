@@ -1,4 +1,4 @@
-<sup> <a href="../46%20-%20Eikev">Previous parasha (#46): Eikev</a> &nbsp;&nbsp; <a href="../48%20-%20Shoftim">Next parasha (#48): Shoftim</a></sup>
+<span style="float: right;"><sup> <a href="../46%20-%20Eikev">Previous parasha (#46): Eikev</a> &nbsp;&nbsp; <a href="../48%20-%20Shoftim">Next parasha (#48): Shoftim</a></sup></span>
 
 # Parasha #47: Re’eh (רְאֵה)
 

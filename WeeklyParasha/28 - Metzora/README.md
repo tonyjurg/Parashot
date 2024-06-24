@@ -1,4 +1,4 @@
-<sup><a href="../27%20-%20Tazria">Previous parasha (#27): Tazria</a> &nbsp;&nbsp;<a href="../29%20-%20Achrei%20Mot">Next parasha (#29): Achrei Mot</a></sup>
+<span style="float: right;"><sup><a href="../27%20-%20Tazria">Previous parasha (#27): Tazria</a> &nbsp;&nbsp;<a href="../29%20-%20Achrei%20Mot">Next parasha (#29): Achrei Mot</a></sup></span>
 
 # Parasha #28: Metzora (מְּצֹרָע)
 

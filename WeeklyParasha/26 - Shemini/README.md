@@ -1,4 +1,4 @@
-<sup><a href="../25%20-%20Tzav">Previous parasha (#25): Tzav</a> &nbsp;&nbsp;<a href="../27%20-%20Tazria">Next parasha (#27): Tazria</a></sup>
+<span style="float: right;"><sup><a href="../25%20-%20Tzav">Previous parasha (#25): Tzav</a> &nbsp;&nbsp;<a href="../27%20-%20Tazria">Next parasha (#27): Tazria</a></sup></span>
 
 # Parasha #26: Shemini (שְּׁמִינִי)
 

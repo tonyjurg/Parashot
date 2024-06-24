@@ -76,24 +76,8 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/51%20-%20Nitzavim">#51: Nitzavim (Deut. 29:9-30:20)</a><br>
 <a href="WeeklyParasha/52%20-%20Vayeilech">#52: Vayeilech (Deut. 31:1-31:30)</a><br>
 <a href="WeeklyParasha/53%20-%20Ha'azinu">#53: Ha'azinu (Deut. 32:1-32:52)</a><br>
-<a href="WeeklyParasha/54%20-%20Vezot%20Haerakhah">#54: Vezot Haerakhah (Deut. 33:1-34:12)</a><br>
+<a href="WeeklyParasha/54%20-%20Vezot%20Haberakhah">#54: Vezot Haberakhah (Deut. 33:1-34:12)</a><br>
 </div>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

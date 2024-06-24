@@ -1,4 +1,4 @@
-<sup><a href="../26%20-%20Shemini">Previous parasha (#26): Shemini</a> &nbsp;&nbsp;<a href="../28%20-%20Metzora">Next parasha (#28): Metzora</a></sup>
+<span style="float: right;"><sup><a href="../26%20-%20Shemini">Previous parasha (#26): Shemini</a> &nbsp;&nbsp;<a href="../28%20-%20Metzora">Next parasha (#28): Metzora</a></sup></span>
 
 # Parasha #27: Tazria (תַזְרִיעַ)
 

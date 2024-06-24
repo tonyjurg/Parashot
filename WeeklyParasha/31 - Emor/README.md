@@ -1,4 +1,4 @@
-<sup><a href="../30%20-%20Kedoshim">Previous parasha (#30): Kedoshim</a> &nbsp;&nbsp;<a href="../32%20-%20BeHar">Next parasha (#32): Behar</a></sup>
+<span style="float: right;"><sup><a href="../30%20-%20Kedoshim">Previous parasha (#30): Kedoshim</a> &nbsp;&nbsp;<a href="../32%20-%20BeHar">Next parasha (#32): Behar</a></sup></span>
 
 # Parasha #31: Emor (אֱמוֹר)
 
