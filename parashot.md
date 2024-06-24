@@ -18,6 +18,7 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/11%20-%20Vayigash">#11: Vayigash (Gen. 44:18-47:27)</a><br>
 <a href="WeeklyParasha/12%20-%20Vayechi">#12: Vayechi (Gen. 47:28-50:26)</a>
         </div>
+      
         <div class="grid-item">
 <h2>Shemot (Exodus)</h2>
 
@@ -33,6 +34,7 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/22%20-%20Vayakhel">#22: Vayakhel (Ex. 35:1-38:20)</a><br>
 <a href="WeeklyParasha/23%20-%20Pekudei">#23: Pekudei (Ex. 38:21-40:38)</a>
         </div>
+        
         <div class="grid-item">
 <h2>Vayikra (Leviticus)</h2>
 
