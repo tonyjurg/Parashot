@@ -1,4 +1,4 @@
-<span style="float: right;"><sup> <a href="../48%20-%20Shoftim">Previous parasha (#48): Shoftim</a> &nbsp;&nbsp; <a href="../50%20-%20Ki%20Tavo">Next parasha (#50):Ki Tavo</a></sup></span>
+<span style="float: right;"><sup> <a href="../48%20-%20Shoftim">Previous parasha (#48): Shoftim</a> &nbsp;&nbsp; <a href="../50%20-%20Ki%20Tavo">Next parasha (#50): Ki Tavo</a></sup></span>
 
 # Parasha #49: Ki Teitzei (כִּי־תֵצֵא)
 
