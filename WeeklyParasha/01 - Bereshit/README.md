@@ -1,5 +1,5 @@
 
-<span style="float: right;"><sup> <a href="../54%20-%20Ki%20Vezot%20Haberakhah">Previous parasha (#54): Vezot Haberakhah</a> &nbsp;&nbsp; <a href="../02%20-%20Noach">Next parasha (#2): Noach</a></sup></span>
+<span style="float: right;"><sup> <a href="../54%20-%20Vezot%20Haberakhah">Previous parasha (#54): Vezot Haberakhah</a> &nbsp;&nbsp; <a href="../02%20-%20Noach">Next parasha (#2): Noach</a></sup></span>
 # Parasha #1: Bereshit (בְּרֵאשִׁית) <a name="start"></a> 
 ## Reading passages
 
