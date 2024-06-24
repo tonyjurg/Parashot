@@ -1,4 +1,4 @@
-<span style="float: right;"><sup> <a href="../47%20-%20Re'eh">Previous parasha (#47): Re'eh</a> &nbsp;&nbsp; <a href="../49%20-%20Ki%20Teitzei">Next parasha (#49): Ki Teitzei</a></sup></span>
+<span style="float: right;"><sup> <a href="../51%20-%20Nitzavim">Previous parasha (#51): Nitzavim</a> &nbsp;&nbsp; <a href="../53%20-%20Ha'azinu">Next parasha (#53): Ha'azinu</a></sup></span>
 
 # Parasha #52: Vayeilech (וַיֵּלֶךְ)
 
