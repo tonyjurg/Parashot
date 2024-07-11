@@ -16,7 +16,7 @@ Parasha Beha'alotcha begins with instructions for Aaron to light the menorah and
 
 Verse | Query | Short description
 --- | --- | --- 
-
+||
 
 ## Related Text-Fabric Notebooks
 
