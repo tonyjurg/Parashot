@@ -1,0 +1,9 @@
+.gsc-input {
+    width: 200px !important; /* Adjust the width as needed */
+    height: 30px !important;  /* Adjust the height as needed */
+    font-size: 12px !important; /* Adjust the font size as needed */
+}
+
+.gsc-search-button {
+    height: 30px !important;  /* Adjust the height as needed to match the input */
+}
