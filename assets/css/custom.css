@@ -11,4 +11,6 @@
 
 gsc-input-box {
     border: 0px !important;
+    width: 170px !important; 
+    height: 20px !important;  
 }
