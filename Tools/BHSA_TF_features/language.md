@@ -1,21 +1,25 @@
-Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/etcbc/BHSA/tree/master/tf) (version 2021)
+Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/ETCBC/BHSA/tree/master/tf) (version 2021)
 # Feature: language
 Data type|Feature type|Available for nodes
 ---|---|---
-[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`lex`](featurebynodetype.md#lex)  [`word`](featurebynodetype.md#word) 
+[`String`](featuresbydatatype.md#string)|[`Node`](featuresbytype.md#node)| [`lex`](featuresbynodetype.md#lex)  [`word`](featuresbynodetype.md#word) 
 ## Description
 ✅ of word or lexeme (Hebrew; Aramaic.)
 ## Feature Values
-### Frequency for nodetype [lex](featurebynodetype.md#lex)
+### Frequency for nodetype [lex](featuresbynodetype.md#lex)
 Value|Occurences
 ---|---
 Hebrew|8522
 Aramaic|708
-### Frequency for nodetype [word](featurebynodetype.md#word)
+
+Total frequency of feature: 9230.
+ ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
 Hebrew|420484
 Aramaic|6106
- 
 
-Created on Feb. 04, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Total frequency of feature: 426590.
+  
+
+Created on Aug. 23, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

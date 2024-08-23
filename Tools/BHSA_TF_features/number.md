@@ -1,12 +1,12 @@
-Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/etcbc/BHSA/tree/master/tf) (version 2021)
+Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/ETCBC/BHSA/tree/master/tf) (version 2021)
 # Feature: number
 Data type|Feature type|Available for nodes
 ---|---|---
-[`Integer`](featurebydatatype.md#integer)|[`Node`](featurebytype.md#node)| [`sentence`](featurebynodetype.md#sentence)  [`sentence_atom`](featurebynodetype.md#sentence_atom)  [`clause`](featurebynodetype.md#clause)  [`clause_atom`](featurebynodetype.md#clause_atom)  [`phrase`](featurebynodetype.md#phrase)  [`phrase_atom`](featurebynodetype.md#phrase_atom)  [`subphrase`](featurebynodetype.md#subphrase)  [`word`](featurebynodetype.md#word) 
+[`Integer`](featuresbydatatype.md#integer)|[`Node`](featuresbytype.md#node)| [`sentence`](featuresbynodetype.md#sentence)  [`sentence_atom`](featuresbynodetype.md#sentence_atom)  [`clause`](featuresbynodetype.md#clause)  [`clause_atom`](featuresbynodetype.md#clause_atom)  [`phrase`](featuresbynodetype.md#phrase)  [`phrase_atom`](featuresbynodetype.md#phrase_atom)  [`subphrase`](featuresbynodetype.md#subphrase)  [`word`](featuresbynodetype.md#word) 
 ## Description
 ✅ sequence number of an object within its context
 ## Feature Values
-### Frequency for nodetype [sentence](featurebynodetype.md#sentence)
+### Frequency for nodetype [sentence](featuresbynodetype.md#sentence)
 Value|Occurences
 ---|---
 1|929
@@ -19,7 +19,9 @@ Value|Occurences
 8|925
 9|921
 10|921
-### Frequency for nodetype [sentence_atom](featurebynodetype.md#sentence_atom)
+
+Total frequency of feature: 63717. Note: table truncated.
+ ### Frequency for nodetype [sentence_atom](featuresbynodetype.md#sentence_atom)
 Value|Occurences
 ---|---
 1|968
@@ -32,7 +34,9 @@ Value|Occurences
 8|964
 9|960
 10|960
-### Frequency for nodetype [clause](featurebynodetype.md#clause)
+
+Total frequency of feature: 128231. Note: table truncated.
+ ### Frequency for nodetype [clause](featuresbynodetype.md#clause)
 Value|Occurences
 ---|---
 1|63717
@@ -45,7 +49,9 @@ Value|Occurences
 8|164
 9|118
 10|68
-### Frequency for nodetype [clause_atom](featurebynodetype.md#clause_atom)
+
+Total frequency of feature: 88131. Note: table truncated.
+ ### Frequency for nodetype [clause_atom](featuresbynodetype.md#clause_atom)
 Value|Occurences
 ---|---
 1|63756
@@ -58,7 +64,9 @@ Value|Occurences
 8|203
 9|157
 10|107
-### Frequency for nodetype [phrase](featurebynodetype.md#phrase)
+
+Total frequency of feature: 178835. Note: table truncated.
+ ### Frequency for nodetype [phrase](featuresbynodetype.md#phrase)
 Value|Occurences
 ---|---
 1|88131
@@ -70,7 +78,9 @@ Value|Occurences
 7|122
 8|11
 9|3
-### Frequency for nodetype [phrase_atom](featurebynodetype.md#phrase_atom)
+
+Total frequency of feature: 253203.
+ ### Frequency for nodetype [phrase_atom](featuresbynodetype.md#phrase_atom)
 Value|Occurences
 ---|---
 1|88170
@@ -83,7 +93,9 @@ Value|Occurences
 8|50
 9|42
 10|39
-### Frequency for nodetype [subphrase](featurebynodetype.md#subphrase)
+
+Total frequency of feature: 520735. Note: table truncated.
+ ### Frequency for nodetype [subphrase](featuresbynodetype.md#subphrase)
 Value|Occurences
 ---|---
 1|88131
@@ -95,7 +107,9 @@ Value|Occurences
 7|122
 8|11
 9|3
-### Frequency for nodetype [word](featurebynodetype.md#word)
+
+Total frequency of feature: 253203.
+ ### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
 1|39
@@ -108,6 +122,8 @@ Value|Occurences
 8|39
 9|39
 10|39
- 
 
-Created on Feb. 04, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Total frequency of feature: 426590. Note: table truncated.
+  
+
+Created on Aug. 23, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

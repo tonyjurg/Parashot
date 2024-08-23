@@ -1,11 +1,11 @@
-Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/etcbc/BHSA/tree/master/tf) (version 2021)
+Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/ETCBC/BHSA/tree/master/tf) (version 2021)
 # Feature: oslots
 Data type|Feature type|Available for nodes
 ---|---|---
-[`String`](featurebydatatype.md#string)|[`Edge`](featurebytype.md#edge)|
+[`String`](featuresbydatatype.md#string)|[`Edge`](featuresbytype.md#edge)|
 ## Description
 No feature description
 ## Feature Values
  
 
-Created on Feb. 04, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Created on Aug. 23, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

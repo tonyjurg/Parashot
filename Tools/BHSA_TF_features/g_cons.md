@@ -1,12 +1,12 @@
-Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/etcbc/BHSA/tree/master/tf) (version 2021)
+Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/ETCBC/BHSA/tree/master/tf) (version 2021)
 # Feature: g_cons
 Data type|Feature type|Available for nodes
 ---|---|---
-[`String`](featurebydatatype.md#string)|[`Node`](featurebytype.md#node)| [`word`](featurebynodetype.md#word) 
+[`String`](featuresbydatatype.md#string)|[`Node`](featuresbytype.md#node)| [`word`](featuresbynodetype.md#word) 
 ## Description
 ✅ word consonantal-transliterated (B R>CJT BR> >LHJM ...)
 ## Feature Values
-### Frequency for nodetype [word](featurebynodetype.md#word)
+### Frequency for nodetype [word](featuresbynodetype.md#word)
 Value|Occurences
 ---|---
 W|50968
@@ -19,6 +19,8 @@ JHWH|6828
 M|6245
 >CR|5547
 KL|5272
- 
 
-Created on Feb. 04, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Total frequency of feature: 426590. Note: table truncated.
+  
+
+Created on Aug. 23, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 

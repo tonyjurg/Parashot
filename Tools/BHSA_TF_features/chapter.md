@@ -1,12 +1,12 @@
-Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/etcbc/BHSA/tree/master/tf) (version 2021)
+Doc4TF pages for [BHSA = Biblia Hebraica Stuttgartensia Amstelodamensis](https://github.com/ETCBC/BHSA/tree/master/tf) (version 2021)
 # Feature: chapter
 Data type|Feature type|Available for nodes
 ---|---|---
-[`Integer`](featurebydatatype.md#integer)|[`Node`](featurebytype.md#node)| [`chapter`](featurebynodetype.md#chapter)  [`verse`](featurebynodetype.md#verse)  [`half_verse`](featurebynodetype.md#half_verse) 
+[`Integer`](featuresbydatatype.md#integer)|[`Node`](featuresbytype.md#node)| [`chapter`](featuresbynodetype.md#chapter)  [`verse`](featuresbynodetype.md#verse)  [`half_verse`](featuresbynodetype.md#half_verse) 
 ## Description
 ✅ chapter number (1; 2; 3; ...)
 ## Feature Values
-### Frequency for nodetype [chapter](featurebynodetype.md#chapter)
+### Frequency for nodetype [chapter](featuresbynodetype.md#chapter)
 Value|Occurences
 ---|---
 1|39
@@ -19,32 +19,38 @@ Value|Occurences
 8|28
 9|27
 10|26
-### Frequency for nodetype [verse](featurebynodetype.md#verse)
-Value|Occurences
----|---
-2|959
-1|897
-3|850
-7|836
-4|773
-6|714
-9|712
-8|707
-5|687
-10|652
-### Frequency for nodetype [half_verse](featurebynodetype.md#half_verse)
-Value|Occurences
----|---
-2|959
-1|897
-3|850
-7|836
-4|773
-6|714
-9|712
-8|707
-5|687
-10|652
- 
 
-Created on Feb. 04, 2024 using [Doc4TF  version 0.3 (Jan. 24, 2024)](https://github.com/tonyjurg/Doc4TF) 
+Total frequency of feature: 929. Note: table truncated.
+ ### Frequency for nodetype [verse](featuresbynodetype.md#verse)
+Value|Occurences
+---|---
+2|959
+1|897
+3|850
+7|836
+4|773
+6|714
+9|712
+8|707
+5|687
+10|652
+
+Total frequency of feature: 23213. Note: table truncated.
+ ### Frequency for nodetype [half_verse](featuresbynodetype.md#half_verse)
+Value|Occurences
+---|---
+2|959
+1|897
+3|850
+7|836
+4|773
+6|714
+9|712
+8|707
+5|687
+10|652
+
+Total frequency of feature: 23213. Note: table truncated.
+  
+
+Created on Aug. 23, 2024 using [Doc4TF version 0.5.2 (July 10, 2024)](https://github.com/tonyjurg/Doc4TF/blob/main/CreateFeatureDoc.ipynb) 
