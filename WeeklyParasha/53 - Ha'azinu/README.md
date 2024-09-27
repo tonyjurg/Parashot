@@ -27,3 +27,9 @@ GitHub | NBviewer | Short description
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/haazinu" target="_blank">Hebcal entry for parasha Ha’azinu</a>.
+
+## AI generated image
+
+<img src="images/DALL_E_prompt_Deut_32_1-4.jpg">
+
+DALL.E image in responce to entering Deut. 32:1-4 as prompt.
