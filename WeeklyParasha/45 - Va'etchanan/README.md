@@ -16,6 +16,7 @@ Parasha Va'etchanan features Moses' heartfelt plea to enter the Promised Land, w
 
 Verse | Query | Short description
 --- | --- | --- 
+||
 
 
 ## Related Text-Fabric Notebooks
