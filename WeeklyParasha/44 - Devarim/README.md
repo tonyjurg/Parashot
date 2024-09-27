@@ -16,7 +16,7 @@ Parasha Devarim marks the beginning of Moses' farewell speech to the Israelites,
 
 Verse | Query | Short description
 --- | --- | --- 
-
+||
 
 ## Related Text-Fabric Notebooks
 
