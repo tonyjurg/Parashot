@@ -11,13 +11,13 @@ Haftarah:
 
 ## Summary
 
-To be added.
+Parasha Balak tells the story of Balak, the king of Moab, who hires the prophet Balaam to curse the Israelites. However, each time Balaam attempts to curse them, God intervenes, and instead, Balaam blesses Israel multiple times, including delivering a famous prophecy about a future king from Israel. The portion concludes with Israelite men succumbing to idolatry and immorality with Moabite women, leading to a deadly plague that is only stopped by the zealous action of Phinehas.
 
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
 --- | --- | --- 
-Num. 22:22,32 | <a href="https://shebanq.ancient-data.org/hebrew/queries?goto=6626&page=1&mr=r&qw=q" target="_blank">Adversary / Satan (& prep/art</a> | Evaluat the use of substantive שָׂטָן (satan)
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.22:22-23&options=HNVUG" target="_blank">Num. 22:22,32</a> | <a href="https://shebanq.ancient-data.org/hebrew/queries?goto=6626&page=1&mr=r&qw=q" target="_blank">Adversary / Satan (& prep/art</a> | Evaluat the use of substantive שָׂטָן (satan)
 
 
 ## Related Text-Fabric Notebooks
