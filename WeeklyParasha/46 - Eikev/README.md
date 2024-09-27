@@ -16,7 +16,7 @@ Parasha Eikev emphasizes the rewards of obedience to God's commandments, promisi
 
 Verse | Query | Short description
 --- | --- | --- 
-
+||
 
 ## Related Text-Fabric Notebooks
 
