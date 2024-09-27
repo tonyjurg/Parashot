@@ -28,3 +28,8 @@ GitHub | NBviewer | Short description
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/noach" target="_blank">Hebcal entry for parasha Noach</a>.
+
+## AI generated image
+
+<img src="images/DALL_E_Noah_animals_exiting_the_ark.jpg">
+DALL.E image generated with the prompt 'A scene from the biblical story of Noah's Ark where animals are seen exiting the large wooden ark.'
