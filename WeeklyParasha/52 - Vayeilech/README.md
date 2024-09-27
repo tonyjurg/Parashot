@@ -16,6 +16,7 @@ Parasha Vayeilech describes Moses' final actions as he prepares for his death. H
 
 Verse | Query | Short description
 --- | --- | --- 
+||
 
 ## Related Text-Fabric Notebooks
 
