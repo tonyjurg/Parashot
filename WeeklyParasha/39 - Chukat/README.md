@@ -21,7 +21,9 @@ Num. 21:3 | [the Lord listend](https://shebanq.ancient-data.org/hebrew/query?ver
 
 ## Related Text-Fabric Notebooks
 
-To be added
+GitHub | NBviewer | Short description
+---|---|---
+[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/39%20-%20Chukat/hapax.ipynb)| find unique words (*hapax legomena*)
 
 ## Hebcal
 
