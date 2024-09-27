@@ -16,6 +16,7 @@ Parasha Naso includes instructions on the duties of the Levites, the laws of the
 
 Verse | Query | Short description
 --- | --- | --- 
+||
 
 
 ## Related Text-Fabric Notebooks
