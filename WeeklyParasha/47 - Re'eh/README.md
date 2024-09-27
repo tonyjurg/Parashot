@@ -16,7 +16,7 @@ Parasha Re'eh presents a choice between blessings and curses based on Israel's o
 
 Verse | Query | Short description
 --- | --- | --- 
-
+||
 
 ## Related Text-Fabric Notebooks
 
