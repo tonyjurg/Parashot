@@ -10,12 +10,13 @@ Haftarah:
 
 ## Summary
 
-To be added.
+Parasha Korach describes the rebellion of Korach, Dathan, and Abiram, who challenge the leadership of Moses and the priesthood of Aaron. In response, God dramatically punishes the rebels, causing the earth to swallow them and sending a plague, which is only stopped by Aaron’s atonement. The portion concludes with further instructions regarding the duties and privileges of the priests and Levites, reinforcing Aaron's position as the divinely chosen high priest.
 
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
 --- | --- | --- 
+||
 
 
 ## Related Text-Fabric Notebooks
