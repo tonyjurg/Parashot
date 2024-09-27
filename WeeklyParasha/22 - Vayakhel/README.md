@@ -9,7 +9,7 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.
 
 ## Summary
 
-To be added.
+Parasha Vayakhel details Moses gathering the Israelites to instruct them on the construction of the Tabernacle, emphasizing the importance of observing the Sabbath even during this holy work. The portion highlights the voluntary contributions of materials, skills, and labor from the people, as they enthusiastically donate gold, silver, fabrics, and their craftsmanship to build the sacred space. It also describes the actual construction of key elements of the Tabernacle, including the Ark, the Table, the Menorah, and the Altar, as well as the courtyard that surrounds them.
 
 ## Related SHEBANQ queries
 
