@@ -16,7 +16,7 @@ Parasha Shoftim focuses on establishing a fair and just society by setting guide
 
 Verse | Query | Short description
 --- | --- | --- 
-
+||
 
 ## Related Text-Fabric Notebooks
 
