@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-To be added.
+Parasha Devarim marks the beginning of Moses' farewell speech to the Israelites, recounting their 40-year journey through the wilderness and their past rebellions against God. Moses reflects on key events, including the sending of the spies, their refusal to enter the Promised Land, and subsequent wanderings, reminding them of God's guidance and victories over their enemies. He encourages the new generation to trust in God as they prepare to finally enter and conquer the land He promised to their ancestors.
 
 ## Related SHEBANQ queries
 
