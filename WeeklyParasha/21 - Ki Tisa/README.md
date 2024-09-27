@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-To be added.
+Parasha Ki Tisa includes instructions for a census, the making of sacred items like the bronze laver, and the formula for anointing oil and incense for the Tabernacle. The narrative also describes the sin of the Golden Calf, where the Israelites, in Moses' absence, build an idol, leading to God's anger and Moses' intercession on their behalf. The portion concludes with Moses receiving a second set of tablets, renewed covenant terms, and his radiant face reflecting the glory of God after encountering Him on Mount Sinai.
 
 ## Related SHEBANQ queries
 
