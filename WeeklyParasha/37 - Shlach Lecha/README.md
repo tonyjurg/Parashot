@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-To be added.
+Parasha Sh'lach Lecha recounts the story of the twelve spies sent by Moses to scout the Promised Land, ten of whom return with a fearful report, leading the Israelites to doubt God's promise and rebel. As a result, God decrees that the current generation will wander in the wilderness for forty years, with only Joshua and Caleb, the two faithful spies, allowed to enter the land. The portion concludes with various laws, including those regarding offerings and the commandment to wear tzitzit (fringes) as a reminder to follow God's commandments.
 
 ## Related SHEBANQ queries
 
