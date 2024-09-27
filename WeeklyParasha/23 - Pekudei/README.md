@@ -9,7 +9,7 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.
 
 ## Summary
 
-To be added.
+Parasha Pekudei provides an account of the materials used for the construction of the Tabernacle and its furnishings, emphasizing the meticulous recording and completion of the work. Moses inspects the finished Tabernacle, and after confirming that everything was done according to God's instructions, he blesses the people. The portion concludes with God's glory filling the completed Tabernacle, signifying His divine presence among the Israelites as they journey through the wilderness.
 
 ## Related SHEBANQ queries
 
