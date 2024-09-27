@@ -16,7 +16,7 @@ Parasha Nitzavim is a declaration where Moses calls all of Israel to stand toget
 
 Verse | Query | Short description
 --- | --- | --- 
-
+||
 
 ## Related Text-Fabric Notebooks
 
