@@ -10,14 +10,13 @@ Haftarah:
 
 ## Summary
 
-To be added.
+Parasha Pinchas begins with God rewarding Phinehas for his zealous act in stopping the plague caused by Israel's sin with the Moabites, granting him a covenant of peace and perpetual priesthood. The portion then includes a census of the Israelites, laws concerning inheritance, and Joshua’s appointment as Moses' successor. It concludes with detailed instructions on the daily offerings and the sacrifices for the various festivals, emphasizing Israel's ongoing relationship with God through worship and devotion.
 
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
 --- | --- | --- 
-
-
+||
 
 ## Related Text-Fabric Notebooks
 
