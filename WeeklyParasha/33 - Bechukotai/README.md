@@ -16,8 +16,7 @@ Parasha Bechukotai outlines the blessings for obedience and the curses for disob
 
 Verse | Query | Short description
 --- | --- | --- 
-
-
+||
 
 ## Related Text-Fabric Notebooks
 
