@@ -17,7 +17,7 @@ Parasha Ha'azinu is Moses' final song, a poetic recounting of Israel's history, 
 Verse | Query | Short description
 --- | --- | --- 
 [Deut. 32:11](https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.32:1&options=HNVUG) | [God compared to an eagle](https://shebanq.ancient-data.org/hebrew/text?iid=6694&version=2021&page=1&mr=r&qw=q) | Where else is the construct כְנֶשֶׁר ("like an eagle") used?
-[Deut. 32:11](https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.32:1&options=HNVUG) | [hovering over his young](https://shebanq.ancient-data.org/hebrew/text?iid=6298&version=2021&page=1&mr=r&qw=q) | Where else it the eagle hovering?
+[Deut. 32:11](https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.32:1&options=HNVUG) | [Hovering over his young](https://shebanq.ancient-data.org/hebrew/text?iid=6298&version=2021&page=1&mr=r&qw=q) | Where else it the eagle hovering?
 
 
 ## Related Text-Fabric Notebooks
