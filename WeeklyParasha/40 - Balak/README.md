@@ -17,7 +17,7 @@ Parasha Balak tells the story of Balak, the king of Moab, who hires the prophet 
 
 Verse | Query | Short description
 --- | --- | --- 
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.22:22-23&options=HNVUG" target="_blank">Num. 22:22,32</a> | <a href="https://shebanq.ancient-data.org/hebrew/queries?goto=6626&page=1&mr=r&qw=q" target="_blank">Adversary / Satan (& prep/art</a> | Evaluat the use of substantive שָׂטָן (satan)
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.22:22-23&options=HNVUG" target="_blank">Num. 22:22,32</a> | <a href="https://shebanq.ancient-data.org/hebrew/queries?goto=6626&page=1&mr=r&qw=q" target="_blank">Adversary / Satan (& prep/art</a> | Evaluate the use of substantive שָׂטָן (satan)
 
 
 ## Related Text-Fabric Notebooks
