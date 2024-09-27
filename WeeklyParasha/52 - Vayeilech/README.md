@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-To be added.
+Parasha Vayeilech describes Moses' final actions as he prepares for his death. He passes leadership to Joshua, encouraging him and the Israelites to be strong and courageous as they enter the Promised Land. God tells Moses to write down the Torah and a prophetic song (Ha'azinu), ensuring it will be a witness against Israel when they inevitably turn away, but also promising His enduring presence.
 
 ## Related SHEBANQ queries
 
