@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-To be added.
+Parasha Eikev emphasizes the rewards of obedience to God's commandments, promising prosperity, victory over enemies, and blessings in the Promised Land if Israel remains faithful. Moses reminds the people of God's past faithfulness, their own past rebellions, and the importance of humility, urging them not to forget God once they experience success. The portion highlights the need for gratitude, trust in God's provision, and the continuous observance of His laws to ensure ongoing protection and favor.
 
 ## Related SHEBANQ queries
 
