@@ -16,7 +16,7 @@ Parasha Ki Teitzei contains a diverse collection of laws governing ethical behav
 
 Verse | Query | Short description
 --- | --- | --- 
-
+||
 
 ## Related Text-Fabric Notebooks
 
