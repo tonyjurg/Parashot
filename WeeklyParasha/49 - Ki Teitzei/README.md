@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-To be added.
+Parasha Ki Teitzei contains a diverse collection of laws governing ethical behavior, social justice, and personal conduct, touching on topics such as family relationships, the treatment of captives, and economic fairness. It emphasizes the protection of vulnerable individuals, including widows, orphans, and strangers, while promoting honesty in business and community life. The portion also concludes with the command to remember the Amalekites' attack on Israel and to erase their memory as a matter of justice.
 
 ## Related SHEBANQ queries
 
