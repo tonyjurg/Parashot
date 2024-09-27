@@ -16,7 +16,7 @@ Parasha Ki Tavo outlines the rituals that the Israelites must perform once they 
 
 Verse | Query | Short description
 --- | --- | --- 
-
+||
 
 ## Related Text-Fabric Notebooks
 
