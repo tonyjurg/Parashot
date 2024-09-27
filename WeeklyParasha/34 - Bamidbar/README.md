@@ -16,6 +16,7 @@ Parasha Bamidbar details the census of the Israelites taken in the wilderness of
 
 Verse | Query | Short description
 --- | --- | --- 
+||
 
 
 ## Related Text-Fabric Notebooks
