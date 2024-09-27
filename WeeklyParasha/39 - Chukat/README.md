@@ -16,7 +16,7 @@ Parasha Chukat introduces the laws of the red heifer, used for ritual purificati
 
 Verse | Query | Short description
 --- | --- | --- 
-Num. 21:3 | [the Lord listend](https://shebanq.ancient-data.org/hebrew/query?version=2017&id=2937&page=1&mr=r&qw=q) | The Lord listened to the people of Israel
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.21:3&options=HNVUG" target="_blank">Num. 21:3</a> | [the Lord listend](https://shebanq.ancient-data.org/hebrew/query?version=2017&id=2937&page=1&mr=r&qw=q) | The Lord listened to the people of Israel
 
 
 ## Related Text-Fabric Notebooks
