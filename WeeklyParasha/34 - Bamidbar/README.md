@@ -16,7 +16,7 @@ Parasha Bamidbar details the census of the Israelites taken in the wilderness of
 
 Verse | Query | Short description
 --- | --- | --- 
-[Num. 3:21,27,33](https://www.stepbible.org/?q=version=NASB2020\|reference=Num.3:21,27,33&options=HNVUG)| [The clan of ...](https://shebanq.ancient-data.org/hebrew/text?iid=6667&version=2021&page=1&mr=r&qw=q)| Where does מִשְׁפַּ֨חַת֙ occur?
+[Num. 3:21,27,33](https://www.stepbible.org/?q=version=NASB2020\|reference=Num.3:21,27,33&options=HNVUG)| [The clan of ...](https://shebanq.ancient-data.org/hebrew/text?iid=6667&version=2021&page=1&mr=r&qw=q)| Where is מִשְׁפַּחַת used in a construct to designate a clan?
 
 
 ## Related Text-Fabric Notebooks
