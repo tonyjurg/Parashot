@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-Parasha Ki Teitzei ("When you go out") contains a diverse collection of laws governing ethical behavior, social justice, and personal conduct, touching on topics such as family relationships, the treatment of captives, and economic fairness. It emphasizes the protection of vulnerable individuals, including widows, orphans, and strangers, while promoting honesty in business and community life. The portion also concludes with the command to remember the Amalekites' attack on Israel and to erase their memory as a matter of justice.
+Parasha Ki Teitzei ("When you go out") contains a diverse collection of laws governing ethical behavior, social justice, and personal conduct, touching on topics such as family relationships, the treatment of captives, and economic fairness. It emphasizes the protection of vulnerable individuals, including widows, orphans, and strangers, while promoting honesty in business and community life. The portion also concludes with the command to remember the Amalekites' attack on Israel and to erase their memory as a matter of justice. Additionally, it underscores the significance of maintaining personal integrity and fulfilling vows made to God.
 
 ## Related SHEBANQ queries
 
