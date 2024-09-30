@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-Parasha Ha'azinu ('Listen') is Moses' final song, a poetic recounting of Israel's history, highlighting their covenant relationship with God. It emphasizes God's faithfulness and Israel's tendency to stray, warning of the consequences of disobedience but also assuring of God's ultimate mercy and restoration. Moses calls on heaven and earth as witnesses to his words, urging the people to take them to heart and pass them on to future generations.
+Parasha Ha'azinu ("Listen") is Moses' final song, a poetic recounting of Israel's history, highlighting their covenant relationship with God. It emphasizes God's faithfulness and Israel's tendency to stray, warning of the consequences of disobedience but also assuring of God's ultimate mercy and restoration. Moses calls on heaven and earth as witnesses to his words, urging the people to take them to heart and pass them on to future generations.
 
 ## Related SHEBANQ queries
 
