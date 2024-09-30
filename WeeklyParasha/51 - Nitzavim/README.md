@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-Parasha Nitzavim is a declaration where Moses calls all of Israel to stand together and reaffirm their covenant with God before entering the Promised Land. He emphasizes that the covenant includes everyone, from leaders to the lowliest members, and is binding for future generations as well. Moses also reminds them of the choice between life and death, urging the people to choose life by loving and obeying God to secure their future blessings in the land.
+Parasha Nitzavim ("Ones standing") is a declaration where Moses calls all of Israel to stand together and reaffirm their covenant with God before entering the Promised Land. He emphasizes that the covenant includes everyone, from leaders to the lowliest members, and is binding for future generations as well. Moses also reminds them of the choice between life and death, urging the people to choose life by loving and obeying God to secure their future blessings in the land.
 
 ## Related SHEBANQ queries
 
