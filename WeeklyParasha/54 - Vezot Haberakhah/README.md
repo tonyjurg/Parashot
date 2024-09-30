@@ -11,7 +11,7 @@ Haftarah:
 
 ## Summary
 
-Parasha Vezot HaBerakhah ('And this is the blessing') is the final portion of the Torah, where Moses blesses each of the tribes of Israel before his death. He ascends Mount Nebo, where God shows him the Promised Land that he will not enter, and then Moses dies and is buried by God. The portion concludes by honoring Moses as the greatest prophet, whom God knew face to face, highlighting his unparalleled role in Israel's history.
+Parasha Vezot HaBerakhah ("And this is the blessing") is the final portion of the Torah, where Moses blesses each of the tribes of Israel before his death. He ascends Mount Nebo, where God shows him the Promised Land that he will not enter, and then Moses dies and is buried by God. The portion concludes by honoring Moses as the greatest prophet, whom God knew face to face, highlighting his unparalleled role in Israel's history.
 
 ## Related SHEBANQ queries
 
