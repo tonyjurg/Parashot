@@ -17,6 +17,7 @@ Parasha Vezot HaBerakhah ("And this is the blessing") is the final portion of th
 
 Verse | Query | Short description
 --- | --- | --- 
+||
 
 
 ## Related Text-Fabric Notebooks
