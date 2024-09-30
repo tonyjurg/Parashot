@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-Parasha Shoftim ("Judges") focuses on establishing a fair and just society by setting guidelines for appointing judges and leaders, ensuring justice and righteousness in governance. It introduces laws regarding kings, priests, and prophets, emphasizing the need for integrity, humility, and adherence to God's law among leaders. The portion also outlines rules for warfare and provides instructions on handling unsolved murders to maintain communal responsibility and holiness.
+Parasha Shoftim ("Judges") focuses on establishing a fair and just society by setting guidelines for appointing judges and leaders, ensuring justice and righteousness in governance. It introduces laws regarding kings, priests, and prophets, emphasizing the need for integrity, humility, and adherence to God's law among leaders. The portion also outlines rules for warfare and provides instructions on handling unsolved murders to maintain communal responsibility and holiness. Additionally, it highlights the importance of witnesses and the fair treatment of accused individuals, reinforcing the pursuit of truth and justice.
 
 ## Related SHEBANQ queries
 
