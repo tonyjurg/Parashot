@@ -41,7 +41,7 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/26%20-%20Shemini">#26: Shemeni (Lev. 9:1-11:47)</a><br>
 <a href="WeeklyParasha/27%20-%20Tazria">#27: Tazria (Lev. 12:1-13:59)</a><br>
 <a href="WeeklyParasha/28%20-%20Metzora">#28: Metzora (Lev. 14:1-15:33)</a><br>
-<a href="WeeklyParasha/29%20-%20Acharei%20Mot">#29: Acharei Mot (Lev. 16:1-18:30)</a><br>
+<a href="WeeklyParasha/29%20-%20Achrei%20Mot">#29: Acharei Mot (Lev. 16:1-18:30)</a><br>
 <a href="WeeklyParasha/30%20-%20Kedoshim">#30: Kedoshim (Lev. 19:1-20:27)</a><br>
 <a href="WeeklyParasha/31%20-%20Emor">#31: Emor (Lev. 21:1-24:23)</a><br>
 <a href="WeeklyParasha/32%20-%20BeHar">#32: BeHar (Lev. 25:1-26:2)</a><br>
