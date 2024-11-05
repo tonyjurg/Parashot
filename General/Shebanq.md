@@ -1,4 +1,4 @@
-# Shebanq Querys of interest
+# Shebanq Queries of interest
 
 ## How many?
 
