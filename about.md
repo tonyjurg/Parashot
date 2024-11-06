@@ -11,5 +11,5 @@ This website offers an in-depth exploration and analysis of the weekly Torah por
 * [The center of the Torah](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/General/CenterOfTorah.ipynb): determining the center using various methods.
 * [Heart in Tenach](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/General/HeartInTenakh.ipynb): exploring the various words used for heart.
 * [Petucha and setuma](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/General/PetuchaAndSetuma.ipynb): section markers in the surface text of the Torah.
-* [Tetragrammaton Vocalisation]([https://github.com/tonyjurg/Parashot/blob/main](https://nbviewer.org/github/tonyjurg/Parashot/blob/main)/General/TetragrammatonVocalisation.ipynb): which vowels are used for the Devine name?
+* [Tetragrammaton vocalisation](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/General/TetragrammatonVocalisation.ipynb): which vowels are used for the Devine name?
 
