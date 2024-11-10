@@ -19,7 +19,8 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*).
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
+[Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels
 
 ## Hebcal
 

@@ -22,7 +22,7 @@ Verse | Query | Description
 GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/hapax.ipynb" target="blank_">hapax</a> | find unique words (*hapax legomena*)
-
+[Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels
 
 ## Hebcal
 
