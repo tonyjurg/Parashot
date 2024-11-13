@@ -2,7 +2,7 @@
 
 # Parashot
 
-Digital Humanities for the weekly Parasha (Torah portion of the week). The tools in this repository are based upon the [Biblia Hebraica Stuttgartensia Amstelodamensis(BHSA)](https://github.com/ETCBC/bhsa), a Text-Fabric representation of the Hebrew Bible with linguistic annotations, created by the [Eep Talstra Centre for Bible and Computer (ETCBC)](https://etcbc.nl/) at the VU Amsterdam.
+Digital Humanities for the weekly Parasha (Torah portion of the week). The tools in this repository are based upon the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://github.com/ETCBC/bhsa), a Text-Fabric representation of the Hebrew Bible with linguistic annotations, created by the [Eep Talstra Centre for Bible and Computer (ETCBC)](https://etcbc.nl/) at the VU Amsterdam.
 
 ## The weekly parasha
 
