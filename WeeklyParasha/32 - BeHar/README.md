@@ -4,13 +4,13 @@
 
 ## Reading passages
 
-Torah: [Lev. 25:1-26:2](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.25:1-26:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּהַר)](https://tikkun.io/#/p/behar)<br>
+Torah: [Leviticus 25:1-26:2](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.25:1-26:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּהַר)](https://tikkun.io/#/p/behar)<br>
 Haftarah: 
-[Jer. 32:6-27](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.6:6-27&options=HNVUG)
+[Jeremia 32:6-27](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.6:6-27&options=HNVUG)
 
 ## Summary
 
-Parashat BeHar outlines the laws concerning the Sabbatical ([שׁמטה](https://shebanq.ancient-data.org/hebrew/word?id=1CMVHn&mr=r&qw=w)) and Jubilee ([יובל](https://shebanq.ancient-data.org/hebrew/word?id=1JWBLn&mr=r&qw=w)) years, emphasizing the importance of rest for the land and the release of slaves and debts. It details how the land must be left fallow every seventh year, and every fiftieth year, properties are to be returned to their original owners, symbolizing economic reset and social justice. The parasha underscores the principles of faith, community support, and reliance on God's provision.
+Parashat BeHar outlines the laws concerning the Sabbatical ([שׁמטה](https://shebanq.ancient-data.org/hebrew/word?id=1CMVHn&mr=r&qw=w)) and Jubilee ([יובל](https://shebanq.ancient-data.org/hebrew/word?id=1JWBLn&mr=r&qw=w)) years, emphasizing the divine mandate for periodic rest and renewal, both for the people and the land. It commands that every seventh year, the land must be left fallow, allowing it to rest and rejuvenate, a practice designed to encourage both ecological balance and faith in God’s provision. Every fiftieth year is designated as the Jubilee, a time when properties are to be returned to their original families, slaves are to be set free, and debts are forgiven, symbolizing a profound economic reset and an act of social justice aimed at restoring equality. By instituting these cycles, BeHar underscores principles of faith, reliance on God, communal responsibility, and compassion for those less fortunate, reminding the Israelites of their dependence on divine providence and the importance of humility and generosity within their society.
 
 ## Related SHEBANQ queries
 

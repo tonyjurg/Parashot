@@ -4,13 +4,13 @@
 
 ## Reading passages
 
-Torah: [Lev. 26:3-27:34](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.26:3-27:34&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּחֻקֹּתַי)](https://tikkun.io/#/p/bechukotai)<br>
+Torah: [Leviticus 26:3-27:34](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.26:3-27:34&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּחֻקֹּתַי)](https://tikkun.io/#/p/bechukotai)<br>
 Haftarah: 
-[Jer. 16:19-17:14](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.16:19-17:14&options=HNVUG)
+[Jeremia 16:19-17:14](https://www.stepbible.org/?q=version=NASB2020|reference=Jer.16:19-17:14&options=HNVUG)
 
 ## Summary
 
-Parasha Bechukotai outlines the blessings for obedience and the curses for disobedience to God's commandments. It details the rewards of following God's laws, such as prosperity and peace, and contrasts them with the severe consequences of turning away from Him, including devastation and exile. The portion concludes with laws regarding vows and dedications to the Lord​​.
+Parasha Bechukotai ("in my laws") is the final portion in the Book of Leviticus. It sets forth the blessings that follow obedience and the curses that result from disobedience to God's commandments. It vividly describes the rewards for faithfully following God's laws, promising prosperity, security, peace, and an abundant harvest. However, it also contrasts these blessings with a sobering account of the consequences for abandoning God's ways, warning of famine, disease, defeat by enemies, and eventual exile from the land. Bechukotai emphasizes the covenantal relationship between God and the Israelites, showing both the rewards of loyalty and the gravity of straying. The portion concludes with detailed laws concerning vows, dedications, and valuations made to the Lord, underscoring the significance of commitment and integrity in serving Him.
 
 ## Related SHEBANQ queries
 

@@ -4,13 +4,13 @@
 
 ## Reading passages
 
-Torah: [Num. 13:1-15:41](https://www.stepbible.org/?q=version=NASB2020|reference=Num.13:1-15:41&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת שְׁלַח־לְךָ)](https://tikkun.io/#/p/shlach)<br>
+Torah: [Numbers 13:1-15:41](https://www.stepbible.org/?q=version=NASB2020|reference=Num.13:1-15:41&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת שְׁלַח־לְךָ)](https://tikkun.io/#/p/shlach)<br>
 Haftarah: 
 [Joshua 2:1-24](https://www.stepbible.org/?q=version=NASB2020|reference=Josh.2:1-24&options=HNVUG) 
 
 ## Summary
 
-Parasha Sh'lach Lecha recounts the story of the twelve spies sent by Moses to scout the Promised Land, ten of whom return with a fearful report, leading the Israelites to doubt God's promise and rebel. As a result, God decrees that the current generation will wander in the wilderness for forty years, with only Joshua and Caleb, the two faithful spies, allowed to enter the land. The portion concludes with various laws, including those regarding offerings and the commandment to wear tzitzit (fringes) as a reminder to follow God's commandments.
+Parasha Sh'lach Lecha ("send for yourself") recounts the story of the twelve spies sent by Moses to scout the Promised Land, ten of whom return with a fearful report, leading the Israelites to doubt God's promise and rebel. As a result, God decrees that the current generation will wander in the wilderness for forty years, with only Joshua and Caleb, the two faithful spies, allowed to enter the land. The portion concludes with various laws, including those regarding offerings and the commandment to wear tzitzit (fringes) as a reminder to follow God's commandments.
 
 ## Related SHEBANQ queries
 

@@ -4,13 +4,13 @@
 
 ## Reading passages
 
-Torah: [Num. 8:1-12:16](https://www.stepbible.org/?q=version=NASB2020|reference=Num.8:1-12:16&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּהַעֲלֹתְךָ)](https://tikkun.io/#/p/behaalotcha)<br>
+Torah: [Numbers 8:1-12:16](https://www.stepbible.org/?q=version=NASB2020|reference=Num.8:1-12:16&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּהַעֲלֹתְךָ)](https://tikkun.io/#/p/behaalotcha)<br>
 Haftarah: 
 [Zechariah 2:14-4:7](https://www.stepbible.org/?q=version=NASB2020|reference=Zech.3:1-4:7&options=HNVUG) 
 
 ## Summary
 
-Parasha Beha'alotcha begins with instructions for Aaron to light the menorah and the consecration of the Levites for service in the Tabernacle. It continues with the Israelites' journey from Sinai to the wilderness of Paran, the institution of the Passover, and the cloud guiding their movement. The parasha also covers Miriam and Aaron's criticism of Moses, leading to Miriam's temporary affliction with tzara'at (צָרַעַת).
+Parasha Beha'alotcha ("when you raise") begins with instructions for Aaron to light the menorah and the consecration of the Levites for service in the Tabernacle. It continues with the Israelites' journey from Sinai to the wilderness of Paran, the institution of the Passover, and the cloud guiding their movement. The parasha also covers Miriam and Aaron's criticism of Moses, leading to Miriam's temporary affliction with tzara'at (צָרַעַת).
 
 ## Related SHEBANQ queries
 

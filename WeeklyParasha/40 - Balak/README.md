@@ -4,14 +4,14 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Num.22:2-25:9&options=HNVUG" target="_blank">Num. 22:2- 25:9</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/balak" target="_blank">(Hebrew: פָּרָשַׁת בָּלָק
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Num.22:2-25:9&options=HNVUG" target="_blank">Numbers 22:2- 25:9</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/balak" target="_blank">(Hebrew: פָּרָשַׁת בָּלָק
 )</a><br>
 Haftarah: 
 <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Mic.5:6-6:8&options=HNVUG" target="_blank">Micah 5:6-6:8</a>
 
 ## Summary
 
-Parasha Balak tells the story of Balak, the king of Moab, who hires the prophet Balaam to curse the Israelites. However, each time Balaam attempts to curse them, God intervenes, and instead, Balaam blesses Israel multiple times, including delivering a famous prophecy about a future king from Israel. The portion concludes with Israelite men succumbing to idolatry and immorality with Moabite women, leading to a deadly plague that is only stopped by the zealous action of Phinehas.
+Parasha Balak ("Balak") tells the story of Balak, the king of Moab, who hires the prophet Balaam to curse the Israelites. However, each time Balaam attempts to curse them, God intervenes, and instead, Balaam blesses Israel multiple times, including delivering a famous prophecy about a future king from Israel. The portion concludes with Israelite men succumbing to idolatry and immorality with Moabite women, leading to a deadly plague that is only stopped by the zealous action of Phinehas.
 
 ## Related SHEBANQ queries
 

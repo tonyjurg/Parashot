@@ -4,13 +4,13 @@
 
 ## Reading passages
 
-Torah: [Num. 1:1-4:20](https://www.stepbible.org/?q=version=NASB2020|reference=Num.1:1-4:20&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּמִדְבַּר)](https://tikkun.io/#/p/bamidbar)<br>
+Torah: [Numbers 1:1-4:20](https://www.stepbible.org/?q=version=NASB2020|reference=Num.1:1-4:20&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת בְּמִדְבַּר)](https://tikkun.io/#/p/bamidbar)<br>
 Haftarah: 
 [Hosea 2:1-22](https://www.stepbible.org/?q=version=NASB2020|reference=Hos.2:1-22&options=HNVUG)
 
 ## Summary
 
-Parasha Bamidbar details the census of the Israelites taken in the wilderness of Sinai. It describes the organization of the twelve tribes around the Tabernacle and assigns specific duties to the Levites. The portion underscores the importance of order and structure within the community as they prepare for their journey​​.
+Parasha Bamidbar ("in the desert") opens the Book of Numbers and recounts the census of the Israelites taken in the wilderness of Sinai. This census, commanded by God, serves to organize and prepare the community for their journey through the desert. It not only numbers each of the twelve tribes but also arranges them around the Tabernacle in a specific formation, highlighting the central role of the Tabernacle in the community's life. Additionally, the portion assigns distinct responsibilities to the Levites, who are tasked with carrying and guarding the Tabernacle. Bamidbar emphasizes the necessity of order, structure, and unity within the Israelite camp as they prepare for their journey toward the Promised Land.
 
 ## Related SHEBANQ queries
 

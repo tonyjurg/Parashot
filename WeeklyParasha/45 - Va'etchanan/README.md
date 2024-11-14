@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-Parasha Va'etchanan features Moses' heartfelt plea to enter the Promised Land, which God denies, but He allows Moses to view it from afar. Moses then recaps essential commandments, including the Ten Commandments, and delivers the Shema, emphasizing Israel's duty to love and obey God alone. The portion reinforces the covenant, urging the Israelites to remain faithful and avoid idolatry to ensure their success and prosperity in the land.
+Parasha Va'etchanan ("I pleaded") features Moses' heartfelt plea to enter the Promised Land, which God denies, but He allows Moses to view it from afar. Moses then recaps essential commandments, including the Ten Commandments, and delivers the Shema, emphasizing Israel's duty to love and obey God alone. The portion reinforces the covenant, urging the Israelites to remain faithful and avoid idolatry to ensure their success and prosperity in the land.
 
 ## Related SHEBANQ queries
 

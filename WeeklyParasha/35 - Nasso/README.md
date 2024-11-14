@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-Parasha Naso ("take a census") includes instructions on the duties of the Levites, the laws of the Nazirite vow, and the priestly blessing. It covers the responsibilities of the Levite families of Gershon, Kohath, and Merari, emphasizing the importance of their roles in the service of the Tabernacle. Additionally, it details the process of purification and consecration, underscoring the need for holiness among the Israelites​​.
+Parasha Naso ("take a census") is the longest portion in the Torah and continues detailing the organization of the Israelite camp, focusing on the duties and responsibilities of the Levites in the service of the Tabernacle. It begins with the census of the Levite families of Gershon, Kohath, and Merari, each assigned specific tasks related to transporting and caring for the sacred objects and the Tabernacle structure itself. The portion then outlines the laws surrounding the Nazirite vow, a voluntary commitment to holiness through abstinence and dedication to God. It describes the unique offerings and rituals associated with the Nazirite, emphasizing personal sanctity within the community. Naso also includes the Priestly Blessing, a well-known and cherished blessing invoking divine protection, grace, and peace upon the Israelites. Throughout, the parasha underscores the significance of holiness, purity, and dedication, reflecting the Israelites' collective and individual responsibility in maintaining a sacred community as they journey through the wilderness.
 
 ## Related SHEBANQ queries
 
