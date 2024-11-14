@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: [Lev. 25:1-26:2](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.25:1-26:1&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת אַחֲרֵי מוֹת)](https://tikkun.io/#/p/achrei-mot)<br>
+Torah: [Lev. 16:1-18:30](https://www.stepbible.org/?q=version=NASB2020|reference=Lev.16:1-18:30&options=HNVUG) &nbsp;&nbsp; [(Hebrew: פָּרָשַׁת אַחֲרֵי מוֹת)](https://tikkun.io/#/p/achrei-mot)<br>
 Haftarah: 
 [Amos 9:7-15](https://www.stepbible.org/?q=version=NASB2020|reference=Amos.9:7-15&options=HNVUG) (Ashkenazim)
 [Ezekiel 22:1-16](https://www.stepbible.org/?q=version=NASB2020|reference=Eze.22:1-16&options=HNVUG) (Sephardim)
