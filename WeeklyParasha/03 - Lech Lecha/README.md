@@ -3,7 +3,7 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.12:1-17:27&options=HNVUG" target="_blank">Gen. 12:1-17:27</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/lech-lecha" target="_blank">(Hebrew: פָּרָשַׁת לֶךְ־לְךָ֛)</a><br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.12:1-17:27&options=HNVUG" target="_blank">Genesis 12:1-17:27</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/lech-lecha" target="_blank">(Hebrew: פָּרָשַׁת לֶךְ־לְךָ֛)</a><br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.40:27-41:16&options=HNVUG" target="_blank">Isaiah 40:27-41:16</a>
 
 ## Summary:

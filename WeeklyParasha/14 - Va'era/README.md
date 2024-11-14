@@ -4,12 +4,12 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.6:2-9:35&options=HNVUG" target="_blank">Ex. 6:2-9:35</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vaera" target="_blank">(Hebrew: פָּרָשַׁת וָאֵרָא)</a><br>
-Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ez.28:25-29:21&options=HNVUG" target="_blank">Ez. 28:25-29:21</a>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.6:2-9:35&options=HNVUG" target="_blank">Exodus 6:2-9:35</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vaera" target="_blank">(Hebrew: פָּרָשַׁת וָאֵרָא)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ez.28:25-29:21&options=HNVUG" target="_blank">Ezekiel 28:25-29:21</a>
 
 ## Summary
 
-Parasha Va'era details God's reaffirmation of His covenant with the Israelites and the beginning of the plagues in Egypt. God reveals Himself to Moses, promising to deliver the Israelites from slavery and demonstrate His power through a series of miraculous signs. The narrative progresses with the first seven plagues—blood, frogs, gnats, flies, livestock disease, boils, and hail—striking Egypt as Pharaoh's heart remains hardened against letting the Israelites go​​.
+Parasha Va'era ("I appeared") details God's reaffirmation of His covenant with the Israelites and the beginning of the plagues in Egypt. God reveals Himself to Moses, promising to deliver the Israelites from slavery and demonstrate His power through a series of miraculous signs. The narrative progresses with the first seven plagues—blood, frogs, gnats, flies, livestock disease, boils, and hail—striking Egypt as Pharaoh's heart remains hardened against letting the Israelites go​​.
 
 ## Related SHEBANQ queries
 

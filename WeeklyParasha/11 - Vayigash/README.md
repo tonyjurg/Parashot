@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.44:18-47:27&options=HNVUG" target="_blank">Gen. 44:18-47:27</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayigash" target="_blank">(Hebrew: פָּרָשַׁת וַיִּגַּשׁ)</a><br>
-Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Eze.37:15-28&options=HNVUG" target="_blank">Ezech. 37:15-28</a>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.44:18-47:27&options=HNVUG" target="_blank">Genesis 44:18-47:27</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayigash" target="_blank">(Hebrew: פָּרָשַׁת וַיִּגַּשׁ)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Eze.37:15-28&options=HNVUG" target="_blank">Ezekiel 37:15-28</a>
 
 ## Summary
 

@@ -5,12 +5,12 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.13:17-17:16&options=HNVUG" target="_blank">Ex. 13:17-17:16</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/beshalach" target="_blank">(Hebrew: פָּרָשַׁת בְּשַׁלַּח)</a><br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.13:17-17:16&options=HNVUG" target="_blank">Exodus 13:17-17:16</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/beshalach" target="_blank">(Hebrew: פָּרָשַׁת בְּשַׁלַּח)</a><br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Judg.4:4-5:31&options=HNVUG" target="_blank">Judges 4:4-5:31</a>.
 
 ## Summary
 
-Parasha Beshalach, meaning "When he let go", narrates the dramatic events following the Israelites' departure from Egypt, including the miraculous crossing of the Red Sea. The portion highlights the song of the sea (Shirat HaYam; Ex. 15:1-19) sung by Moses and the Israelites after their deliverance from Pharaoh's army. It also recounts the Israelites' initial challenges in the wilderness, such as the provision of manna and water from the rock, demonstrating God's ongoing provision and protection.
+Parasha Beshalach ("when he let go") narrates the dramatic events following the Israelites' departure from Egypt, including the miraculous crossing of the Red Sea. The portion highlights the song of the sea (Shirat HaYam; Ex. 15:1-19) sung by Moses and the Israelites after their deliverance from Pharaoh's army. It also recounts the Israelites' initial challenges in the wilderness, such as the provision of manna and water from the rock, demonstrating God's ongoing provision and protection.
 
 ## Related SHEBANQ queries
 

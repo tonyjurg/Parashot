@@ -4,13 +4,12 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.1:1-6:1&options=HNVUG" target="_blank">Ex. 1:1-6:1</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/shemot" target="_blank">(Hebrew: פָּרָשַׁת שְׁמוֹת)</a><br>
-Haftarah (Ashkenazim): <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.27:6-28:13+Is.29:22-23&options=HNVUG" target="_blank">Isaiah 27:6-28:13; 29:22-23</a><br>
-Haftarah (Sephardim): <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Jer.1:1-2:3&options=HNVUG" target="_blank">Jeremiah 1:1 - 2:3</a>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.1:1-6:1&options=HNVUG" target="_blank">Exodus 1:1-6:1</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/shemot" target="_blank">(Hebrew: פָּרָשַׁת שְׁמוֹת)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.27:6-28:13+Is.29:22-23&options=HNVUG" target="_blank">Isaiah 27:6-28:13; 29:22-23</a> (Ashkenazim) or <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Jer.1:1-2:3&options=HNVUG" target="_blank">Jeremiah 1:1-2:3</a> (Sephardim)
 
 ## Summary
 
-In parasha Shemot ("Names"), the children of Israel multiply in Egypt, leading Pharaoh to enslave them and order the killing of male babies. Moses is born and, after being placed in a basket on the river, is found by Pharaoh's daughter and raised as her son. As a young man, Moses kills an Egyptian and flees to Midian, where he marries and becomes a shepherd. God appears to Moses at Mount Sinai, instructing him to demand Pharaoh to let the Israelites go. Moses, accompanied by his brother Aaron, faces Pharaoh, but he refuses. Despite hardships, God assures Moses that redemption is imminent.
+In parasha Shemot ("names"), the children of Israel multiply in Egypt, leading Pharaoh to enslave them and order the killing of male babies. Moses is born and, after being placed in a basket on the river, is found by Pharaoh's daughter and raised as her son. As a young man, Moses kills an Egyptian and flees to Midian, where he marries and becomes a shepherd. God appears to Moses at Mount Sinai, instructing him to demand Pharaoh to let the Israelites go. Moses, accompanied by his brother Aaron, faces Pharaoh, but he refuses. Despite hardships, God assures Moses that redemption is imminent.
 
 ## Related SHEBANQ queries
 

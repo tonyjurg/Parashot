@@ -3,7 +3,7 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.6:9-11:32&options=HNVUG" target="_blank">Gen. 6:9-11:32</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/noach" target="_blank">(Hebrew: פָּרָשַׁת נֹח)</a><br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.6:9-11:32&options=HNVUG" target="_blank">Genesis 6:9-11:32</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/noach" target="_blank">(Hebrew: פָּרָשַׁת נֹח)</a><br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.54:1-55:5&options=HNVUG" target="_blank">Isaiah 42:5-43:10</a>
 
 

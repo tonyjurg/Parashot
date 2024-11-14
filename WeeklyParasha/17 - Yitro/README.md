@@ -4,13 +4,12 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.18:1-20:23&options=HNVUG" target="_blank">Ex. 18:1-20:23</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/yitro" target="_blank">(Hebrew: פָּרָשַׁת יִתְרוֹ)</a><br>
-Haftarah (Ashkenazim): <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-7;9:5-6&options=HNVUG" target="_blank">Isaiah 6:1-7:6, 9:5-6</a><br>
-Haftarah (Sephardim): <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-13&options=HNVUG" target="_blank">Isaiah 6:1-13</a>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.18:1-20:23&options=HNVUG" target="_blank">Exodus 18:1-20:23</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/yitro" target="_blank">(Hebrew: פָּרָשַׁת יִתְרוֹ)</a><br>
+Haftarah : <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-7;9:5-6&options=HNVUG" target="_blank">Isaiah 6:1-7:6, 9:5-6</a> (Ashkenazim) or <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.6:1-13&options=HNVUG" target="_blank">Isaiah 6:1-13</a> (Sephardim)
 
 ## Summary
 
-Parasha Yitro describes the arrival of Moses' father-in-law, Jethro (Yitro), who advises Moses to delegate judicial responsibilities to capable leaders to ease his burden. The portion culminates in the Israelites' encounter with God at Mount Sinai, where they receive the Ten Commandments, establishing the foundational laws for their covenant with God. This significant event emphasizes the importance of leadership, community, and divine law in the life of Israel.
+Parasha Yitro ("Jethro") describes the arrival of Yitro, Moses' father-in-law, who advises Moses to delegate judicial responsibilities to capable leaders to ease his burden. The portion culminates in the Israelites' encounter with God at Mount Sinai, where they receive the Ten Commandments, establishing the foundational laws for their covenant with God. This significant event emphasizes the importance of leadership, community, and divine law in the life of Israel.
 
 ## Related SHEBANQ queries
 

@@ -3,8 +3,8 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.18:1-22:24&options=HNVUG" target="_blank">Gen. 18:1-22:24</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayera" target="_blank">(Hebrew: פָּרָשַׁת וַיֵּרָא)</a><br>
-Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=2Kgs.4:1-37&options=HNVUG" target="_blank"> II Kings 4:1-37</a>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.18:1-22:24&options=HNVUG" target="_blank">Genesis 18:1-22:24</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayera" target="_blank">(Hebrew: פָּרָשַׁת וַיֵּרָא)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=2Kgs.4:1-37&options=HNVUG" target="_blank">II Kings 4:1-37</a>
 
 ## Summary
 

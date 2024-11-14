@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.41:1-44:17&options=HNVUG" target="_blank">Gen. 41:1-44:17</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/miketz" target="_blank">(Hebrew: פָּרָשַׁת מִקֵּץ)</a><br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.41:1-44:17&options=HNVUG" target="_blank">Genesis 41:1-44:17</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/miketz" target="_blank">(Hebrew: פָּרָשַׁת מִקֵּץ)</a><br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.3:15-4:1&options=HNVUG" target="_blank">I Kings 3:15-4:1</a>
 
 ## Summary

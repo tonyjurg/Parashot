@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:19-28:9&options=HNVUG" target="_blank">Gen. 25:19-28:9</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/toldot" target="_blank">(Hebrew: פָּרָשַׁת תּוֹלְדוֹת)</a><br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:19-28:9&options=HNVUG" target="_blank">Genesis 25:19-28:9</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/toldot" target="_blank">(Hebrew: פָּרָשַׁת תּוֹלְדוֹת)</a><br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Mal.1:1-4;2:1-7&options=HNVUG" target="_blank">Maleachi 1:1-4, 2:1-7</a>
 
 ## Summary

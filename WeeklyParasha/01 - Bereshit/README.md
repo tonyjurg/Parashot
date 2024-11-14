@@ -3,7 +3,7 @@
 # Parasha #1: Bereshit (בְּרֵאשִׁית) <a name="start"></a> 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUG" target="_blank">Gen. 1:1-6:8</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/bereshit" target="_blank">(Hebrew: פָּרָשַׁת בְּרֵאשִׁית)</a><br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUG" target="_blank">Genesis 1:1-6:8</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/bereshit" target="_blank">(Hebrew: פָּרָשַׁת בְּרֵאשִׁית)</a><br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.42:5-43:10&options=HNVUG" target="_blank">Isaiah 42:5-43:10</a>
 
 ## Summary
