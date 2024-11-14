@@ -1,4 +1,4 @@
-<span style="float: right;"><sup><a href="../33%20-%20Bechukotai">Previous parasha (#33): Bechukotai</a> &nbsp;&nbsp;<a href="../35%20-%20Naso">Next parasha (#35): Naso</a></sup></span>
+<span style="float: right;"><sup><a href="../33%20-%20Bechukotai">Previous parasha (#33): Bechukotai</a> &nbsp;&nbsp;<a href="../35%20-%20Nasso">Next parasha (#35): Nasso</a></sup></span>
 
 # Parasha #34: Bamidbar (בְּמִדְבַּר)
 
