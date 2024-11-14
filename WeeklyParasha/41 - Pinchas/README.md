@@ -1,16 +1,16 @@
-<span style="float: right;"><sup> <a href="../40%20-%20Balak">Previous parasha (#40): Balak</a> &nbsp;&nbsp; <a href="../42%20-%20Mattot">Next parasha (#42): Mattot</a></sup></span>
+<span style="float: right;"><sup> <a href="../40%20-%20Balak">Previous parasha (#40): Balak</a> &nbsp;&nbsp; <a href="../42%20-%20Matot">Next parasha (#42): Matot</a></sup></span>
 
 # Parasha #41: Pinchas (פִּינְחָס)
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Num.25:10-30:1&options=HNVUG" target="_blank">Num. 25:10-30:1</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/pinchas" target="_blank">(Hebrew: פָּרָשַׁת פִּינְחָס)</a><br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Num.25:10-30:1&options=HNVUG" target="_blank">Numbers 25:10-30:1</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/pinchas" target="_blank">(Hebrew: פָּרָשַׁת פִּינְחָס)</a><br>
 Haftarah: 
 <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.18:46-19:21&options=HNVUG" target="_blank">I Kings 18:46-19:21</a>
 
 ## Summary
 
-Parasha Pinchas begins with God rewarding Phinehas for his zealous act in stopping the plague caused by Israel's sin with the Moabites, granting him a covenant of peace and perpetual priesthood. The portion then includes a census of the Israelites, laws concerning inheritance, and Joshua’s appointment as Moses' successor. It concludes with detailed instructions on the daily offerings and the sacrifices for the various festivals, emphasizing Israel's ongoing relationship with God through worship and devotion.
+Parasha Pinchas ("Phinehas") begins with God rewarding Phinehas for his zealous act in stopping the plague caused by Israel's sin with the Moabites, granting him a covenant of peace and perpetual priesthood. The portion then includes a census of the Israelites, laws concerning inheritance, and Joshua’s appointment as Moses' successor. It concludes with detailed instructions on the daily offerings and the sacrifices for the various festivals, emphasizing Israel's ongoing relationship with God through worship and devotion.
 
 ## Related SHEBANQ queries
 
