@@ -1,6 +1,6 @@
 <span style="float: right;"><sup><a href="../08%20-%20Vayishlach">Previous parasha (#8): Vayetzei</a> &nbsp;&nbsp;<a href="../10%20-%20Miketz">Next parasha (#10): Miketz</a></sup></span>
 
-# Parasha #9: Vayehev (וַיֵּשֶׁב‎) <a name="start"></a>
+# Parasha #9: Vayeshev (וַיֵּשֶׁב‎) <a name="start"></a>
 
 ## Reading passages
 
@@ -22,9 +22,9 @@ Generic
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayehev/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
-[Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayehev/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels
-[Notebook on Vayehev](Vayehev.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayehev/Vayehev.ipynb" target="_blank">Vayehev</a> | (Gen. 37:4) shalom with/out wav
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
+[Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels
+[Notebook on Vayehev](Vayehev.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/Vayehev.ipynb" target="_blank">Vayeshev</a> | (Gen. 37:4) shalom with/out wav
 
 ## Hebcal
 
