@@ -5,7 +5,7 @@
 ## Reading passages
 
 Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.23:1-25:18&options=HNVUG" target="_blank">Gen. 23:1-25:18</a>
-)  &nbsp;&nbsp; <a href="https://tikkun.io/#/p/chayei-sara" target="_blank">(Hebrew: שָׂרָה‎ פָּרָשַׁת חַיֵּי)</a><br>
+  &nbsp;&nbsp; <a href="https://tikkun.io/#/p/chayei-sara" target="_blank">(Hebrew: שָׂרָה‎ פָּרָשַׁת חַיֵּי)</a><br>
 Haftarah:  <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.1:1-31&options=HNVUG" target="_blank">I Kings 1:1-31</a>
 
 ## Summary
@@ -16,6 +16,7 @@ Parasha Chayei-Sarah ("life of Sarah") begins with the death of Sarah and Abraha
 
 Verse | Query | Description
 --- | --- | ---
+
 
 ## Related Text-Fabric Notebooks
 
