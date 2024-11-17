@@ -1,0 +1,9 @@
+https://shebanq.ancient-data.org/hebrew/queries?goto=5995
+
+Select all objects where
+[sentence number = 1
+[clause number = 1 
+[word focus lex_utf8 = "ו"]
+[word focus lex_utf8 = "היה"]
+]
+]

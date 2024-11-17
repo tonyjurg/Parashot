@@ -24,7 +24,8 @@ Verse | Query | Short description
 GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*).
-[Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels
+[Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
+[Delta SP and MT](delta_mt_and_sp.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
 ## Hebcal
 

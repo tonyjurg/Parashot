@@ -27,8 +27,9 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/01%20-%20Bereshit/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*)
-[Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/01%20-%20Bereshit/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels
+[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/01%20-%20Bereshit/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
+[Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/01%20-%20Bereshit/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
+[Delta SP and MT](delta_mt_and_sp.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/01%20-%20Bereshit/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
 ## Hebcal
 
