@@ -16,6 +16,7 @@ Parasha Chayei-Sarah ("life of Sarah") begins with the death of Sarah and Abraha
 
 Verse | Query | Description
 --- | --- | ---
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.23:9&options=HNVUG" target="_blank">Gen. 23:9</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5784&version=2021&page=1&mr=r&qw=q" target="_blank">Het volle veld</a> | Examining the combination of "field" and "full" ('שָׂדֶ֔ה' and 'מָלֵא') to assess whether the reading in Genesis 27:27 of the Samaritan Pentateuch aligns with the Masoretic Text (Dutch, query by Stefan Zwaan) 
 
 
 ## Related Text-Fabric Notebooks

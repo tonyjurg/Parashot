@@ -21,6 +21,7 @@ Verse | Query | Short description
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:2&options=HNVUG" target="_blank">Ex. 2:2</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6289&version=2021&page=1&mr=r&qw=q" target="_blank">A 'tov' child</a> |  The mother of Moses considered the child טֹוב. What else is considered טֹוב ?
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:14&options=HNVUG" target="_blank">Ex. 2:14</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6318&version=2021&page=1&mr=r&qw=q" target="_blank">Commander and judge</a> | The phrase שַׂ֤ר וְשֹׁפֵט֙ forms a hendiadys, saying one thing using two likewise words.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:24&options=HNVUG" target="_blank">Ex. 2:24</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6290&version=2021&page=1&mr=r&qw=q" target="_blank">The groaning of the people</a> | God heard the groaning of the people in Egypt. Where else is groaning found?
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.5:5&options=HNVUG" target="_blank">Ex. 5:5</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6346&page=1&mr=r&qw=q" target="_blank">causative verb shabatizing</a> | Causing to take a rest
 
 
 ## Related Text-Fabric Notebooks
