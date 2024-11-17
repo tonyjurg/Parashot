@@ -17,11 +17,11 @@ Verse | Query | Description
 
 ## Related Text-Fabric Notebooks
 
-GitHub | NBviewer | Short description
----|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
-[Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
-[Delta SP and MT](delta_mt_and_sp.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
+NBviewer | Short description
+---|---
+<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
+<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
+<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
 ## Hebcal
 

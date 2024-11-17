@@ -31,6 +31,18 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/01%20-%20Bereshit/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/01%20-%20Bereshit/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
+## Downloadable files
+
+<ul><li><a href="hapax_legomena(Bereshit).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="differences_MT_SP(Bereshit).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="levenshtein_differences_MT_SP(Bereshit).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="spelling_differences_SP_MT(Bereshit).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="lexical_parallels(Bereshit).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
+  - <a href="hapax_legomena(Bereshit).html" target="_blank">Overview unique words in this parasha</a>
+  - 
+
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/bereshit" target="_blank">Hebcal entry for parasha Bereshit</a>.
