@@ -35,9 +35,9 @@ NBviewer | Short description
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/01%20-%20Bereshit/hapax_legomena(Bereshit).html" target="_blank">Overview unique words in this parasha</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/01%20-%20Bereshit/differences_MT_SP(Bereshit).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/main/WeeklyParasha/01%20-%20Bereshit/levenshtein_differences_MT_SP(Bereshit).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/main/WeeklyParasha/01%20-%20Bereshit/spelling_differences_SP_MT(Bereshit).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/main/WeeklyParasha/01%20-%20Bereshit/lexical_parallels(Bereshit).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/01%20-%20Bereshit/levenshtein_differences_MT_SP(Bereshit).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/01%20-%20Bereshit/spelling_differences_SP_MT(Bereshit).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/01%20-%20Bereshit/lexical_parallels(Bereshit).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
 </li></ul>
 
 
