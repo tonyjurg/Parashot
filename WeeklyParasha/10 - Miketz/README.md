@@ -25,6 +25,15 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/10%20-%20Miketz/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/10%20-%20Miketz/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/hapax_legomena(Miketz).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/differences_MT_SP(Miketz).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/levenshtein_differences_MT_SP(Miketz).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/spelling_differences_SP_MT(Miketz).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/lexical_parallels(Miketz).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/miketz" target="_blank">Hebcal entry for parasha Miketz</a>.

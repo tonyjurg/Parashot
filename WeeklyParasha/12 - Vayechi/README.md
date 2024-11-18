@@ -25,6 +25,14 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/12%20-%20Vayechi/hapax_legomena(Vayechi).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/12%20-%20Vayechi/differences_MT_SP(Vayechi).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/12%20-%20Vayechi/levenshtein_differences_MT_SP(Vayechi).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/12%20-%20Vayechi/spelling_differences_SP_MT(Vayechi).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/12%20-%20Vayechi/lexical_parallels(Vayechi).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
 
 ## Hebcal
 
