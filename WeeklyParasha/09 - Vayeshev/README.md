@@ -16,9 +16,9 @@ Parasha Vayeshev ("he settled") recounts the history of Jacob's sons selling the
 Verse | Query | Description
 --- | --- | ---
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.37:12&options=HNVUG" target="_blank">Gen. 37:12</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6257&version=2021&page=1&mr=r&qw=q" target="_blank">Dotted nota accusivus</a> | The ETH is dotted, which might (according to Midrash Rabbah) indictes Josephs brothers were feeding themself (instead of the sheep).
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.38:1&options=HNVUG" target="_blank">Gen. 38:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5997	&version=2021&page=1&mr=r&qw=q" target="_blank">At that time</a> | Where else is the expression 'at that time' (בָּעֵ֣ת הַהִ֔וא) used?
 
 ## Related Text-Fabric Notebooks
-Generic 
 
 NBviewer | Short description
 ---|---
