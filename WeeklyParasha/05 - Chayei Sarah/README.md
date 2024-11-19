@@ -18,6 +18,7 @@ Verse | Query | Description
 --- | --- | ---
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.23:1&options=HNVUG" target="_blank">Gen. 23:1</a>| <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6784&version=2021&page=1&mr=r&qw=q" target="_blank">number/year repetitions</a> | The lifetime of Sarah was expressed as repetition of card/ord number & year. Where else?
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.23:9&options=HNVUG" target="_blank">Gen. 23:9</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5784&version=2021&page=1&mr=r&qw=q" target="_blank">Het volle veld</a> | Examining the combination of "field" and "full" ('שָׂדֶ֔ה' and 'מָלֵא') to assess whether the reading in Genesis 27:27 of the Samaritan Pentateuch aligns with the Masoretic Text (Dutch, query by Stefan Zwaan) 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.23:9&options=HNVUG" target="_blank">Gen. 23:9</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6785&version=2021&page=1&mr=r&qw=q" target="_blank">Paying the full price</a> | Abraham bought the case of Machpelah for the full price (lit: for full silver). Where else?
 
 
 ## Related Text-Fabric Notebooks
