@@ -25,11 +25,11 @@ NBviewer | Short description
 
 ## Parasha Data Sheet
 
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/hapax_legomena(Lech%20Lecha).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/differences_MT_SP(Lech%20Lecha).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/levenshtein_differences_MT_SP(Lech%20Lecha).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/spelling_differences_SP_MT(Lech%20Lecha).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/lexical_parallels(Lech%20Lecha).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/hapax_legomena(Lech_Lecha).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/differences_MT_SP(Lech_Lecha).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/levenshtein_differences_MT_SP(Lech_Lecha).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/spelling_differences_SP_MT(Lech_Lecha).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/lexical_parallels(Lech_Lecha).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
 </li></ul>
 
 ## Hebcal
