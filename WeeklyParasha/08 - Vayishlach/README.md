@@ -13,6 +13,15 @@ In Parashat Vayishlach ("he sent") Jacob prepares to meet his brother Esau after
 
 ## Related SHEBANQ queries
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/hapax_legomena(Vayishlach).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/differences_MT_SP(Vayishlach).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/levenshtein_differences_MT_SP(Vayishlach).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/spelling_differences_SP_MT(Vayishlach).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/lexical_parallels(Vayishlach).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 Verse | Query | Short description
 --- | --- | ---
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.35:11&options=HNVUG" target="_blank">Gen. 35:11</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q" target="_blank">be fertile and be many</a> | Command by God to Jacob after returning to Bethel.
@@ -25,14 +34,7 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
-## Parasha Data Sheet
 
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/hapax_legomena(Vayishlach).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/differences_MT_SP(Vayishlach).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/levenshtein_differences_MT_SP(Vayishlach).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/spelling_differences_SP_MT(Vayishlach).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/lexical_parallels(Vayishlach).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
-</li></ul>
 
 ## Hebcal
 

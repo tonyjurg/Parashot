@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.5
 
 Parasha Noach ("Noah") centers around the story of Noah and the Great Flood. God instructs Noah to build an ark to save himself, his family, and two of every animal species from the impending deluge. The floodwaters engulf the world, but eventually recede, and Noah and his descendants repopulate the earth, emphasizing themes of divine judgment, obedience, and renewal in this portion of the Torah. The parasha also includes the story of the Tower of Babel, highlighting the dangers of pride and disobedience to God's will.
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/hapax_legomena(Noach).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/differences_MT_SP(Noach).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/levenshtein_differences_MT_SP(Noach).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/spelling_differences_SP_MT(Noach).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/lexical_parallels(Noach).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
@@ -26,15 +35,6 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*).
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
-
-## Parasha Data Sheet
-
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/hapax_legomena(Noach).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/differences_MT_SP(Noach).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/levenshtein_differences_MT_SP(Noach).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/spelling_differences_SP_MT(Noach).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/lexical_parallels(Noach).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
-</li></ul>
 
 ## Hebcal
 

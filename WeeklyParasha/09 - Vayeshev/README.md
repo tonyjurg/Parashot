@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Amos.
 
 Parasha Vayeshev ("he settled") recounts the history of Jacob's sons selling their brother Joseph into Egyptian captivity out of jealousy for their father's favoritism and Joseph's dreams of future dominance. The brothers deceive Jacob into believing that Joseph has been killed by a wild animal by showing him Joseph's blood-stained coat. Additionally, the parasha delves into the story of Judah's mistreatment of his daughter-in-law Tamar, who ingeniously tricks him into fulfilling his levirate duty by disguising herself as a prostitute, leading to the birth of Perez and Zerah. The portion also describes Joseph's service to Potiphar, an Egyptian officer, and his subsequent imprisonment due to false accusations from Potiphar's wife, who claims Joseph attempted to assault her after he consistently rejects her advances. While in prison, Joseph's ability to interpret dreams brings him to the attention of Pharaoh's cupbearer and baker, setting the stage for his later rise to power in Egypt.
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/09%20-%20Vayeshev/hapax_legomena(Vayeshev).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/09%20-%20Vayeshev/differences_MT_SP(Vayeshev).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/09%20-%20Vayeshev/levenshtein_differences_MT_SP(Vayeshev).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/09%20-%20Vayeshev/spelling_differences_SP_MT(Vayeshev).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/009%20-%20Vayeshev/lexical_parallels(Vayeshev).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 ## Related SHEBANQ queries
 
 Verse | Query | Description
@@ -28,15 +37,6 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
-
-## Parasha Data Sheet
-
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/09%20-%20Vayeshev/hapax_legomena(Vayeshev).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/09%20-%20Vayeshev/differences_MT_SP(Vayeshev).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/09%20-%20Vayeshev/levenshtein_differences_MT_SP(Vayeshev).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/09%20-%20Vayeshev/spelling_differences_SP_MT(Vayeshev).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/009%20-%20Vayeshev/lexical_parallels(Vayeshev).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
-</li></ul>
 
 ## Hebcal
 

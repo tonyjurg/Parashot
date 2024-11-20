@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.
 
 Parasha Miketz ("at the end") continues the story of Joseph in Egypt. It begins with Joseph, now a high-ranking official, interpreting Pharaoh's dreams, which predict seven years of plenty followed by seven years of severe famine. Impressed by his wisdom, Pharaoh appoints Joseph as governor, giving him authority over the land of Egypt to manage the forthcoming crisis. The portion also follows the reunion of Joseph with his brothers, who come to Egypt seeking food during the famine. Unrecognized by his brothers, Joseph tests their integrity by placing a silver cup in Benjamin's sack, leading to a series of tense and emotionally charged encounters. These events set the stage for the intricate unfolding of their family's fate, ultimately guiding them toward reconciliation and the preservation of their lineage.
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/hapax_legomena(Miketz).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/differences_MT_SP(Miketz).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/levenshtein_differences_MT_SP(Miketz).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/spelling_differences_SP_MT(Miketz).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/lexical_parallels(Miketz).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 ## Related SHEBANQ queries
 
 Verse | Query | Description
@@ -24,15 +33,6 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/10%20-%20Miketz/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/10%20-%20Miketz/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/10%20-%20Miketz/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
-
-## Parasha Data Sheet
-
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/hapax_legomena(Miketz).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/differences_MT_SP(Miketz).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/levenshtein_differences_MT_SP(Miketz).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/spelling_differences_SP_MT(Miketz).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/10%20-%20Miketz/lexical_parallels(Miketz).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
-</li></ul>
 
 ## Hebcal
 

@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Mal.1
 
 Parasha Toldot ("generations" or "descendants") details the birth and early lives of Isaac and Rebekah's twin sons, Esau and Jacob. The parasha highlights the stark differences between the brothers, with Esau being a skilled hunter and Jacob a quiet man dwelling in tents. It recounts how Jacob, taking advantage of Esau's hunger, persuades Esau to sell him his birthright for a bowl of lentil stew. The story also includes the deception orchestrated by Rebekah and Jacob to secure Isaac’s blessing intended for Esau, resulting in Jacob fleeing to Haran to escape Esau's wrath and find a wife from his mother's family.
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/hapax_legomena(Toldot).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/differences_MT_SP(Toldot).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/levenshtein_differences_MT_SP(Toldot).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/spelling_differences_SP_MT(Toldot).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/lexical_parallels(Toldot).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 ## Related SHEBANQ queries
 
 Verse | Query | Description
@@ -25,14 +34,7 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
-## Parasha Data Sheet
 
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/hapax_legomena(Toldot).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/differences_MT_SP(Toldot).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/levenshtein_differences_MT_SP(Toldot).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/spelling_differences_SP_MT(Toldot).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/lexical_parallels(Toldot).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
-</li></ul>
 
 ## Hebcal
 

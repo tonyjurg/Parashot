@@ -9,6 +9,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.4
 ## Summary:
 Parasha Lekh Lekha ("Go for yourself") marks the beginning of Abraham's journey as the first patriarch of Judaism. God commands Abraham to leave his homeland and travel to the land of Canaan, where he is promised descendants as numerous as the stars. Along the way, Abraham faces various trials, including the covenant of circumcision and his interactions with Pharaoh and King Abimelech. The parasha also introduces the divine promise of land and blessing, establishing the foundation of the Abrahamic covenant that will shape the future of the Israelite nation.
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/hapax_legomena(Lech_Lecha).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/differences_MT_SP(Lech_Lecha).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/levenshtein_differences_MT_SP(Lech_Lecha).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/spelling_differences_SP_MT(Lech_Lecha).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/lexical_parallels(Lech_Lecha).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 ## Related SHEBANQ queries
 
 Verse | Query | Description
@@ -23,14 +32,7 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
-## Parasha Data Sheet
 
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/hapax_legomena(Lech_Lecha).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/differences_MT_SP(Lech_Lecha).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/levenshtein_differences_MT_SP(Lech_Lecha).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/spelling_differences_SP_MT(Lech_Lecha).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/lexical_parallels(Lech_Lecha).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
-</li></ul>
 
 ## Hebcal
 

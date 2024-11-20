@@ -11,20 +11,6 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.
 
 Parasha Vayechi ("and he lived") is the final portion of the Book of Genesis. It recounts the closing moments of Jacob's life as he blesses his sons and imparts his final wishes and prophecies upon them, including the notable blessings to Joseph's two sons, Ephraim and Manasseh. Jacob requests to be buried in the Cave of Machpelah alongside his ancestors, emphasizing the importance of the family burial place an the land. The parasha also describes Jacob's death and the elaborate mourning and burial processions. Additionally, it addresses the reconciliation between Joseph and his brothers after their father's death, reassuring them of his forgiveness. This parasha marks the end of the patriarchal era, setting the stage for the Israelites' journey into Egypt and the subsequent events of the Exodus.
 
-## Related SHEBANQ queries
-
-Verse | Query | Description
---- | --- | ---
-
-
-## Related Text-Fabric Notebooks
-
-NBviewer | Short description
----|---
-<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
-<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
-<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
-
 ## Parasha Data Sheet
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/12%20-%20Vayechi/hapax_legomena(Vayechi).html" target="_blank">Overview unique words in this parasha</a>
@@ -33,6 +19,19 @@ NBviewer | Short description
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/12%20-%20Vayechi/spelling_differences_SP_MT(Vayechi).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/12%20-%20Vayechi/lexical_parallels(Vayechi).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
 </li></ul>
+
+## Related SHEBANQ queries
+
+Verse | Query | Description
+--- | --- | ---
+
+## Related Text-Fabric Notebooks
+
+NBviewer | Short description
+---|---
+<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
+<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
+<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
 ## Hebcal
 

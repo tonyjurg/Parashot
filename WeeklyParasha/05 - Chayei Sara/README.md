@@ -12,6 +12,15 @@ Haftarah:  <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs
 
 Parasha Chayei-Sara ("the life of Sara") begins with the death of Sara at the age of 127 and Abraham’s negotiation to purchase the Cave of Machpelah in Hebron as a burial site for her. It also details Abraham's efforts to find a suitable wife for his son Isaac, reflecting his commitment to preserving the covenantal line. Abraham sends his trusted servant, traditionally identified as Eliezer, on this mission, and through a series of divinely guided events, Rebekah is chosen as Isaac’s wife.
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/hapax_legomena(Chayei_Sarah).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/differences_MT_SP(Chayei_Sarah).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/levenshtein_differences_MT_SP(Chayei_Sarah).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/spelling_differences_SP_MT(Chayei_Sarah).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/lexical_parallels(Chayei_Sarah).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 ## Related SHEBANQ queries
 
 Verse | Query | Description
@@ -28,15 +37,6 @@ GitHub | NBviewer | Short description
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sara/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
 [Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sara/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 [Delta SP and MT](delta_mt_and_sp.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sara/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
-
-## Parasha Data Sheet
-
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/hapax_legomena(Chayei_Sarah).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/differences_MT_SP(Chayei_Sarah).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/levenshtein_differences_MT_SP(Chayei_Sarah).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/spelling_differences_SP_MT(Chayei_Sarah).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/lexical_parallels(Chayei_Sarah).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
-</li></ul>
 
 ## Hebcal
 
