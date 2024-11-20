@@ -9,7 +9,7 @@ A "parasha" is a section of the Torah divided for weekly reading. Each parasha e
 <a href="WeeklyParasha/02%20-%20Noach">#2: Noach (Gen. 6:9-11:32)</a><br>
 <a href="WeeklyParasha/03%20-%20Lech%20Lecha">#3: Lech Lecha (Gen. 12:1-17:27)</a><br>
 <a href="WeeklyParasha/04%20-%20Vayera">#4: Vayera (Gen. 18:1-22:24)</a><br>
-<a href="WeeklyParasha/05%20-%20Chayei%20Sarah">#5: Chayei Sarah (Gen. 23:1-25:18)</a><br>
+<a href="WeeklyParasha/05%20-%20Chayei%20Sara">#5: Chayei Sara (Gen. 23:1-25:18)</a><br>
 <a href="WeeklyParasha/06%20-%20Toldot">#6: Toldot (Gen. 25:19-28:9)</a><br>
 <a href="WeeklyParasha/07%20-%20Vayetzei">#7: Vayetzei (Gen. 28:10-32:3)</a><br>
 <a href="WeeklyParasha/08%20-%20Vayishlach">#8: Vayishlach (Gen. 32:4-36:43)</a><br>
