@@ -10,16 +10,16 @@ Haftarah:  <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs
 
 ## Summary
 
-Parasha Chayei-Sara ("the life of Sara") begins with the death of Sarah at the age of 127 and Abraham’s negotiation to purchase the Cave of Machpelah in Hebron as a burial site for her. It also details Abraham's efforts to find a suitable wife for his son Isaac, reflecting his commitment to preserving the covenantal line. Abraham sends his trusted servant, traditionally identified as Eliezer, on this mission, and through a series of divinely guided events, Rebekah is chosen as Isaac’s wife.
+Parasha Chayei-Sara ("the life of Sara") begins with the death of Sara at the age of 127 and Abraham’s negotiation to purchase the Cave of Machpelah in Hebron as a burial site for her. It also details Abraham's efforts to find a suitable wife for his son Isaac, reflecting his commitment to preserving the covenantal line. Abraham sends his trusted servant, traditionally identified as Eliezer, on this mission, and through a series of divinely guided events, Rebekah is chosen as Isaac’s wife.
 
 ## Related SHEBANQ queries
 
 Verse | Query | Description
 --- | --- | ---
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.23:1&options=HNVUG" target="_blank">Gen. 23:1</a>| <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6784&version=2021&page=1&mr=r&qw=q" target="_blank">number/year repetitions</a> | The lifetime of Sarah was expressed as repetition of card/ord number & year. Where else?
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.23:1&options=HNVUG" target="_blank">Gen. 23:1</a>| <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6784&version=2021&page=1&mr=r&qw=q" target="_blank">number/year repetitions</a> | The lifetime of Sara was expressed as repetition of card/ord number & year. Where else?
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.23:9&options=HNVUG" target="_blank">Gen. 23:9</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5784&version=2021&page=1&mr=r&qw=q" target="_blank">Het volle veld</a> | Examining the combination of "field" and "full" ('שָׂדֶ֔ה' and 'מָלֵא') to assess whether the reading in Genesis 27:27 of the Samaritan Pentateuch aligns with the Masoretic Text (Dutch, query by Stefan Zwaan) 
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.23:9&options=HNVUG" target="_blank">Gen. 23:9</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6785&version=2021&page=1&mr=r&qw=q" target="_blank">Paying the full price</a> | Abraham bought the case of Machpelah for the full price (lit: for full silver). Where else?
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.24:12;42&options=HNVUG" target="_blank">Gen. 24:12;42</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6790&version=2021&page=1&mr=r&qw=q" target="_blank">YHWH/Adon</a> | Eliazer vocative useage of the YHWH-Adonai combination 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.24:12;42&options=HNVUG" target="_blank">Gen. 24:12;42</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6790&version=2021&page=1&mr=r&qw=q" target="_blank">YHWH/Adon</a> | Eliezer vocative useage of the YHWH-Adonai combination 
 
 ## Related Text-Fabric Notebooks
 
@@ -31,11 +31,11 @@ GitHub | NBviewer | Short description
 
 ## Parasha Data Sheet
 
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/hapax_legomena(Chayei%20Sarah).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/differences_MT_SP(Chayei%20Sarah).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/levenshtein_differences_MT_SP(Chayei%20Sarah).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/spelling_differences_SP_MT(Chayei%20Sarah).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/lexical_parallels(Chayei%20Sarah).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/hapax_legomena(Chayei_Sarah).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/differences_MT_SP(Chayei_Sarah).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/levenshtein_differences_MT_SP(Chayei_Sarah).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/spelling_differences_SP_MT(Chayei_Sarah).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/lexical_parallels(Chayei_Sarah).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
 </li></ul>
 
 ## Hebcal
