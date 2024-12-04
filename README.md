@@ -1,4 +1,6 @@
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) 
+<div class="hidden-content">
+<a href="https://www.repostatus.org/#active" target="_blank" Title="Project Status: Active – The project has reached a stable, usable state and is being actively developed."><img src="https://www.repostatus.org/badges/latest/active.svg"></a> 
+</div>
 
 # Parashot
 
