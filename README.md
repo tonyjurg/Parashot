@@ -8,13 +8,13 @@ Digital Humanities for the weekly Parasha (Torah portion of the week). The tools
 
 ## The weekly parasha
 
-A “parasha” is a section of the Torah divided for weekly reading. Each parasha encompasses a specific portion of text, and there are 54 parashot (plural for parasha) covering the entire five books of the Torah, ensuring the entire Torah is read over the course of a year. This weekly reading cycle, known as the Torah portion, is integral to Jewish liturgy and communal worship, providing a structured approach to studying and reflecting upon the Torah’s teachings. 
+A “parasha” is a section of the Torah divided for weekly reading. Each parasha encompasses a specific portion of text, and there are 54 parashot (plural for parasha) covering the entire five books of the Torah, ensuring the entire Torah is read over the course of a year. This weekly reading cycle, known as the Torah portion, is integral to Jewish liturgy and communal worship, providing a structured approach to studying and reflecting upon the Torah’s teachings. The information on this site is structured along these parashot.
  - [Detaileded information for each parasha](parashot.md).
  - [Englisch text of the weekly parasha (STEP bible)](https://www.stepbible.org/html/parashot.html).
 
 ## Hebrew Grammar
 
-A free online grammar of Biblical Hebrew is available at [unfoldingWord Hebrew Grammar](https://uhg.readthedocs.io/en/latest/front.html).
+This site primarily focuses on the grammatical aspects of the Hebrew text. For a comprehensive and free online resource on Biblical Hebrew grammar, visit the [unfoldingWord Hebrew Grammar](https://uhg.readthedocs.io/en/latest/front.html).
 
 ## Images
 
