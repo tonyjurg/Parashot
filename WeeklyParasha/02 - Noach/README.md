@@ -6,12 +6,11 @@
 Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.6:9-11:32&options=HNVUG" target="_blank">Genesis 6:9-11:32</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/noach" target="_blank">(Hebrew: פָּרָשַׁת נֹח)</a><br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.54:1-55:5&options=HNVUG" target="_blank">Isaiah 42:5-43:10</a>
 
-
 ## Summary
 
 Parasha Noach ("Noah") centers around the story of Noah and the Great Flood. God instructs Noah to build an ark to save himself, his family, and two of every animal species from the impending deluge. The floodwaters engulf the world, but eventually recede, and Noah and his descendants repopulate the earth, emphasizing themes of divine judgment, obedience, and renewal in this portion of the Torah. The parasha also includes the story of the Tower of Babel, highlighting the dangers of pride and disobedience to God's will.
 
-## Parasha Data Sheet
+## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/hapax_legomena(Noach).html" target="_blank">Overview unique words in this parasha</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/differences_MT_SP(Noach).html" target="_blank">Differences between MT and SP for this parasha</a>
@@ -42,5 +41,7 @@ Additional details about Jewish calendar and holiday information, offering users
 
 ## AI generated image
 
+The following image was created by DALL-E as illustration for this parasha. The following prompt was used 'A scene from the biblical story of Noah's Ark where animals are seen exiting the large wooden ark.'
+
 <img src="images/DALL_E_Noah_animals_exiting_the_ark.jpg">
-DALL.E image generated with the prompt 'A scene from the biblical story of Noah's Ark where animals are seen exiting the large wooden ark.'
+
