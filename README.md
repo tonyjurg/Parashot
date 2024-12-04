@@ -16,7 +16,7 @@ A “parasha” is a section of the Torah divided for weekly reading. Each paras
 
 This site primarily focuses on the grammatical aspects of the Hebrew text. For a comprehensive and free online resource on Biblical Hebrew grammar, visit the [unfoldingWord Hebrew Grammar](https://uhg.readthedocs.io/en/latest/front.html).
 
-## Images
+## AI generated images
 
 Various parashot are illustrated with images created by AI models based on a prompt, usually a literal excerpt taken from a specific parasha. The following image was generated using the prompt: "Reading trough the Lens of Tenach."
 
