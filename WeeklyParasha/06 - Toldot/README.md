@@ -24,6 +24,8 @@ Parasha Toldot ("generations" or "descendants") details the birth and early live
 
 Verse | Query | Description
 --- | --- | ---
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.25:19&options=HNVUG" target="_blank">Gen. 25:19</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6261&version=2021&page=1&mr=r&qw=q" target="_blank">Toldot predicate phrases</a> | Identifying specific family histories (Toldot's)
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.26:33&options=HNVUG" target="_blank">Gen. 26:33</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6558&version=2021&page=1&mr=r&qw=q" target="_blank">'on the same day'</a> |Occurences of the expression יֹּ֣ום הַזֶּ֗ה.
 
 
 ## Related Text-Fabric Notebooks
