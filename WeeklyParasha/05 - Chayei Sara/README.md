@@ -12,7 +12,7 @@ Haftarah:  <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs
 
 Parasha Chayei-Sara ("the life of Sara") begins with the death of Sara at the age of 127 and Abraham’s negotiation to purchase the Cave of Machpelah in Hebron as a burial site for her. It also details Abraham's efforts to find a suitable wife for his son Isaac, reflecting his commitment to preserving the covenantal line. Abraham sends his trusted servant, traditionally identified as Eliezer, on this mission, and through a series of divinely guided events, Rebekah is chosen as Isaac’s wife.
 
-## Parasha Data Sheet
+## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/hapax_legomena(Chayei_Sarah).html" target="_blank">Overview unique words in this parasha</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/differences_MT_SP(Chayei_Sarah).html" target="_blank">Differences between MT and SP for this parasha</a>
@@ -44,6 +44,8 @@ Additional details about Jewish calendar and holiday information, offering users
 
 ## AI generated image
 
+The following image was created by Image created by DALL-E as illustration for this parasha: Rebekah at the well.
+
 <img src="Rebekah_at_the_well_DALL·E.jpg">
 
-Image created by DALL-E: Rebekah at the well.
+
