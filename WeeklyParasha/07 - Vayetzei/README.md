@@ -25,7 +25,7 @@ Parashat Vayetzei ("He Went Out") recounts the journey of Jacob as he flees from
 Verse | Query | Description
 --- | --- | ---
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.28:22;30:16;31:30&options=HNVUG" target="_blank">Gen. 28:22;30:16;31:30</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6089&version=2021&page=1&mr=r&qw=q" target="_blank">Verb radix repetition</a> | Repetition of a verb radix to express emphasis 
-
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.29:31,32&options=HNVUG" target="_blank">Gen. 29:31,32</a>|<a href="https://shebanq.ancient-data.org/hebrew/text?iid=6283&version=2021&page=1&mr=r&qw=q" target="_blank">The LORD seeing</a>| Clauses where God is the subject of the verb רָאָה (seeing). I.e., where God is seeing.
 
 ## Related Text-Fabric Notebooks
 
@@ -34,8 +34,6 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
-
-
 
 ## Hebcal
 
