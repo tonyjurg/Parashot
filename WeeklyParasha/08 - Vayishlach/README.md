@@ -11,9 +11,7 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Obad&
 
 In Parashat Vayishlach ("he sent") Jacob prepares to meet his brother Esau after years apart, filled with anxiety and uncertainty about Esau's intentions. As a strategic precaution, Jacob divides his family and possessions into two camps to minimize potential losses in case of an attack. During the night, Jacob wrestles with a mysterious angelic figure until dawn, earning the name Israel, which signifies his struggles with both divine and human beings and prevailing. The reunion with Esau is unexpectedly peaceful and marked by brotherly affection, contrasting sharply with the subsequent violent episode in Shechem. Jacob’s daughter, Dinah, is dishonored by Shechem, the son of Hamor the Hivite. In response, her brothers Simeon and Levi take bloody vengeance against the city of Shechem, killing all the males and taking the women and children captive. The portion also recounts the death of Rachel during the birth of her second son, Benjamin, and her burial on the way to Ephrath, which is Bethlehem. The parasha concludes with the death of Isaac, who is buried by his sons Jacob and Esau, and a genealogical account of Esau’s descendants.
 
-## Related SHEBANQ queries
-
-## Parasha Data Sheet
+## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/hapax_legomena(Vayishlach).html" target="_blank">Overview unique words in this parasha</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/differences_MT_SP(Vayishlach).html" target="_blank">Differences between MT and SP for this parasha</a>
@@ -21,6 +19,8 @@ In Parashat Vayishlach ("he sent") Jacob prepares to meet his brother Esau after
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/spelling_differences_SP_MT(Vayishlach).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/08%20-%20Vayishlach/lexical_parallels(Vayishlach).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
 </li></ul>
+
+## Related SHEBANQ queries
 
 Verse | Query | Short description
 --- | --- | ---
@@ -33,8 +33,6 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
-
-
 
 ## Hebcal
 
