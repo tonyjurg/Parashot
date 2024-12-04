@@ -24,6 +24,7 @@ Parashat Vayetzei ("He Went Out") recounts the journey of Jacob as he flees from
 
 Verse | Query | Description
 --- | --- | ---
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.28:22;30:16;31:30&options=HNVUG" target="_blank">Gen. 28:22;30:16;31:30</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6282&version=2021&page=1&mr=r&qw=q" target="_blank">Verb radix repetition</a> | Repetition of a verb radix to express emphasis 
 
 
 ## Related Text-Fabric Notebooks
