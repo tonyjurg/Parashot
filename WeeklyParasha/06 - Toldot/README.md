@@ -36,8 +36,12 @@ NBviewer | Short description
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
-
-
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/toldot" target="_blank">Hebcal entry for parasha Toldot</a>.
+
+## AI generated image
+
+The following image was created by DALL-E as illustration for this parasha. The following prompt was auto generated based upon the parasha description and used to render the image: "A vivid biblical scene depicting Jacob and Esau, the twin brothers, in their contrasting roles from Parasha Toldot. Esau, rugged and muscular, wearing hunter's attire, is shown tired and hungry, handing over his birthright to Jacob in exchange for a bowl of lentil stew. Jacob, calm and contemplative, is seated in a simple tent, offering the steaming stew. The setting is a Middle Eastern desert landscape, with a soft golden light highlighting their expressions. Nearby, the figure of Rebekah can be seen discreetly observing the interaction from a distance, emphasizing her involvement in the broader story. Include historical and cultural details in their clothing and the environment."
+
+<img src="images/DALL·E%20-%20Jacob%20and%20Esau%20-%20Parasha%20Toldot.jpg">
