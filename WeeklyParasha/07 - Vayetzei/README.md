@@ -11,7 +11,7 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Hos.1
 
 Parashat Vayetzei ("He Went Out") recounts the journey of Jacob as he flees from Esau's wrath and travels to Haran, where he encounters God in a dream at Bethel. Here, God reiterates the Abrahamic promises of land and descendants. Jacob then serves Laban for fourteen years to marry his daughters Leah and Rachel, amidst family deceptions and his growing prosperity through livestock, which sets the stage for his eventual return to Canaan.
 
-## Parasha Data Sheet
+## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/07%20-%20Vayetzei/hapax_legomena(Vayetzei).html" target="_blank">Overview unique words in this parasha</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/07%20-%20Vayetzei/differences_MT_SP(Vayetzei).html" target="_blank">Differences between MT and SP for this parasha</a>
@@ -42,6 +42,8 @@ Additional details about Jewish calendar and holiday information, offering users
 
 ## AI generated image
 
+The following image was created by DALL-E as illustration for this parasha: Jacob dreaming at Bethel.
+
 <img src="Jacob_dream_at_bethel_DALL·E.jpg">
 
-Image created by DALL-E: Jacob dreaming at Bethel.
+
