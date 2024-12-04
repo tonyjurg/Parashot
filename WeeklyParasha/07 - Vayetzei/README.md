@@ -26,6 +26,7 @@ Verse | Query | Description
 --- | --- | ---
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.28:22;30:16;31:30&options=HNVUG" target="_blank">Gen. 28:22;30:16;31:30</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6089&version=2021&page=1&mr=r&qw=q" target="_blank">Verb radix repetition</a> | Repetition of a verb radix to express emphasis 
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.29:31,32&options=HNVUG" target="_blank">Gen. 29:31,32</a>|<a href="https://shebanq.ancient-data.org/hebrew/text?iid=6283&version=2021&page=1&mr=r&qw=q" target="_blank">The LORD seeing</a>| Clauses where God is the subject of the verb רָאָה (seeing). I.e., where God is seeing.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.29:6&options=HNVUG" target="_blank">Genesis 29:6</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=3224&version=2017&page=1&mr=r&qw=q" target="_blank">shalom as greeting</a> | Jacob asks the shepherd about the well-being of Laban, using the word 'shalom' (Query: Willem van Peursen).
 
 ## Related Text-Fabric Notebooks
 
