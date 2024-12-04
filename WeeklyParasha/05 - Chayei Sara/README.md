@@ -44,7 +44,7 @@ Additional details about Jewish calendar and holiday information, offering users
 
 ## AI generated image
 
-The following image was created by Image created by DALL-E as illustration for this parasha: Rebekah at the well.
+The following image was created by DALL-E as illustration for this parasha: Rebekah at the well.
 
 <img src="Rebekah_at_the_well_DALL·E.jpg">
 
