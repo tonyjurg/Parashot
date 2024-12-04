@@ -24,7 +24,7 @@ Parasha Toldot ("generations" or "descendants") details the birth and early live
 
 Verse | Query | Description
 --- | --- | ---
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.29:6&options=HNVUG" target="_blank">Genesis 29:6</a> | <a href="https://shebanq.ancient-data.org/hebrew/queries?goto=3224&version=2021&page=1&mr=r&qw=q" target="_blank">shalom as greeting</a> | Jacob asks the shepherd about the well-being of Laban, using the word 'shalom'.
+
 
 ## Related Text-Fabric Notebooks
 
