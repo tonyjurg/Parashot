@@ -41,7 +41,7 @@ Additional details about Jewish calendar and holiday information, offering users
 
 ## AI generated image
 
-The following image was created by DALL-E as illustration for this parasha. The following prompt was used 'A scene from the biblical story of Noah's Ark where animals are seen exiting the large wooden ark.'
+The following image was created by DALL.E as illustration for this parasha. The following prompt was used 'A scene from the biblical story of Noah's Ark where animals are seen exiting the large wooden ark.'
 
 <img src="images/DALL_E_Noah_animals_exiting_the_ark.jpg">
 
