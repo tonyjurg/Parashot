@@ -30,11 +30,11 @@ Verse | Query | Short description
 
 ## Related Text-Fabric Notebooks
 
-NBviewer | Short description
----|---
-<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*).
-<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
-<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
+GitHub | NBviewer | Short description
+---|---|---
+<a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*).
+<a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | find lexical parallels between verses
+<a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
 ## Hebcal
 
