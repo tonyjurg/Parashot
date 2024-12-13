@@ -37,3 +37,10 @@ NBviewer | Short description
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayishlach" target="_blank">Hebcal entry for parasha Vayishlach</a>.
+
+## AI generated image
+
+The following image was created by DALL.E as illustration for this parasha. The following prompt was AI generated as prompt to the image: "Create an illustration of Jacob wrestling with an angel by the Jabbok River at night, with a starry sky and moonlight reflecting on the water. Show Jacob determined but humbled, with a glow emanating from the angel, symbolizing divine presence. Include subtle elements of the surrounding wilderness and the tension of the moment."
+
+<img src="images/DALL·E-Vayishlach.jpg">
+
