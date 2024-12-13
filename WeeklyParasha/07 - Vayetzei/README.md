@@ -42,7 +42,7 @@ Additional details about Jewish calendar and holiday information, offering users
 
 ## AI generated image
 
-The following image was created by DALL-E as illustration for this parasha: Jacob dreaming at Bethel.
+The following image was created by DALL.E as illustration for this parasha: Jacob dreaming at Bethel.
 
 <img src="Jacob_dream_at_bethel_DALL·E.jpg">
 
