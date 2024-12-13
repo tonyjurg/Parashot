@@ -44,7 +44,7 @@ Additional details about Jewish calendar and holiday information, offering users
 
 ## AI generated image
 
-The following image was created by DALL-E as illustration for this parasha. The prompt used to render the image was auto generated based upon the summary of this parasha. The prompt used by DALL-E was: "A serene biblical scene depicting Rebekah at the well, drawing water in a Middle Eastern desert landscape. Rebekah is dressed in modest, historically accurate robes, gracefully lowering a bucket into the well. Several clay jars are arranged nearby, ready to be filled. A traveler, Abraham’s servant, stands beside her with camels resting in the background, evoking a sense of the journey. The setting is bathed in warm, golden light, with rolling dunes and distant figures to emphasize the vastness of the desert. The mood is peaceful and reflective, capturing the sacred moment of kindness and hospitality."
+The following image was created by DALL.E as illustration for this parasha. The prompt used to render the image was auto generated based upon the summary of this parasha. The prompt used by DALL-E was: "A serene biblical scene depicting Rebekah at the well, drawing water in a Middle Eastern desert landscape. Rebekah is dressed in modest, historically accurate robes, gracefully lowering a bucket into the well. Several clay jars are arranged nearby, ready to be filled. A traveler, Abraham’s servant, stands beside her with camels resting in the background, evoking a sense of the journey. The setting is bathed in warm, golden light, with rolling dunes and distant figures to emphasize the vastness of the desert. The mood is peaceful and reflective, capturing the sacred moment of kindness and hospitality."
 
 <img src="Rebekah_at_the_well_DALL·E.jpg">
 
