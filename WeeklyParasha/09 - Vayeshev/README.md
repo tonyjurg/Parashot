@@ -42,3 +42,10 @@ NBviewer | Short description
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayeshev" target="_blank">Hebcal entry for parasha Vayeshev</a>.
+
+## AI generated image
+
+The following image was created by DALL-E as illustration for this parasha. The following prompt was AI generated as prompt to the image:
+"An artistic depiction of Parasha Vayeshev: Jacob sitting pensively in the land of Canaan, surrounded by a serene yet tense atmosphere, symbolizing his desire for peace. Nearby, Joseph, adorned in his vibrant multicolored robe (ketonet passim), stands out among his brothers, who watch him with mixed emotions. The scene is set under a vivid Middle Eastern sky, with flocks of sheep grazing in the distance and subtle hints of the unfolding drama, such as shadows of a pit and caravan traders in the background."
+
+
