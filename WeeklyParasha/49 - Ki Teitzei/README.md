@@ -16,7 +16,7 @@ Parasha Ki Teitzei ("When you go out") contains a diverse collection of laws gov
 
 Verse | Query | Short description
 --- | --- | --- 
-||
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.25:11&options=HNVUG" target="_blank">Deut. 25:11</a>|  <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5471&version=2021&page=1&mr=r&qw=q" target="_blank">Deliver from the hand</a>| Locate texts with the words (in any order) "delivered from the hand". (Timothy Baze)
 
 ## Related Text-Fabric Notebooks
 
