@@ -35,10 +35,10 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/09%20-%20Vayeshev/Vayehev.ipynb" target="_blank">Vayeshev</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/Vayehev.ipynb" target="_blank">Vayeshev</a> | (Gen. 37:4) shalom with/out wav
-<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/09%20-%20Vayeshev/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
-<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/09%20-%20Vayeshev/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
-<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/09%20-%20Vayeshev/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/09%20-%20Vayeshev/Vayehev.ipynb" target="_blank">Vayeshev</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/Vayehev.ipynb" target="_blank">Vayeshev</a> | Shalom with/out wav (Gen. 37:4).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/09%20-%20Vayeshev/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/09%20-%20Vayeshev/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | Find lexical parallels between verses
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/09%20-%20Vayeshev/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/09%20-%20Vayeshev/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
 
 ## Hebcal
 
