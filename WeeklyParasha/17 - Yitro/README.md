@@ -15,6 +15,7 @@ Parasha Yitro ("Jethro") describes the arrival of Yitro, Moses' father-in-law, w
 
 Verse | Query | Description
 --- | --- | ---
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex. 18:9,10&options=HNVUG" target="_blank">Ex. 18:9,10</a>|  <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5471&version=2021&page=1&mr=r&qw=q" target="_blank">Deliver from the hand</a>| Locate texts with the words (in any order) "delivered from the hand". (Timothy Baze)
 
 ## Related Text-Fabric Notebooks
 
