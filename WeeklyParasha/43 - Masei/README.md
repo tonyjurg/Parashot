@@ -17,7 +17,7 @@ Parasha Masei ("travels") recounts the Israelites' journey through the wildernes
 
 Verse | Query | Short description
 --- | --- | --- 
-||
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num. 35:25&options=HNVUG" target="_blank">Num. 35:25</a>|  <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5471&version=2021&page=1&mr=r&qw=q" target="_blank">Deliver from the hand</a>| Locate texts with the words (in any order) "delivered from the hand". (Timothy Baze)
 
 
 ## Related Text-Fabric Notebooks
