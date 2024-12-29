@@ -16,6 +16,7 @@ Parasha Va'era ("I appeared") details God's reaffirmation of His covenant with t
 Verse | Query | Description
 --- | --- | ---
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.6:5&options=HNVUG" target="_blank">Ex. 6:5</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6290&version=2021&page=1&mr=r&qw=q" target="_blank">The groaning of the people</a> | Where else is groaning found?
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.6:16&options=HNVUG" target="_blank">Ex. 6:16</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6284&version=2021&page=1&mr=r&qw=q" target="_blank">These are the names</a> | Find other occurences of the phrase "these are the names"
 
 ## Related Text-Fabric Notebooks
 
