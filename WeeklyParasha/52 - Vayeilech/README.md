@@ -6,7 +6,7 @@
 
 Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Deut.31-30&options=HNVUG" target="_blank">Deuteronomy 31:1-30</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayeilech" target="_blank">(Hebrew: פָּרָשַׁת וַיֵּלֶךְ)</a><br>
 Haftarah: 
-<a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.55:6-56:8&options=HNVUG" target="_blank">Isaiah 55:6-56:8·</a>
+<a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.55:6-56:8&options=HNVUG" target="_blank">Isaiah 55:6-56:8</a>
 
 ## Summary
 
