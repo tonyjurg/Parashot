@@ -39,4 +39,4 @@ Additional details about Jewish calendar and holiday information, offering users
 
 <img src="moses_calling_DALL-E.jpg">
 
-Image created by DALL-E: Moses calling at the mountain of the LORD.
+Image created by DALL-E: The calling of Moses at the mountain of the LORD.
