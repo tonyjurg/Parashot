@@ -15,6 +15,7 @@ Parasha Vayakhel details Moses gathering the Israelites to instruct them on the 
 
 Verse | Query | Short description
 --- | --- | --- 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.35:21&options=HNVUG" target="_blank">Ex. 35:21</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
 
 
 ## Related Text-Fabric Notebooks
