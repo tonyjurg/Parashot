@@ -19,7 +19,7 @@ Verse | Query | Short description
 --- | --- | --- 
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.22:22-23&options=HNVUG" target="_blank">Num. 22:22,32</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6626&page=1&mr=r&qw=q" target="_blank">Adversary / Satan (& prep/art)</a> | Evaluate the use of substantive שָׂטָן (satan)
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.23:7,18;24:3,15,20,21,23&options=HNVUG" target="_blank">Num. 23:7,18&24:3,15,20,21,23</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6872&page=1&mr=r&qw=q" target="_blank">Lift up an oracle</a> | Use of the phrase וַיִּשָּׂ֥א מְשָׁלֹ֖ו (Numb 23:7-24:23).
-
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.24:2&options=HNVUG" target="_blank">Num. 24:2</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
 
 ## Related Text-Fabric Notebooks
 
