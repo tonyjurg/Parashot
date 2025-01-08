@@ -37,3 +37,7 @@ GitHub | NBviewer | Short description
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/lech-lecha" target="_blank">Hebcal entry for parasha Lech Lecha</a>.
+
+## AI generated image
+
+The following image was created by DALL.E as illustration for this parasha. The following prompt was used "make an image related to the parasha lech lecha".
