@@ -41,3 +41,4 @@ Additional details about Jewish calendar and holiday information, offering users
 ## AI generated image
 
 The following image was created by DALL.E as illustration for this parasha. The following prompt was used "make an image related to the parasha lech lecha".
+<img src="images/DALL_E_Torah_portion_Lech_Lecha.jpg">
