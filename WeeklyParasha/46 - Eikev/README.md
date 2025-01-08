@@ -16,7 +16,7 @@ Parasha Eikev ("as a consequence") emphasizes the rewards of obedience to God's 
 
 Verse | Query | Short description
 --- | --- | --- 
-||
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.8:10&options=HNVUG" target="_blank">Deut. 8:10</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5542&version=2021&page=1&mr=r&qw=q" target="_blank">Elohim as object of blessing</a> | Where is God (elohiem) the object of blessing (ברך)?
 
 ## Related Text-Fabric Notebooks
 
