@@ -18,7 +18,6 @@ Verse | Query | Short description
 --- | --- | --- 
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.5:30&options=HNVUG" target="_blank">Num. 5:30</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
 
-
 ## Related Text-Fabric Notebooks
 
 GitHub | NBviewer | Short description
