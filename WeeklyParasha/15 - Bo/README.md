@@ -15,6 +15,7 @@ Parasha Bo ("Come"), named after a imperative verb meaning 'come' or 'go', detai
 
 Verse | Query | Description
 --- | --- | ---
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.10:13&options=HNVUG" target="_blank">Ex. 10:13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.12:14,17&options=HNVUG" target="_blank">Ex. 12:14&17</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6558&page=1&mr=r&qw=q" target="_blank">6558</a> | 'on the same day'
 
 
