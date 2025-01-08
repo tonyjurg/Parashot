@@ -37,3 +37,10 @@ GitHub | NBviewer | Short description
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/miketz" target="_blank">Hebcal entry for parasha Miketz</a>.
+
+## AI generated image
+
+The following image was created by DALL.E based upon the initial prompt "create an image for parsha miketz". It was expanded into: "A vivid and dramatic illustration of the biblical Parsha Miketz, focusing on Pharaoh's dream as interpreted by Joseph. The image shows Joseph, in Egyptian royal attire, gesturing toward a vision materializing in the air. The vision depicts seven healthy, fat cows grazing by the Nile, contrasted with seven gaunt, sickly cows emerging from the water. Another part of the vision shows seven full ears of grain, lush and golden, alongside seven withered, dry ears being consumed by the wind. Pharaoh watches intently from his ornate golden throne, surrounded by advisors in an opulent palace with hieroglyphic details. The atmosphere is mystical, with glowing, surreal light emphasizing the divine and prophetic nature of the scene."
+
+<img src="images/DALL_E_parasha_miketz.jpg">
+
