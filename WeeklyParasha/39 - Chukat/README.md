@@ -17,8 +17,7 @@ Parasha Chukat ("law of") introduces the laws of the red heifer, used for ritual
 Verse | Query | Short description
 --- | --- | --- 
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.20:6&options=HNVUG" target="_blank">Num. 20:6</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem.
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.21:3&options=HNVUG" target="_blank">Num. 21:3</a> | [the Lord listend](https://shebanq.ancient-data.org/hebrew/query?version=2017&id=2937&page=1&mr=r&qw=q) | The Lord listened to the people of Israel
-
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.21:3&options=HNVUG" target="_blank">Num. 21:3</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=2937&version=2017&page=1&mr=r&qw=q" target="_blank">The Lord listened</a> | The Lord listened to the people of Israel
 
 ## Related Text-Fabric Notebooks
 
