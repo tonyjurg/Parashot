@@ -15,6 +15,7 @@ Parasha Shemini ('eighth') describes the inauguration of the Tabernacle and the 
 
 Verse | Query | Short description
 --- | --- | --- 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Lev.9:4,6,23&options=HNVUG" target="_blank">Lev. 9:4,6,23 </a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem.
 
 
 ## Related Text-Fabric Notebooks
