@@ -23,7 +23,7 @@ Parasha Lekh Lekha ("Go for yourself") marks the beginning of Abraham's journey 
 
 Verse | Query | Description
 --- | --- | ---
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.12:7&options=HNVUG" target="_blank">Gen. 12:7</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.12:7&options=HNVUG" target="_blank">Gen. 12:7</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem (here is the first occurence).
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.12:13&options=HNVUG" target="_blank">Gen. 12:13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6089&version=2021&page=1&mr=r&qw=q" target="_blank">Verb radix repetition</a> | Repetition of a verb radix to express emphasis.
 
 ## Related Text-Fabric Notebooks
