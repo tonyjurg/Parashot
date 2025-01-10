@@ -16,7 +16,7 @@ Parasha Tazria discusses the laws of ritual purity related to childbirth and ski
 
 Verse | Query | Short description
 --- | --- | --- 
-Lev 13:17&51 | https://shebanq.ancient-data.org/hebrew/queries?goto=5535 |
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Lev.13:17,51&options=HNVUG" target="_blank">Lev. 13:17,51</a> | < href="https://shebanq.ancient-data.org/hebrew/text?iid=5535&version=2021&page=1&mr=r&qw=q" target="_blank">a blow to 'someone'</a> | Search for "a blow to 'someone' " (~Isaiah 53:8)
 
 
 ## Related Text-Fabric Notebooks
