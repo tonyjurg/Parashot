@@ -24,7 +24,7 @@ Parasha Vayechi ("and he lived") is the final portion of the Book of Genesis. It
 
 Verse | Query | Description
 --- | --- | ---
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.45:27&options=HNVUG" target="_blank">Gen. 45:27</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">God caused to see</a> | God as subject with verb רָאָה with hifil stem (expressing causative actions)
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.48:11&options=HNVUG" target="_blank">Gen. 48:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6875	&version=2021&page=1&mr=r&qw=q" target="_blank">God caused to see</a> | God as subject with verb רָאָה with hifil stem (expressing causative actions)
 
 ## Related Text-Fabric Notebooks
 
