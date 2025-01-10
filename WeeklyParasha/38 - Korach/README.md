@@ -16,7 +16,7 @@ Parasha Korach ("Korach") describes the rebellion of Korach, Dathan, and Abiram,
 
 Verse | Query | Short description
 --- | --- | --- 
-||
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.16:19;17:7&options=HNVUG" target="_blank">Num. 16:19; 17:7</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem.
 
 
 ## Related Text-Fabric Notebooks
