@@ -14,6 +14,7 @@ Parasha Vayikra introduces the sacrificial system of ancient Israel, detailing v
 
 Verse | Query | Short description
 --- | --- | --- 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Lev.1:13&options=HNVUG" target="_blank">Lev. 2:13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6346&page=1&mr=r&qw=q" target="_blank">causative verb shabatizing</a> | Causing to take a rest.
 
 
 ## Related Text-Fabric Notebooks
