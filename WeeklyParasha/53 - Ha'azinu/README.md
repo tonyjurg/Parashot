@@ -18,6 +18,7 @@ Verse | Query | Short description
 --- | --- | --- 
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.32:11&options=HNVUG" target="_blank">Deut. 32:11</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6694&version=2021&page=1&mr=r&qw=q" target="_blank">God compared to an eagle</a> | Where else is the construct כְנֶשֶׁר ("like an eagle") used?
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.32:11&options=HNVUG" target="_blank">Deut. 32:11</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6298&version=2021&page=1&mr=r&qw=q" target="_blank">Hovering over his young</a> | Where else it the eagle hovering?
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.32:26&options=HNVUG" target="_blank">Deut. 32:26</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6346&page=1&mr=r&qw=q" target="_blank">causative verb shabatizing</a> | Causing to take a rest.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.32:39&options=HNVUG" target="_blank">Deut. 32:39</a>| <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5471&version=2021&page=1&mr=r&qw=q" target="_blank">Deliver from the hand</a>| Locate texts with the words (in any order) "delivered from the hand". (Timothy Baze)
 
 ## Related Text-Fabric Notebooks
