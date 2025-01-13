@@ -15,10 +15,10 @@ Parasha Bo ("Come"), named after a imperative verb meaning 'come' or 'go', detai
 
 Verse | Query | Description
 --- | --- | ---
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.10:13&options=HNVUG" target="_blank">Ex. 10:13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.12:14,17&options=HNVUG" target="_blank">Ex. 12:14&17</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6558&page=1&mr=r&qw=q" target="_blank">6558</a> | 'on the same day'
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.12:15&options=HNVUG" target="_blank">Ex. 12:15</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6346&page=1&mr=r&qw=q" target="_blank">causative verb shabatizing</a> | Causing to take a rest.
-
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.10:13&options=HNVUG" target="_blank">Ex. 10:13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.12:14,17&options=HNVUG" target="_blank">Ex. 12:14&17</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6558&version=2021&page=1&mr=r&qw=q" target="_blank">'on the same day'</a> | on this fvery day I brought your ▼multitudes out of the land of Egypt;
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.12:15&options=HNVUG" target="_blank">Ex. 12:15</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6346&version=2021&page=1&mr=r&qw=q" target="_blank">causative verb shabatizing</a> | Causing to take a rest.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.12:41&options=HNVUG" target="_blank">Ex. 12:41</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6307&version=2021&page=1&mr=r&qw=q" target="_blank">All its hosts - צָבָא</a> | all the ▼multitudes of the Lord departed from the land of Egypt.
 
 ## Related Text-Fabric Notebooks
 
