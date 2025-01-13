@@ -16,7 +16,8 @@ Parasha Bechukotai ("in my laws") is the final portion in the Book of Leviticus.
 
 Verse | Query | Short description
 --- | --- | --- 
-||
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Lev.26:6&options=HNVUG" target="_blank">Lev. 26:6</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6346&page=1&mr=r&qw=q" target="_blank">causative verb shabatizing</a> | Causing to take a rest.
+
 
 ## Related Text-Fabric Notebooks
 
