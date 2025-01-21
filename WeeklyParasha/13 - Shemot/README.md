@@ -15,7 +15,7 @@ In parasha Shemot ("names"), the children of Israel multiply in Egypt, leading P
 
 Verse | Query | Short description
 --- | --- | ---
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:1&options=HNVUG" target="_blank">Ex. 1:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6284&version=2021&page=1&mr=r&qw=q" target="_blank">These are the names</a> | Find other occurences of the phrase "these are the names"
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:1&options=HNVUG" target="_blank">Ex. 1:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6284&version=2021&page=1&mr=r&qw=q" target="_blank">These are the names</a> | Find other occurences of the phrase "these are the names".
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:7&options=HNVUG" target="_blank">Ex. 1:7</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q" target="_blank">Be fertile and be many</a> | The children of Israel became fertile and many. This was fulfilling the command given in Gen. 1:28.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.1:10&options=HNVUG" target="_blank">Ex. 1:10</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6285&version=2021&page=1&mr=r&qw=q" target="_blank">Let us act wisely</a> | The Pharao wanted the people to 'act wisely'. Where else is this verb used?
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:2&options=HNVUG" target="_blank">Ex. 2:2</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6289&version=2021&page=1&mr=r&qw=q" target="_blank">A 'tov' child</a> | The mother of Moses considered the child טֹוב. What else is considered טֹוב ?
@@ -23,7 +23,8 @@ Verse | Query | Short description
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:19;3:8&options=HNVUG" target="_blank">Ex. 2:19; 3:8</a>|  <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5471&version=2021&page=1&mr=r&qw=q" target="_blank">Deliver from the hand</a>| Locate texts with the words (in any order) "delivered from the hand". (Timothy Baze)
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:24&options=HNVUG" target="_blank">Ex. 2:24</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6290&version=2021&page=1&mr=r&qw=q" target="_blank">The groaning of the people</a> | God heard the groaning of the people in Egypt. Where else is groaning found?
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.3:16;4:1,5&options=HNVUG" target="_blank">Ex. 3:16;4:1,5 </a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem.
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.5:5&options=HNVUG" target="_blank">Ex. 5:5</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6346&page=1&mr=r&qw=q" target="_blank">causative verb shabatizing</a> | Causing to take a rest
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.5:5&options=HNVUG" target="_blank">Ex. 5:5</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6346&page=1&mr=r&qw=q" target="_blank">causative verb shabatizing</a> | Causing to take a rest.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.6:1&options=HNVUG" target="_blank">Ex. 6:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6888&page=1&mr=r&qw=q" target="_blank">With a strong hand</a> | The strong hand of the LORD forces the Pharao to send out and to drive out.
 
 
 ## Related Text-Fabric Notebooks
