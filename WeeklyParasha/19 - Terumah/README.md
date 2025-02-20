@@ -15,6 +15,7 @@ Parasha Terumah details God's instructions to Moses for the construction of the 
 
 Verse | Query | Description
 --- | --- | --- 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.26:33&options=HNVUG" target="_blank">Ex. 26:33</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6299&version=2021&page=1&mr=r&qw=q" target="_blank">Making separation - בדל hiphil</a> | Act of seperating. What is separated?
 
 
 ## Related Text-Fabric Notebooks
