@@ -5,7 +5,7 @@
 ## Reading passages
 
 Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.28:10-32:3&options=HNVUG" target="blank_">Genesis 28:10-32:3</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/vayetzei" target="blank_">(Hebrew: פָּרָשַׁת וַיֵּצֵא)</a><br>
-Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Hos.11:7-11;12:1-15&options=HNVUG" target="blank_">Hosea 11:7-11; 12:1-12; 13:1-5</a>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Hos.11:7-12:12&options=HNVUG" target="blank_">Hosea 11:7-12:12</a>
 
 ## Summary
 
