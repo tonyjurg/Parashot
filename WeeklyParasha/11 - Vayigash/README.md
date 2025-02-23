@@ -37,3 +37,9 @@ NBviewer | Short description
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayigash" target="_blank">Hebcal entry for parasha Vayigash</a>.
+
+## AI generated image
+
+The following image was created by DALL.E based upon the initial prompt "A dramatic biblical scene depicting Joseph revealing his identity to his brothers. Joseph, dressed in Egyptian royal attire, stands with open arms, tears in his eyes, as his brothers react with shock, awe, and emotion. The setting is intimate, with only Joseph and his brothers present. The brothers wear traditional Hebrew-style robes, some kneeling, some standing in disbelief. Warm golden light filters through the scene, highlighting the deep emotions of the moment."
+
+<img src="images/DALL-E-vayigash.jpg">
