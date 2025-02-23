@@ -37,3 +37,9 @@ NBviewer | Short description
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayechi" target="_blank">Hebcal entry for parasha Vayechi</a>.
+
+## AI generated image
+
+The following image was created by DALL.E based upon the initial prompt "A biblical scene depicting Jacob blessing his grandsons, Ephraim and Manasseh, in his final moments. Jacob, an elderly man with a long white beard, sits on an ancient wooden bed, crossing his hands as he places his right hand on the head of the younger grandson, Ephraim, and his left hand on the older grandson, Manasseh. Both children are clearly visible and Jacob is looking toward Ephraim while blessing him. Joseph, dressed in traditional Egyptian attire with royal garments, stands behind them, reaching forward as if trying to correct Jacob’s hands, showing concern. The setting is a warm, intimate space with soft lighting, symbolizing the passing of wisdom and legacy. The expressions on the faces of Jacob, Joseph, and the children convey deep emotion and spiritual significance."
+
+<img src="images/DALL-E-vayechi.jpg">
