@@ -25,6 +25,7 @@ Parasha Miketz ("at the end") continues the story of Joseph in Egypt. It begins 
 Verse | Query | Description
 --- | --- | ---
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.41:8,38&options=HNVUG" target="_blank">Gen. 41:8&38</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.43:11&options=HNVUG" target="_blank">Gen. 43:11</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6982	&version=2021&page=1&mr=r&qw=q" target="_blank">Almond and almond blossem</a> | The various use of almond in symbolic and practical contexts
 
 ## Related Text-Fabric Notebooks
 
