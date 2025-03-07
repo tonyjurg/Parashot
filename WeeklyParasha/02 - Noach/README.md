@@ -23,6 +23,7 @@ Parasha Noach ("Noah") centers around the story of Noah and the Great Flood. God
 
 Verse | Query | Short description
 --- | --- | ---
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.6:16&options=HNVUG" target="_blank">Gen. 6:16</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6306&version=2021&page=1&mr=r&qw=q" target="_blank">Completion</a> | Verb כָּלָה - completing
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.6:11,13&options=HNVUG" target="_blank">Gen. 6:11&13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5616&version=2021&page=1&mr=r&qw=q" target="_blank">taking violence (חמס)</a> | Find clauses containing a verb where any subject is taking violence (חמס) as an object (Earth is taking Violence - Gen. 6:11&13).
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.7:11,13&options=HNVUG" target="_blank">Gen. 7:11&13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6558&version=2021&page=1&mr=r&qw=q" target="_blank">'on the same day'</a> | Where else is the phrase הַיֹּ֣ום הַזֶּ֑ה.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.6:17;7:15,22&options=HNVUG" target="_blank">Gen. 6:17&7:15,22</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
