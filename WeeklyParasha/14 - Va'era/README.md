@@ -13,11 +13,11 @@ Parasha Va'era ("I appeared") details God's reaffirmation of His covenant with t
 
 ## Parasha Data Sheet
 
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/hapax_legomena(Va'era).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/differences_MT_SP(Va'era).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/levenshtein_differences_MT_SP(Va'era).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/spelling_differences_SP_MT(Va'era).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/lexical_parallels(Va'era).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/hapax_legomena(Va’era).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/differences_MT_SP(Va’era).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/levenshtein_differences_MT_SP(Va’era).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/spelling_differences_SP_MT(Va’era).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/lexical_parallels(Va’era).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
 </li></ul>
 
 ## Related SHEBANQ queries
