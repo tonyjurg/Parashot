@@ -1,6 +1,6 @@
 
 <span style="float: right;"><sup> <a href="../54%20-%20Vezot%20Haberakhah">Previous parasha (#54): Vezot Haberakhah</a> &nbsp;&nbsp; <a href="../02%20-%20Noach">Next parasha (#2): Noach</a></sup></span>
-# Parasha #1: Bereshit (בְּרֵאשִׁית) <a name="start"></a> 
+# Parasha&nbsp;#1: Bereshit (בְּרֵאשִׁית) <a name="start"></a> 
 ## Reading passages
 
 Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Gen.1:1-6:8&options=HNVUG" target="_blank">Genesis 1:1-6:8</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/bereshit" target="_blank">(Hebrew: פָּרָשַׁת בְּרֵאשִׁית)</a><br>
