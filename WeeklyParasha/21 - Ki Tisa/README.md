@@ -25,6 +25,7 @@ Parasha Ki Tisa includes instructions for a census, the making of sacred items l
 
 Verse | Query | Short description
 --- | --- | --- 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.31:18;32:10,5;33:10,12;33:3,5;34:33&options=HNVUG" target="_blank">Ex. 31:18; 32:10,12; 33:3,5; 34:33</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6306&version=2021&page=1&mr=r&qw=q" target="_blank">Completion</a> | Verb כָּלָה - completing
 
 
 ## Related Text-Fabric Notebooks
