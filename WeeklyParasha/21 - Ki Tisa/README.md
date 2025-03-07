@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.34:35-34:35&options=HNVUG" target="_blank">Ex. 30:11-34:35</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/tetzaveh" target="_blank">(Hebrew: פָּרָשַׁת כִּי תִשָּׂא)</a><br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.34:35-34:35&options=HNVUG" target="_blank">Exodus 30:11-34:35</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/tetzaveh" target="_blank">(Hebrew: פָּרָשַׁת כִּי תִשָּׂא)</a><br>
 Haftarah: 
 <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.18:1-39&options=HNVUG" target="_blank">1 Kings 18:1-39</a>
 

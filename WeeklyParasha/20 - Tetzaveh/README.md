@@ -1,11 +1,11 @@
 <span style="float: right;"><sup><a href="../19%20-%20Terumah">Previous parasha (#19): Terumah</a> &nbsp;&nbsp;<a href="../21%20-%20Ki%20Tisa">Next parasha (#21): Ki Tisa</a></sup></span>
 
-# Parasha #20: Tetzaveh (תְּצַוֶּה)
+# Parasha&nbsp;#20: Tetzaveh (תְּצַוֶּה)
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.27:20-30:10&options=HNVUG" target="_blank">Ex. 27:20-30:10</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/tetzaveh" target="_blank">(Hebrew: פָּרָשַׁת תְּצַוֶּה)</a><br>
-Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ezek.43:10-27&options=HNVUG" target="_blank">Ezek. 43:10-27</a>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.27:20-30:10&options=HNVUG" target="_blank">Exodus 27:20-30:10</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/tetzaveh" target="_blank">(Hebrew: פָּרָשַׁת תְּצַוֶּה)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ezek.43:10-27&options=HNVUG" target="_blank">Ezekiel 43:10-27</a>
 
 ## Summary
 

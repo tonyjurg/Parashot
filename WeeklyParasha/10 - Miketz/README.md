@@ -1,6 +1,6 @@
 <span style="float: right;"><sup><a href="../09%20-%20Vayeshev">Previous parasha (#9): Vayeshev</a> &nbsp;&nbsp;<a href="../11%20-%20Vayigash">Next parasha (#11): Vayigash</a></sup></span>
 
-# Parasha #10: Miketz (מִקֵּץ) <a name="start"></a>
+# Parasha&nbsp;#10: Miketz (מִקֵּץ) <a name="start"></a>
 
 ## Reading passages
 

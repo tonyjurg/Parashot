@@ -1,6 +1,6 @@
 <span style="float: right;"><sup><a href="../13%20-%20Shemot">Previous parasha (#13): Shemot</a> &nbsp;&nbsp;<a href="../15%20-%20Bo">Next parasha (#15): Bo</a></sup></span>
 
-# Parasha #14: Va'era (וָאֵרָא‎) <a name="start"></a>
+# Parasha&nbsp;#14: Va'era (וָאֵרָא‎) <a name="start"></a>
 
 ## Reading passages
 
