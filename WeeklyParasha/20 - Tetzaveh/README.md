@@ -4,8 +4,8 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.27:20-30:10&options=HNVUG" target="_blank">Ex. 27:20-30:10</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/tetzaveh" target="_blank">(Hebrew: פָּרָשַׁת תְּצַוֶּה)</a><br>
-Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ezek.43:10-27&options=HNVUG" target="_blank">Ezek. 43:10-27</a>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.27:20-30:10&options=HNVUG" target="_blank">Exodus 27:20-30:10</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/tetzaveh" target="_blank">(Hebrew: פָּרָשַׁת תְּצַוֶּה)</a><br>
+Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ezek.43:10-27&options=HNVUG" target="_blank">Ezekiel 43:10-27</a>
 
 ## Summary
 
