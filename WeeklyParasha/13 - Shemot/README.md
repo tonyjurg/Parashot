@@ -33,6 +33,7 @@ Verse | Query | Short description
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.2:24&options=HNVUG" target="_blank">Ex. 2:24</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6290&version=2021&page=1&mr=r&qw=q" target="_blank">The groaning of the people</a> | God heard the groaning of the people in Egypt. Where else is groaning found?
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.3:16;4:1,5&options=HNVUG" target="_blank">Ex. 3:16;4:1,5 </a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.5:5&options=HNVUG" target="_blank">Ex. 5:5</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6346&page=1&mr=r&qw=q" target="_blank">causative verb shabatizing</a> | Causing to take a rest.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.5:13,14&options=HNVUG" target="_blank">Ex. 5:13,14</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6306&version=2021&page=1&mr=r&qw=q" target="_blank">Completion</a> | Verb כָּלָה - completing
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.6:1&options=HNVUG" target="_blank">Ex. 6:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6888&page=1&mr=r&qw=q" target="_blank">With a strong hand</a> | The strong hand of the LORD forces the Pharao to send out and to drive out.
 
 
