@@ -12,6 +12,16 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Judg.
 
 Parasha Beshalach ("when he let go") narrates the dramatic events following the Israelites' departure from Egypt, including the miraculous crossing of the Red Sea. The portion highlights the song of the sea (Shirat HaYam; Ex. 15:1-19) sung by Moses and the Israelites after their deliverance from Pharaoh's army. It also recounts the Israelites' initial challenges in the wilderness, such as the provision of manna and water from the rock, demonstrating God's ongoing provision and protection.
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/16%20-%20Beshalach/hapax_legomena(Beshalach).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/16%20-%20Beshalach/differences_MT_SP(Beshalach).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/16%20-%20Beshalach/levenshtein_differences_MT_SP(Beshalach).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/16%20-%20Beshalach/spelling_differences_SP_MT(Beshalach).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/16%20-%20Beshalach/lexical_parallels(Beshalach).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
@@ -24,6 +34,8 @@ Verse | Query | Short description
 GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/16%20-%20Beshalach/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
+[lexical_parallels](lexical_parallels.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/16%20-%20Beshalach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
+[delta_mt_and_sp](delta_mt_and_sp.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/16%20-%20Beshalach/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
 ## Hebcal
 
