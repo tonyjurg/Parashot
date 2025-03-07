@@ -1,6 +1,6 @@
 
 <span style="float: right;"><sup><a href="../04%20-%20Vayera">Previous parasha (#4): Vayera</a> &nbsp;&nbsp;<a href="../06%20-%20Toldot">Next parasha (#6): Toldot</a></sup></span>
-# Parasha #5: Chayei Sara (שָׂרָה‎ חַיֵּי) <a name="start"></a>
+# Parasha&nbsp;#5: Chayei Sara (שָׂרָה‎ חַיֵּי) <a name="start"></a>
 
 ## Reading passages
 
