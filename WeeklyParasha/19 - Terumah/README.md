@@ -1,6 +1,6 @@
 <span style="float: right;"><sup><a href="../17%20-%20Yitro">Previous parasha (#18): Yitro</a> &nbsp;&nbsp;<a href="../20%20-%20Tetzaveh">Next parasha (#20): Tetzaveh</a></sup></span>
 
-# Parasha #19: Terumah (תְּרוּמָה)
+# Parasha&nbsp;#19: Terumah (תְּרוּמָה)
 
 ## Reading passages
 
