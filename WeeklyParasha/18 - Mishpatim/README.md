@@ -4,7 +4,7 @@
 
 ## Reading passages
 
-Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.21:1-24:18&options=HNVUG" target="_blank">Ex. 21:1-24:18</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/mishpatim" target="_blank">(Hebrew: פָּרָשַׁת מִּשְׁפָּטִים)</a><br>
+Torah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ex.21:1-24:18&options=HNVUG" target="_blank">Exodus 21:1-24:18</a> &nbsp;&nbsp; <a href="https://tikkun.io/#/p/mishpatim" target="_blank">(Hebrew: פָּרָשַׁת מִּשְׁפָּטִים)</a><br>
 Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Jer.34:8-22;33:25-26&options=HNVUG" target="_blank">Jeremiah 34:8-22, 33:25-26</a>
 
 ## Summary
