@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Jer.4
 
 Parasha Bo ("Come"), named after a imperative verb meaning 'come' or 'go', details the last three plagues that God inflicted upon Egypt to compel Pharaoh to release the Israelites from bondage. This portion includes the institution of the Passover, with specific instructions for the Israelites on how to protect their households from the final plague, the death of the firstborn. Ultimately, Pharaoh capitulates, leading to the exodus of the Israelites from Egypt, marking a pivotal moment of liberation and divine intervention.
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/15%20-%20Bo/hapax_legomena(Bo).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/15%20-%20Bo/differences_MT_SP(Bo).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/15%20-%20Bo/levenshtein_differences_MT_SP(Bo).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/15%20-%20Bo/spelling_differences_SP_MT(Bo).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/15%20-%20Bo/lexical_parallels(Bo).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 ## Related SHEBANQ queries
 
 Verse | Query | Description
@@ -25,6 +34,8 @@ Verse | Query | Description
 GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
+[lexical_parallels](lexical_parallels.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
+[delta_mt_and_sp](delta_mt_and_sp.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
 ## Hebcal
 
