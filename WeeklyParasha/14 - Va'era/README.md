@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ez.28
 
 Parasha Va'era ("I appeared") details God's reaffirmation of His covenant with the Israelites and the beginning of the plagues in Egypt. God reveals Himself to Moses, promising to deliver the Israelites from slavery and demonstrate His power through a series of miraculous signs. The narrative progresses with the first seven plagues—blood, frogs, gnats, flies, livestock disease, boils, and hail—striking Egypt as Pharaoh's heart remains hardened against letting the Israelites go​​.
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/hapax_legomena(Va'era).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/differences_MT_SP(Va'era).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/levenshtein_differences_MT_SP(Va'era).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/spelling_differences_SP_MT(Va'era).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/14%20-%20Va'era/lexical_parallels(Va'era).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 ## Related SHEBANQ queries
 
 Verse | Query | Description
@@ -24,6 +33,8 @@ Verse | Query | Description
 GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
+[lexical_parallels](lexical_parallels.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
+[delta_mt_and_sp](delta_mt_and_sp.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
 ## Hebcal
 
