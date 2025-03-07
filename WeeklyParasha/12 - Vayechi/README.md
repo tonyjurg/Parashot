@@ -1,6 +1,6 @@
 <span style="float: right;"><sup><a href="../11%20-%20Vayigash">Previous parasha (#11): Vayigash</a> &nbsp;&nbsp;<a href="../13%20-%20Shemot">Next parasha (#13): Shemot</a></sup></span>
 
-# Parasha #12: Vayechi (וַיְחִי) <a name="start"></a>
+# Parasha&nbsp;#12: Vayechi (וַיְחִי) <a name="start"></a>
 
 ## Reading passages
 
