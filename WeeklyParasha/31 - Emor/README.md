@@ -10,7 +10,7 @@ Haftarah:
 
 ## Summary
 
-Parasha Emor provides detailed instructions regarding the holiness required of the priests, including restrictions on their conduct and physical blemishes that disqualify them from service. It also outlines the major festivals of the Lord, such as Passover, Shavuot, and Sukkot, emphasizing their observance and associated rituals. Additionally, the parasha addresses various laws about blasphemy, punishment, and the maintenance of the Mishna's sacred items​​.
+Parasha Emor provides detailed instructions regarding the holiness required of the priests, including restrictions on their conduct and physical blemishes that disqualify them from service. It also outlines the major festivals of the Lord, such as Passover, Shavuot, and Sukkot, emphasizing their observance and associated rituals. Additionally, the parasha addresses various laws about blasphemy, punishment, and the maintenance of the Mishkan's sacred items​​.
 
 ## Related SHEBANQ queries
 
