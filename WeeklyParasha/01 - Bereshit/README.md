@@ -15,7 +15,7 @@ Parasha Bereshit ("in the beginning") is the inaugural portion of the Torah and 
 <iframe src="term_frequency.html" height=300 width=500 style="border: none;" title="Parasha top terms"></iframe>
 <iframe src="phrase_functions.html" height=300 width=400 style="border: none;" title="Parasha phrase function distribution"></iframe>
 <iframe src="speech_vs_narrative_ratio.html" height=350 width=350 style="border: none;" title="Speech versus naration ratio"></iframe>
-<iframe src="verb_forms_distribution.html" height=300 width=500 style="border: none;" title="Verb form distrbution"></iframe>
+<iframe src="verb_forms_distribution.html" height=450 width=550 style="border: none;" title="Verb form distrbution"></iframe>
 
 ## Parasha Data Sheets
 
