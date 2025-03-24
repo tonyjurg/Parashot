@@ -18,7 +18,7 @@ Parasha Ki Tisa includes instructions for a census, the making of sacred items l
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/21%20-%20Ki%20Tisa/differences_MT_SP(Ki%2520Tisa).html" target="_blank">Differences between MT and SP for this parasha</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/21%20-%20Ki%20Tisa/levenshtein_differences_MT_SP(Ki%2520Tisa).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/21%20-%20Ki%20Tisa/spelling_differences_SP_MT(Ki%2520Tisa).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/13%20-%20Shemot/lexical_parallels(Ki%2520Tisa).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/21%20-%20Ki%20Tisa/lexical_parallels(Ki%2520Tisa).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
 </li></ul>
 
 ## Related SHEBANQ queries
