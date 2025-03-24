@@ -10,6 +10,13 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.4
 
 Parasha Bereshit ("in the beginning") is the inaugural portion of the Torah and serves as an introduction to the Biblical narrative. It recounts the majestic creation of the world in six days and culminates on the seventh day with God blessing and sanctifying the Sabbath. The portion further sets the stage for the subsequent narratives of the Torah by describing Adam and Eve's placement in the Garden of Eden and their subsequent expulsion due to disobedience. It also introduces the genealogy of the early generations, highlighting key figures like Adam, Eve, Cain, and Abel.
 
+## Parasha statistics
+
+<iframe src="term_frequency.html" title="Parasha top terms"></iframe>
+<iframe src="phrase_functions.html" title="Parasha phrase function distribution"></iframe>
+<iframe src="speech_vs_narrative_ratio.html" title="Speech versus naration ratio"></iframe>
+<iframe src="verb_forms_distribution.html" title="Verb form distrbution"></iframe>
+
 ## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/01%20-%20Bereshit/hapax_legomena(Bereshit).html" target="_blank">Overview unique words in this parasha</a>
