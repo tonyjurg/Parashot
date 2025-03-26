@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Jer.4
 
 Parasha Bo ("Come"), named after a imperative verb meaning 'come' or 'go', details the last three plagues that God inflicted upon Egypt to compel Pharaoh to release the Israelites from bondage. This portion includes the institution of the Passover, with specific instructions for the Israelites on how to protect their households from the final plague, the death of the firstborn. Ultimately, Pharaoh capitulates, leading to the exodus of the Israelites from Egypt, marking a pivotal moment of liberation and divine intervention.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheet
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/15%20-%20Bo/hapax_legomena(Bo).html" target="_blank">Overview unique words in this parasha</a>
@@ -34,8 +43,11 @@ Verse | Query | Description
 GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
-[lexical_parallels](lexical_parallels.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
-[delta_mt_and_sp](delta_mt_and_sp.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
+
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/15%20-%20Bo/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/15%20-%20Bo/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/15%20-%20Bo/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/15%20-%20Bo/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 

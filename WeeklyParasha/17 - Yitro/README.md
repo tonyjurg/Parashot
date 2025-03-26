@@ -11,6 +11,15 @@ Haftarah : <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.6
 
 Parasha Yitro ("Jethro") describes the arrival of Yitro, Moses' father-in-law, who advises Moses to delegate judicial responsibilities to capable leaders to ease his burden. The portion culminates in the Israelites' encounter with God at Mount Sinai, where they receive the Ten Commandments, establishing the foundational laws for their covenant with God. This significant event emphasizes the importance of leadership, community, and divine law in the life of Israel.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheet
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/17%20-%20Yitro/hapax_legomena(Yitro).html" target="_blank">Overview unique words in this parasha</a>
@@ -31,9 +40,11 @@ Verse | Query | Description
 GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/17%20-%20Yitro/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
-[lexical_parallels](lexical_parallels.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/17%20-%20Yitro/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
-[delta_mt_and_sp](delta_mt_and_sp.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/17%20-%20Yitro/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
 
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/17%20-%20Yitro/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/17%20-%20Yitro/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/17%20-%20Yitro/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/17%20-%20Yitro/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/17%20-%20Yitro/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/17%20-%20Yitro/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/17%20-%20Yitro/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/17%20-%20Yitro/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 

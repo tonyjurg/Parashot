@@ -9,7 +9,16 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Ez.28
 
 ## Summary
 
-Parasha Va'era ("I appeared") details God's reaffirmation of His covenant with the Israelites and the beginning of the plagues in Egypt. God reveals Himself to Moses, promising to deliver the Israelites from slavery and demonstrate His power through a series of miraculous signs. The narrative progresses with the first seven plagues—blood, frogs, gnats, flies, livestock disease, boils, and hail—striking Egypt as Pharaoh's heart remains hardened against letting the Israelites go​​.
+Parasha Va'era ("I appeared") details God's reaffirmation of His covenant with the Israelites and the beginning of the plagues in Egypt. God reveals Himself to Moses, promising to deliver the Israelites from slavery and demonstrate His power through a series of miraculous signs. The narrative progresses with the first seven plagues—blood, frogs, gnats, flies, livestock disease, boils, and hail—striking Egypt as Pharaoh's heart remains hardened against letting the Israelites go.
+
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
 
 ## Parasha Data Sheet
 
@@ -32,9 +41,10 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
-[lexical_parallels](lexical_parallels.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
-[delta_mt_and_sp](delta_mt_and_sp.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/14%20-%20Va'era/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/14%20-%20Va'era/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/14%20-%20Va'era/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/14%20-%20Va'era/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/14%20-%20Va'era/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 

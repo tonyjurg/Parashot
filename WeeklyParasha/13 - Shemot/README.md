@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Is.27
 
 In parasha Shemot ("names"), the children of Israel multiply in Egypt, leading Pharaoh to enslave them and order the killing of male babies. Moses is born and, after being placed in a basket on the river, is found by Pharaoh's daughter and raised as her son. As a young man, Moses kills an Egyptian and flees to Midian, where he marries and becomes a shepherd. God appears to Moses at Mount Sinai, instructing him to demand Pharaoh to let the Israelites go. Moses, accompanied by his brother Aaron, faces Pharaoh, but he refuses. Despite hardships, God assures Moses that redemption is imminent.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheet
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/13%20-%20Shemot/hapax_legomena(Shemot).html" target="_blank">Overview unique words in this parasha</a>
@@ -42,8 +51,11 @@ Verse | Query | Short description
 GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/13%20-%20Shemot/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
-[lexical_parallels](lexical_parallels.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/13%20-%20Shemot/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
-[delta_mt_and_sp](delta_mt_and_sp.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/13%20-%20Shemot/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
+
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/13%20-%20Shemot/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/13%20-%20Shemot/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/13%20-%20Shemot/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/13%20-%20Shemot/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/13%20-%20Shemot/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/13%20-%20Shemot/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/13%20-%20Shemot/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/13%20-%20Shemot/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 
