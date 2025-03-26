@@ -11,17 +11,26 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.
 
 Parasha Pekudei provides an account of the materials used for the construction of the Tabernacle and its furnishings, emphasizing the meticulous recording and completion of the work. Moses inspects the finished Tabernacle, and after confirming that everything was done according to God's instructions, he blesses the people. The portion concludes with God's glory filling the completed Tabernacle, signifying His divine presence among the Israelites as they journey through the wilderness.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
 --- | --- | --- 
 
-
 ## Related Text-Fabric Notebooks
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/23%20-%20Pekudei/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/23%20-%20Pekudei/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/23%20-%20Pekudei/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/23%20-%20Pekudei/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/23%20-%20Pekudei/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 

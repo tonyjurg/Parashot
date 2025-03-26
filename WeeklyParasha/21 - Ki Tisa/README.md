@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Ki Tisa includes instructions for a census, the making of sacred items like the bronze laver, and the formula for anointing oil and incense for the Tabernacle. The narrative also describes the sin of the Golden Calf, where the Israelites, in Moses' absence, build an idol, leading to God's anger and Moses' intercession on their behalf. The portion concludes with Moses receiving a second set of tablets, renewed covenant terms, and his radiant face reflecting the glory of God after encountering Him on Mount Sinai.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheet
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/21%20-%20Ki%20Tisa/hapax_legomena(Ki%2520Tisa).html" target="_blank">Overview unique words in this parasha</a>
@@ -32,10 +41,10 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/21%20-%20Ki%20Tisa/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
-[lexical_parallels](lexical_parallels.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/21%20-%20Ki%20Tisa/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
-[delta_mt_and_sp](delta_mt_and_sp.ipynb) |<a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/21%20-%20Ki%20Tisa/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
-
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/21%20-%20Ki%20Tisa/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/21%20-%20Ki%20Tisa/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/21%20-%20Ki%20Tisa/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/21%20-%20Ki%20Tisa/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/21%20-%20Ki%20Tisa/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/21%20-%20Ki%20Tisa/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/21%20-%20Ki%20Tisa/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/21%20-%20Ki%20Tisa/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 
