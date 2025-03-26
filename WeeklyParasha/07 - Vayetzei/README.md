@@ -9,7 +9,7 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Hos.1
 
 ## Summary
 
-Parashat Vayetzei ("He Went Out") recounts the journey of Jacob as he flees from Esau's wrath and travels to Haran, where he encounters God in a dream at Bethel. Here, God reiterates the Abrahamic promises of land and descendants. Jacob then serves Laban for fourteen years to marry his daughters Leah and Rachel, amidst family deceptions and his growing prosperity through livestock, which sets the stage for his eventual return to Canaan.
+Parasha Vayetzei ("He Went Out") recounts the journey of Jacob as he flees from Esau's wrath and travels to Haran, where he encounters God in a dream at Bethel. Here, God reiterates the Abrahamic promises of land and descendants. Jacob then serves Laban for fourteen years to marry his daughters Leah and Rachel, amidst family deceptions and his growing prosperity through livestock, which sets the stage for his eventual return to Canaan.
 
 ## Parasha statistics
 
