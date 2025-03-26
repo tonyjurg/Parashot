@@ -9,7 +9,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Obad&
 
 ## Summary
 
-In Parashat Vayishlach ("he sent") Jacob prepares to meet his brother Esau after years apart, filled with anxiety and uncertainty about Esau's intentions. As a strategic precaution, Jacob divides his family and possessions into two camps to minimize potential losses in case of an attack. During the night, Jacob wrestles with a mysterious angelic figure until dawn, earning the name Israel, which signifies his struggles with both divine and human beings and prevailing. The reunion with Esau is unexpectedly peaceful and marked by brotherly affection, contrasting sharply with the subsequent violent episode in Shechem. Jacob’s daughter, Dinah, is dishonored by Shechem, the son of Hamor the Hivite. In response, her brothers Simeon and Levi take bloody vengeance against the city of Shechem, killing all the males and taking the women and children captive. The portion also recounts the death of Rachel during the birth of her second son, Benjamin, and her burial on the way to Ephrath, which is Bethlehem. The parasha concludes with the death of Isaac, who is buried by his sons Jacob and Esau, and a genealogical account of Esau’s descendants.
+In parasha Vayishlach ("he sent") Jacob prepares to meet his brother Esau after years apart, filled with anxiety and uncertainty about Esau's intentions. As a strategic precaution, Jacob divides his family and possessions into two camps to minimize potential losses in case of an attack. During the night, Jacob wrestles with a mysterious angelic figure until dawn, earning the name Israel, which signifies his struggles with both divine and human beings and prevailing. The reunion with Esau is unexpectedly peaceful and marked by brotherly affection, contrasting sharply with the subsequent violent episode in Shechem. Jacob’s daughter, Dinah, is dishonored by Shechem, the son of Hamor the Hivite. In response, her brothers Simeon and Levi take bloody vengeance against the city of Shechem, killing all the males and taking the women and children captive. The portion also recounts the death of Rachel during the birth of her second son, Benjamin, and her burial on the way to Ephrath, which is Bethlehem. The parasha concludes with the death of Isaac, who is buried by his sons Jacob and Esau, and a genealogical account of Esau’s descendants.
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
 
 ## Parasha Data Sheets
 
@@ -37,6 +45,8 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*) in this parasha.
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | Find lexical parallels between verses.
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/08%20-%20Vayishlach/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/08%20-%20Vayishlach/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
+
 
 ## Hebcal
 

@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs.
 
 Parasha Vayechi ("and he lived") is the final portion of the Book of Genesis. It recounts the closing moments of Jacob's life as he blesses his sons and imparts his final wishes and prophecies upon them, including the notable blessings to Joseph's two sons, Ephraim and Manasseh. Jacob requests to be buried in the Cave of Machpelah alongside his ancestors, emphasizing the importance of the family burial place an the land. The parasha also describes Jacob's death and the elaborate mourning and burial processions. Additionally, it addresses the reconciliation between Joseph and his brothers after their father's death, reassuring them of his forgiveness. This parasha marks the end of the patriarchal era, setting the stage for the Israelites' journey into Egypt and the subsequent events of the Exodus.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheet
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/12%20-%20Vayechi/hapax_legomena(Vayechi).html" target="_blank">Overview unique words in this parasha</a>
@@ -34,6 +43,13 @@ GitHub | NBviewer | Short description
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
 [lexical_parallels.ipynb](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 [delta_mt_and_sp.ipynb](delta_mt_and_sp.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
+
+GitHub | NBviewer | Short description
+---|---|---
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/12%20-%20Vayechi/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/12%20-%20Vayechi/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/12%20-%20Vayechi/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/12%20-%20Vayechi/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 
