@@ -10,6 +10,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=2Kgs.
 
 Parasha Vayera ("And He appeared") continues the history of Abraham, focusing on his encounters with divine messengers and the impending birth of his son Isaac. The portion also includes the dramatic story of the destruction of Sodom and Gomorrah, highlighting themes of hospitality, divine intervention, and the fulfillment of God's promises to Abraham and Sarah. Additionally, it recounts the near-sacrifice of Isaac, emphasizing Abraham's unwavering faith and God's provision, which becomes a pivotal moment in the unfolding of the covenant.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/04%20-%20Vayera/hapax_legomena(Vayera).html" target="_blank">Overview unique words in this parasha</a>
@@ -37,6 +46,7 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/04%20-%20Vayera/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/04%20-%20Vayera/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*).
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/04%20-%20Vayera/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/04%20-%20Vayera/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/04%20-%20Vayera/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/04%20-%20Vayera/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/04%20-%20Vayera/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/04%20-%20Vayera/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 

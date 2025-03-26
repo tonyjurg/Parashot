@@ -12,6 +12,15 @@ Haftarah:  <a href="https://www.stepbible.org/?q=version=NASB2020|reference=1Kgs
 
 Parasha Chayei-Sara ("the life of Sara") begins with the death of Sara at the age of 127 and Abraham’s negotiation to purchase the Cave of Machpelah in Hebron as a burial site for her. It also details Abraham's efforts to find a suitable wife for his son Isaac, reflecting his commitment to preserving the covenantal line. Abraham sends his trusted servant, traditionally identified as Eliezer, on this mission, and through a series of divinely guided events, Rebekah is chosen as Isaac’s wife.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/05%20-%20Chayei%20Sara/hapax_legomena(Chayei_Sarah).html" target="_blank">Overview unique words in this parasha</a>
@@ -36,9 +45,10 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sara/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
-[Lexical parallels](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sara/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
-[Delta SP and MT](delta_mt_and_sp.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sara/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/05%20-%20Chayei%20Sara/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sara/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/05%20-%20Chayei%20Sara/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sara/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/05%20-%20Chayei%20Sara/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sara/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/05%20-%20Chayei%20Sara/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/05%20-%20Chayei%20Sara/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 
