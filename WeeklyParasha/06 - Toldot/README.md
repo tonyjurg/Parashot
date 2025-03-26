@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Mal.1
 
 Parasha Toldot ("generations" or "descendants") details the birth and early lives of Isaac and Rebekah's twin sons, Esau and Jacob. The parasha highlights the stark differences between the brothers, with Esau being a skilled hunter and Jacob a quiet man dwelling in tents. It recounts how Jacob, taking advantage of Esau's hunger, persuades Esau to sell him his birthright for a bowl of lentil stew. The story also includes the deception orchestrated by Rebekah and Jacob to secure Isaac’s blessing intended for Esau, resulting in Jacob fleeing to Haran to escape Esau's wrath and find a wife from his mother's family.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/06%20-%20Toldot/hapax_legomena(Toldot).html" target="_blank">Overview unique words in this parasha</a>
@@ -36,6 +45,7 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*) in this parasha.
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/06%20-%20Toldot/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/06%20-%20Toldot/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 

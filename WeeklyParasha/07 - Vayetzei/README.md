@@ -11,6 +11,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Hos.1
 
 Parashat Vayetzei ("He Went Out") recounts the journey of Jacob as he flees from Esau's wrath and travels to Haran, where he encounters God in a dream at Bethel. Here, God reiterates the Abrahamic promises of land and descendants. Jacob then serves Laban for fourteen years to marry his daughters Leah and Rachel, amidst family deceptions and his growing prosperity through livestock, which sets the stage for his eventual return to Canaan.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/07%20-%20Vayetzei/hapax_legomena(Vayetzei).html" target="_blank">Overview unique words in this parasha</a>
@@ -35,6 +44,7 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*) in this parasha.
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/07%20-%20Vayetzei/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/07%20-%20Vayetzei/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 
