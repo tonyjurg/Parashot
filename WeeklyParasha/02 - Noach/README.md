@@ -10,6 +10,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.5
 
 Parasha Noach ("Noah") centers around the story of Noah and the Great Flood. God instructs Noah to build an ark to save himself, his family, and two of every animal species from the impending deluge. The floodwaters engulf the world, but eventually recede, and Noah and his descendants repopulate the earth, emphasizing themes of divine judgment, obedience, and renewal in this portion of the Torah. The parasha also includes the story of the Tower of Babel, highlighting the dangers of pride and disobedience to God's will.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/02%20-%20Noach/hapax_legomena(Noach).html" target="_blank">Overview unique words in this parasha</a>

@@ -11,12 +11,12 @@ Parasha Bereshit ("in the beginning") is the inaugural portion of the Torah and 
 
 ## Parasha statistics
 
-<a href="../../General/metrics_distribution.html" target="_blank">Statistics for this parasha compared with the full Torah</a>
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
 
-<iframe src="term_frequency.html" height=300 width=500 style="border: none;" title="Parasha top terms"></iframe>
-<iframe src="phrase_functions.html" height=300 width=400 style="border: none;" title="Parasha phrase function distribution"></iframe>
-<iframe src="speech_vs_narrative_ratio.html" height=250 width=350 style="border: none;" title="Speech versus naration ratio"></iframe>
-<iframe src="verb_forms_distribution.html" height=360 width=505 style="border: none;" title="Verb form distrbution"></iframe>
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
 
 ## Parasha Data Sheets
 
