@@ -10,6 +10,15 @@ Haftarah: <a href="https://www.stepbible.org/?q=version=NASB2020|reference=Isa.4
 
 Parasha Lekh Lekha ("Go for yourself") marks the beginning of Abraham's journey as the first patriarch of Judaism. God commands Abraham to leave his homeland and travel to the land of Canaan, where he is promised descendants as numerous as the stars. Along the way, Abraham faces various trials, including the covenant of circumcision and his interactions with Pharaoh and King Abimelech. The parasha also introduces the divine promise of land and blessing, establishing the foundation of the Abrahamic covenant that will shape the future of the Israelite nation.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Parasha Data Sheets
 
 <ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/03%20-%20Lech%20Lecha/hapax_legomena(Lech_Lecha).html" target="_blank">Overview unique words in this parasha</a>
@@ -35,6 +44,7 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*) in this parasha.
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
 <a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/03%20-%20Lech%20Lecha/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/03%20-%20Lech%20Lecha/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 
