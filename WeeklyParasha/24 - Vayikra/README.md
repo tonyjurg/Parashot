@@ -36,3 +36,9 @@ GitHub | NBviewer | Short description
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/vayikra" target="_blank">Hebcal entry for parasha Vayikra</a>.
+
+## AI generated image
+
+The following image was created by Sora as illustration for this parasha using the prompt 'generate an image related to parasha vayikra.'
+
+<img src="images/soraParashaVayikraScene.jpg">
