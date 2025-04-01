@@ -65,4 +65,4 @@ Additional details about Jewish calendar and holiday information, offering users
 
 <img src="moses_calling_DALL-E.jpg">
 
-Image created by DALL-E: The calling of Moses at the mountain of the LORD.
+Image created by DALL-E: The calling of Moses at the mountain of the LORD. The auto generated promt was: "A powerful biblical scene from the Torah portion Shemot, showing Moses standing barefoot before the burning bush on Mount Horeb. The bush is engulfed in bright, golden flames but is not being consumed. Moses, dressed in ancient desert robes and holding a shepherd’s staff, stands in awe on sacred ground, surrounded by a glowing desert landscape with rocky hills and warm sunlight. The moment is filled with divine mystery and spiritual intensity, capturing the moment when God calls out to Moses from within the fire."
