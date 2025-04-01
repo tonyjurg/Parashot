@@ -16,6 +16,7 @@ Parasha Emor provides detailed instructions regarding the holiness required of t
 
 Verse | Query | Short description
 --- | --- | --- 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Lev.24:2&options=HNVUG" target="_blank">Lev. 24:2</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7049&version=2021&page=1&mr=r&qw=q" target="_blank">Continues going up</a> | The light goes up continues. What else?
 
 
 ## Related Text-Fabric Notebooks
