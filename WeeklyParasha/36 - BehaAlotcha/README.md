@@ -17,6 +17,7 @@ Parasha Beha'alotcha ("when you raise") begins with instructions for Aaron to li
 Verse | Query | Short description
 --- | --- | --- 
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.8:4&options=HNVUG" target="_blank">Num. 8:4</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6875	&version=2021&page=1&mr=r&qw=q" target="_blank">God caused to see</a> | God as subject with verb רָאָה with hifil stem (expressing causative actions)
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.8:19&options=HNVUG" target="_blank">Num. 8:19</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7045	&version=2021&page=1&mr=r&qw=q" target="_blank">'כפר' for the children of Israel</a> | Making atonement for the children of Israel (Hermen van der Linden)
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.11:25,26,31&options=HNVUG" target="_blank">Num. 11:25,26,31</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
 
 ## Related Text-Fabric Notebooks
