@@ -17,6 +17,7 @@ Parasha Achrei Mot begins with instructions for Yom Kippur (the Day of Atonement
 
 Verse | Query | Short description
 --- | --- | --- 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Lev.16:16,34&options=HNVUG" target="_blank">Lev. 16:16,34</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7045	&version=2021&page=1&mr=r&qw=q" target="_blank">'כפר' for the children of Israel</a> | Making atonement for the (holy place and the) children of Israel (Hermen van der Linden)
 
 
 ## Related Text-Fabric Notebooks
