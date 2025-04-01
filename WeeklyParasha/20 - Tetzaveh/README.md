@@ -30,7 +30,7 @@ Parasha Tetzaveh continues the instructions for the Mishkan, focusing on the gar
 
 Verse | Query | Short description
 --- | --- | --- 
-
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.27:20&options=HNVUG" target="_blank">Ex. 27:20</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7049&version=2021&page=1&mr=r&qw=q" target="_blank">Continues going up</a> | The light goes up continues. What else?
 
 ## Related Text-Fabric Notebooks
 
