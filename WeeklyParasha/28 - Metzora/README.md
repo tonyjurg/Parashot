@@ -21,6 +21,16 @@ Parasha Metzora details the purification process for those afflicted with tzara'
 <img src="verbform_distribution.png">
 <img src="phrase_function_distribution.png">
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/28%20-%20Metzora/hapax_legomena(Metzora).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/28%20-%20Metzora/differences_MT_SP(Metzora).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/28%20-%20Metzora/levenshtein_differences_MT_SP(Metzora).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/28%20-%20Metzora/spelling_differences_SP_MT(Metzora).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/28%20-%20Metzora/lexical_parallels(Metzora).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
@@ -32,7 +42,10 @@ Verse | Query | Short description
 GitHub | NBviewer | Short description
 ---|---|---
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/28%20-%20Metzora/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/28%20-%20Metzora/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/28%20-%20Metzora/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/28%20-%20Metzora/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/28%20-%20Metzora/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/28%20-%20Metzora/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/28%20-%20Metzora/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/28%20-%20Metzora/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
+
 
 ## Hebcal
 

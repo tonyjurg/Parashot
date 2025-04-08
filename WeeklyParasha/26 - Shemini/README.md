@@ -21,6 +21,14 @@ Parasha Shemini ('eighth') describes the inauguration of the Tabernacle and the 
 <img src="verbform_distribution.png">
 <img src="phrase_function_distribution.png">
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/26%20-%20Shemini/hapax_legomena(Shemini).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/26%20-%20Shemini/differences_MT_SP(Shemini).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/26%20-%20Shemini/levenshtein_differences_MT_SP(Shemini).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/26%20-%20Shemini/spelling_differences_SP_MT(Shemini).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/26%20-%20Shemini/lexical_parallels(Shemini).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
 
 ## Related SHEBANQ queries
 
@@ -34,6 +42,8 @@ Verse | Query | Short description
 GitHub | NBviewer | Short description
 ---|---|---
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/26%20-%20Shemini/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/26%20-%20Shemini/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/26%20-%20Shemini/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/26%20-%20Shemini/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/26%20-%20Shemini/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/26%20-%20Shemini/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/26%20-%20Shemini/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/26%20-%20Shemini/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
