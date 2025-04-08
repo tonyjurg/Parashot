@@ -24,11 +24,11 @@ Parasha Achrei Mot begins with instructions for Yom Kippur (the Day of Atonement
 
 ## Parasha Data Sheet
 
-<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/29%20-%20Achrei%20Mot/hapax_legomena(Achrei%20Mot).html" target="_blank">Overview unique words in this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/29%20-%20Achrei%20Mot/differences_MT_SP(Achrei%20Mot).html" target="_blank">Differences between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/29%20-%20Achrei%20Mot/levenshtein_differences_MT_SP(Achrei%20Mot).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/29%20-%20Achrei%20Mot/spelling_differences_SP_MT(Achrei%20Mot).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
-</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/29%20-%20Achrei%20Mot/lexical_parallels(Achrei%20Mot).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/29%20-%20Achrei%20Mot/hapax_legomena(Achrei_Mot).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/29%20-%20Achrei%20Mot/differences_MT_SP(Achrei_Mot).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/29%20-%20Achrei%20Mot/levenshtein_differences_MT_SP(Achrei_Mot).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/29%20-%20Achrei%20Mot/spelling_differences_SP_MT(Achrei_Mot).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/29%20-%20Achrei%20Mot/lexical_parallels(Achrei_Mot).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
 </li></ul>
 
 ## Related SHEBANQ queries
