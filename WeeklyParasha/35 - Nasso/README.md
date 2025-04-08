@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Naso ("take a census") is the longest portion in the Torah and continues detailing the organization of the Israelite camp, focusing on the duties and responsibilities of the Levites in the service of the Tabernacle. It begins with the census of the Levite families of Gershon, Kohath, and Merari, each assigned specific tasks related to transporting and caring for the sacred objects and the Tabernacle structure itself. The portion then outlines the laws surrounding the Nazirite vow, a voluntary commitment to holiness through abstinence and dedication to God. It describes the unique offerings and rituals associated with the Nazirite, emphasizing personal sanctity within the community. Naso also includes the Priestly Blessing, a well-known and cherished blessing invoking divine protection, grace, and peace upon the Israelites. Throughout, the parasha underscores the significance of holiness, purity, and dedication, reflecting the Israelites' collective and individual responsibility in maintaining a sacred community as they journey through the wilderness.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
@@ -22,7 +31,8 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/35%20-%20Nasso/hapax.ipynb)| find unique words (*hapax legomena*)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/35%20-%20Nasso/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/35%20-%20Nasso/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/35%20-%20Nasso/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/35%20-%20Nasso/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 
