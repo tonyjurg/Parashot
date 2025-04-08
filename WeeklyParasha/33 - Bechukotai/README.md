@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Bechukotai ("in my laws") is the final portion in the Book of Leviticus. It sets forth the blessings that follow obedience and the curses that result from disobedience to God's commandments. It vividly describes the rewards for faithfully following God's laws, promising prosperity, security, peace, and an abundant harvest. However, it also contrasts these blessings with a sobering account of the consequences for abandoning God's ways, warning of famine, disease, defeat by enemies, and eventual exile from the land. Bechukotai emphasizes the covenantal relationship between God and the Israelites, showing both the rewards of loyalty and the gravity of straying. The portion concludes with detailed laws concerning vows, dedications, and valuations made to the Lord, underscoring the significance of commitment and integrity in serving Him.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
@@ -23,7 +32,8 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/33%20-%20Bechukotai/hapax.ipynb)| find unique words (*hapax legomena*)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/33%20-%20Bechukotai/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/33%20-%20Bechukotai/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/33%20-%20Bechukotai/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/33%20-%20Bechukotai/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 

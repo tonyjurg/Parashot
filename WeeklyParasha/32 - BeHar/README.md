@@ -12,6 +12,15 @@ Haftarah:
 
 Parashat BeHar outlines the laws concerning the Sabbatical ([שׁמטה](https://shebanq.ancient-data.org/hebrew/word?id=1CMVHn&mr=r&qw=w)) and Jubilee ([יובל](https://shebanq.ancient-data.org/hebrew/word?id=1JWBLn&mr=r&qw=w)) years, emphasizing the divine mandate for periodic rest and renewal, both for the people and the land. It commands that every seventh year, the land must be left fallow, allowing it to rest and rejuvenate, a practice designed to encourage both ecological balance and faith in God’s provision. Every fiftieth year is designated as the Jubilee, a time when properties are to be returned to their original families, slaves are to be set free, and debts are forgiven, symbolizing a profound economic reset and an act of social justice aimed at restoring equality. By instituting these cycles, BeHar underscores principles of faith, reliance on God, communal responsibility, and compassion for those less fortunate, reminding the Israelites of their dependence on divine providence and the importance of humility and generosity within their society.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
@@ -26,7 +35,8 @@ Lev. 25/27 | [What is sold?](https://shebanq.ancient-data.org/hebrew/text?iid=66
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/32%20-%20BeHar/hapax.ipynb)| find unique words (*hapax legomena*)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/32%20-%20BeHar/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/32%20-%20BeHar/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/32%20-%20BeHar/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/32%20-%20BeHar/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 

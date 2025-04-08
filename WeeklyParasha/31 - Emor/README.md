@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Emor provides detailed instructions regarding the holiness required of the priests, including restrictions on their conduct and physical blemishes that disqualify them from service. It also outlines the major festivals of the Lord, such as Passover, Shavuot, and Sukkot, emphasizing their observance and associated rituals. Additionally, the parasha addresses various laws about blasphemy, punishment, and the maintenance of the Mishkan's sacred items​​.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
@@ -23,7 +32,8 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/31%20-%20Emor/hapax.ipynb)| find unique words (*hapax legomena*)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/31%20-%20Emor/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/31%20-%20Emor/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/31%20-%20Emor/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/31%20-%20Emor/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 

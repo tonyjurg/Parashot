@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Tazria discusses the laws of ritual purity related to childbirth and skin diseases. It outlines the purification process for women after giving birth and provides detailed descriptions for diagnosing and handling tzara'at (a skin disease). The portion emphasizes the importance of maintaining purity and following God's instructions to ensure the community's holiness​​.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
@@ -23,7 +32,8 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | [hapax](https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/27%20-%20Tazria/hapax.ipynb)| find unique words (*hapax legomena*)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/27%20-%20Tazria/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/27%20-%20Tazria/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/27%20-%20Tazria/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/27%20-%20Tazria/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 
