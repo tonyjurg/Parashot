@@ -20,6 +20,15 @@ Parasha Pekudei provides an account of the materials used for the construction o
 <img src="verbform_distribution.png">
 <img src="phrase_function_distribution.png">
 
+## Parasha Data Sheet
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/23%20-%20Pekudei/hapax_legomena(Pekudei).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/23%20-%20Pekudei/differences_MT_SP(Pekudei).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/23%20-%20Pekudei/levenshtein_differences_MT_SP(Pekudei).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/23%20-%20Pekudei/spelling_differences_SP_MT(Pekudei).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/23%20-%20Pekudei/lexical_parallels(Pekudei).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
