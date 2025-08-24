@@ -12,6 +12,25 @@ Haftarah:
 
 Parasha Shoftim ("Judges") focuses on establishing a fair and just society by setting guidelines for appointing judges and leaders, ensuring justice and righteousness in governance. It introduces laws regarding kings, priests, and prophets, emphasizing the need for integrity, humility, and adherence to God's law among leaders. The portion also outlines rules for warfare and provides instructions on handling unsolved murders to maintain communal responsibility and holiness. Additionally, it highlights the importance of witnesses and the fair treatment of accused individuals, reinforcing the pursuit of truth and justice.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
+## Parasha Data Sheets
+
+<ul><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/48%20-%20Shoftim/hapax_legomena(Shoftim).html" target="_blank">Overview unique words in this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/48%20-%20Shoftim/differences_MT_SP(Shoftim).html" target="_blank">Differences between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/48%20-%20Shoftim/levenshtein_differences_MT_SP(Shoftim).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/48%20-%20Shoftim/spelling_differences_SP_MT(Shoftim).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/48%20-%20Shoftim/lexical_parallels(Shoftim).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li></ul>
+
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
