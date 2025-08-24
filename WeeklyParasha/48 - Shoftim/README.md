@@ -28,6 +28,7 @@ Parasha Shoftim ("Judges") focuses on establishing a fair and just society by se
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/48%20-%20Shoftim/levenshtein_differences_MT_SP(Shoftim).html" target="_blank">Differences between MT and SP for this parasha (Lenenshtein distance)</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/48%20-%20Shoftim/spelling_differences_SP_MT(Shoftim).html" target="_blank">Spelling differences in names between MT and SP for this parasha</a>
 </li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/48%20-%20Shoftim/lexical_parallels(Shoftim).html" target="_blank">Lexical paralels between this parasha and the Tenach</a>
+</li><li><a href="https://tonyjurg.github.io/Parashot/WeeklyParasha/48%20-%20Shoftim/double_roots(Shoftim).html" target="_blank">Repetition of word forms from the same lexical root</a>
 </li></ul>
 
 
