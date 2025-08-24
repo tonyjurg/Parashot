@@ -42,6 +42,10 @@ Verse | Query | Short description
 GitHub | NBviewer | Short description
 ---|---|---
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/48%20-%20Shoftim/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
+<a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/48%20-%20Shoftim/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/48%20-%20Shoftim/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | Find lexical parallels between verses
+<a href="https://github.com/tonyjurg/Parashot/blob/main/WeeklyParasha/48%20-%20Shoftim/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/48%20-%20Shoftim/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/48%20-%20Shoftim/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/48%20-%20Shoftim/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/48%20-%20Shoftim/double_roots.ipynb" target="_blank">Double roots</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/48%20-%20Shoftim/double_roots.ipynb" target="_blank">Double roots</a>| Identify occurences of consequence double roots in parasha and haftara.
 
 ## Hebcal
 
