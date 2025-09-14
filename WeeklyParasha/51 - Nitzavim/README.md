@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Nitzavim ("ones standing") is a declaration where Moses calls all of Israel to stand together and reaffirm their covenant with God before entering the Promised Land. He emphasizes that the covenant includes everyone, from leaders to the lowliest members, and is binding for future generations as well. Moses also reminds them of the choice between life and death, urging the people to choose life by loving and obeying God to secure their future blessings in the land.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

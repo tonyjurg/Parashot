@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Vayeilech (“And he went”) describes Moses' final actions as he prepares for his death. He passes leadership to Joshua, encouraging him and the Israelites to be strong and courageous as they enter the Promised Land. God tells Moses to write down the Torah and a prophetic song (Ha'azinu), ensuring it will be a witness against Israel when they inevitably turn away, but also promising His enduring presence.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

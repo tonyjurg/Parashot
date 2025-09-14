@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Re'eh ("See") presents a choice between blessings and curses based on Israel's obedience to God's commandments, urging the people to follow His ways to receive blessings in the Promised Land. It includes laws concerning centralized worship, dietary restrictions, the treatment of false prophets, and the importance of caring for the poor. The portion also addresses the observance of festivals such as Passover, Shavuot, and Sukkot, reinforcing Israel's covenantal relationship with God. Additionally, Re'eh emphasizes the importance of maintaining spiritual and communal purity as they settle in the land.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

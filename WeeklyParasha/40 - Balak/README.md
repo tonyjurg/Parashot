@@ -13,6 +13,15 @@ Haftarah:
 
 Parasha Balak ("Balak") tells the story of Balak, the king of Moab, who hires the prophet Balaam to curse the Israelites. However, each time Balaam attempts to curse them, God intervenes, and instead, Balaam blesses Israel multiple times, including delivering a famous prophecy about a future king from Israel. The portion concludes with Israelite men succumbing to idolatry and immorality with Moabite women, leading to a deadly plague that is only stopped by the zealous action of Phinehas.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

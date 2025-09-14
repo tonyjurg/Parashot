@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Ki Teitzei ("When you go out") contains a diverse collection of laws governing ethical behavior, social justice, and personal conduct, touching on topics such as family relationships, the treatment of captives, and economic fairness. It emphasizes the protection of vulnerable individuals, including widows, orphans, and strangers, while promoting honesty in business and community life. The portion also concludes with the command to remember the Amalekites' attack on Israel and to erase their memory as a matter of justice. Additionally, it underscores the significance of maintaining personal integrity and fulfilling vows made to God.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

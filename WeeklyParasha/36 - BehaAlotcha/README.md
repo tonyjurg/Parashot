@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Beha'alotcha ("when you raise") begins with instructions for Aaron to light the menorah and the consecration of the Levites for service in the Tabernacle. It continues with the Israelites' journey from Sinai to the wilderness of Paran, the institution of the Passover, and the cloud guiding their movement. The parasha also covers Miriam and Aaron's criticism of Moses, leading to Miriam's temporary affliction with tzara'at (צָרַעַת).
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

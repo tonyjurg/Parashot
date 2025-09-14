@@ -13,6 +13,15 @@ Haftarah:
 
 Parasha Masei ("travels") recounts the Israelites' journey through the wilderness, listing all the stages from their departure from Egypt to their encampment by the Jordan River. God instructs them to drive out the inhabitants of Canaan and allocate the land among the tribes by lot, establishing specific boundaries for the Promised Land. The portion concludes with laws regarding the cities of refuge, designed for those who commit manslaughter, and a final ruling on inheritance laws for the daughters of Zelophehad to ensure property remains within the tribe.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

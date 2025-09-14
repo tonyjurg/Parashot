@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Mattot ("tribes") opens with laws regarding vows and oaths, particularly focusing on the obligations and annulments of vows made by women. The portion then describes the Israelites' war against the Midianites, resulting in the defeat of Midian and the distribution of spoils. It concludes with the tribes of Reuben, Gad, and half of Manasseh requesting to settle on the east side of the Jordan River, an arrangement Moses permits after ensuring their commitment to help conquer the Promised Land.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

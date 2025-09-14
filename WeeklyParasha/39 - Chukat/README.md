@@ -12,6 +12,16 @@ Haftarah:
 
 Parasha Chukat ("law of") introduces the laws of the red heifer, used for ritual purification after contact with the dead. It also recounts key events during Israel's journey in the wilderness, including the death of Miriam, Moses striking the rock instead of speaking to it, and the deaths of Aaron and the defeat of several enemies. The portion closes with the Israelites successfully defeating the kings Sihon and Og, marking a significant step toward entering the Promised Land.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

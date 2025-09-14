@@ -7,3 +7,5 @@ Select all objects where
 [word focus lex_utf8 = "היה"]
 ]
 ]
+
+https://etcbc.github.io/bhsa/features/txt/

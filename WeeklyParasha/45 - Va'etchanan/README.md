@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Va'etchanan ("I pleaded") features Moses' heartfelt plea to enter the Promised Land, which God denies, but He allows Moses to view it from afar. Moses then recaps essential commandments, including the Ten Commandments, and delivers the Shema, emphasizing Israel's duty to love and obey God alone. The portion reinforces the covenant, urging the Israelites to remain faithful and avoid idolatry to ensure their success and prosperity in the land.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

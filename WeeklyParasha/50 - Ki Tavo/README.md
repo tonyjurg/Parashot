@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Ki Tavo ("when you come") outlines the rituals that the Israelites must perform once they enter the Promised Land, including offering the first fruits and making a declaration of their faithfulness to God. Moses then presents a detailed list of blessings for obedience and severe curses for disobedience, emphasizing the importance of keeping God's commandments. The portion concludes with a reminder that the Israelites have a unique covenant with God, and they must uphold it to ensure their prosperity and protection. Additionally, it reinforces the communal responsibility to live according to God's laws, as their collective fate depends on their faithfulness.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description

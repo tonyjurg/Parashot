@@ -12,6 +12,15 @@ Haftarah:
 
 Parasha Eikev ("as a consequence") emphasizes the rewards of obedience to God's commandments, promising prosperity, victory over enemies, and blessings in the Promised Land if Israel remains faithful. Moses reminds the people of God's past faithfulness, their own past rebellions, and the importance of humility, urging them not to forget God once they experience success. The portion highlights the need for gratitude, trust in God's provision, and the continuous observance of His laws to ensure ongoing protection and favor.
 
+## Parasha statistics
+
+<a href="../../General/metrics_distribution.html" target="_blank">Interactive statistics for all parashot (# of words, sentences, etc.)</a>
+
+<img src="top_terms.png">
+<img src="speech_narrative_ratio.png">
+<img src="verbform_distribution.png">
+<img src="phrase_function_distribution.png">
+
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
