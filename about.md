@@ -1,3 +1,8 @@
+---
+title: "Parashot - About"
+layout: default
+---
+
 # About
 
 This website offers an in-depth exploration and analysis of the weekly Torah portion (parasha, with parashot as the plural), utilizing advanced digital tools such as SHEBANQ and Text-Fabric utilizing the [Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)](https://github.com/etcbc/BHSA) dataset.
