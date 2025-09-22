@@ -25,6 +25,7 @@ Parasha Vayeilech (“And he went”) describes Moses' final actions as he prepa
 
 Verse | Query | Short description
 --- | --- | --- 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.31:2&options=HNVUG" target="_blank">Deut. 21:2</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7119&version=2021&page=1&mr=r&qw=q" target="_blank">Going out and going in</a> | Locate clauses akin to לָצֵ֣את וְלָבֹ֑וא.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.31:15&options=HNVUG" target="_blank">Deut. 31:15</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem.
 
 ## Related Text-Fabric Notebooks

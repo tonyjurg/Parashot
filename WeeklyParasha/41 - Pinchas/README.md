@@ -25,8 +25,9 @@ Parasha Pinchas ("Phinehas") begins with God rewarding Phinehas for his zealous 
 
 Verse | Query | Short description
 --- | --- | --- 
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.27:16,18&options=HNVUG" target="_blank">Num. 27:16&18</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.25:13&options=HNVUG" target="_blank">Num. 25:13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7045	&version=2021&page=1&mr=r&qw=q" target="_blank">'כפר' for the children of Israel</a> | Making atonement for the children of Israel (Hermen van der Linden)
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.27:16,18&options=HNVUG" target="_blank">Num. 27:16&18</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.27:17&options=HNVUG" target="_blank">Num. 27:17</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7119&version=2021&page=1&mr=r&qw=q" target="_blank">Going out and going in</a> | Locate clauses akin to לָצֵ֣את וְלָבֹ֑וא.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Num.25:13&options=HNVUG" target="_blank">Num. 25:13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7045&version=2021&page=1&mr=r&qw=q" target="_blank">'כפר' for the children of Israel</a> | Making atonement for the children of Israel (Hermen van der Linden).
 
 ## Related Text-Fabric Notebooks
 
