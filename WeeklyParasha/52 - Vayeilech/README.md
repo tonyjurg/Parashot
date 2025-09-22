@@ -23,6 +23,7 @@ Parasha Vayeilech (“And he went”) describes Moses' final actions as he prepa
 
 ## Related SHEBANQ queries
 
+
 Verse | Query | Short description
 --- | --- | --- 
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.31:2&options=HNVUG" target="_blank">Deut. 31:2</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7119&version=2021&page=1&mr=r&qw=q" target="_blank">Going out and going in</a> | Locate clauses akin to לָצֵ֣את וְלָבֹ֑וא.
@@ -33,7 +34,8 @@ Verse | Query | Short description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/52%20-%20Vayeilech/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/52%20-%20Vayeilech/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/52%20-%20Vayeilech/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*)
+<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/52%20-%20Vayeilech/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/52%20-%20Vayeilech/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
 
