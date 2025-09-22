@@ -25,7 +25,7 @@ Parasha Va'etchanan ("I pleaded") features Moses' heartfelt plea to enter the Pr
 
 Verse | Query | Short description
 --- | --- | --- 
-||
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.3:28&options=HNVUG" target="_blank">Deut. 3:28</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7120&version=2021&page=1&mr=r&qw=q" target="_blank">Be strong and courageous</a> | Check all forms of the idiom חֲזַ֣ק וֶאֱמָץ֒.
 
 
 ## Related Text-Fabric Notebooks
