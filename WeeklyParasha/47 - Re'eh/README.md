@@ -25,7 +25,8 @@ Parasha Re'eh ("See") presents a choice between blessings and curses based on Is
 
 Verse | Query | Short description
 --- | --- | --- 
-||
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.12:5,11,14,18,21,26;14:24,25;15:20;16:2,6,7,11,15&options=HNVUG" target="_blank">Deut. 12:5,11,14,18,21,26; 14:24,25; 15:20; 16:2,6,7,11,15</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6685&version=2021&page=1&mr=r&qw=q" target="_blank">The place chosen by the Lord</a> | Where else do we find the phrase הַמָּקֹ֞ום אֲשֶׁר־יִבְחַ֨ר יְהוָ֤ה?
+
 
 ## Related Text-Fabric Notebooks
 

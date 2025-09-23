@@ -36,6 +36,7 @@ Parasha Shoftim ("Judges") focuses on establishing a fair and just society by se
 
 Verse | Query | Short description
 --- | --- | --- 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.17:8;18:6&options=HNVUG" target="_blank">Deut. 17:8; 18:6</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6685&version=2021&page=1&mr=r&qw=q" target="_blank">The place chosen by the Lord</a> | Where else do we find the phrase הַמָּקֹ֞ום אֲשֶׁר־יִבְחַ֨ר יְהוָ֤ה?
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.17:15;20:17&options=HNVUG" target="_blank">Deut. 17:15; 20:17</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6089&version=2021&page=8&mr=r&qw=q" target="_blank">Verb radix repetition in same clause</a> | Radix repetition to bring emphasize.
 
 ## Related Text-Fabric Notebooks
