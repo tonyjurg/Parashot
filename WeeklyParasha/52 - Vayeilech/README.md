@@ -29,6 +29,7 @@ Verse | Query | Short description
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.31:2&options=HNVUG" target="_blank">Deut. 31:2</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7119&version=2021&page=1&mr=r&qw=q" target="_blank">Going out and going in</a> | Locate clauses akin to לָצֵ֣את וְלָבֹ֑וא.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.31:6;7;23&options=HNVUG" target="_blank">Deut. 31:6,7,23</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7120&version=2021&page=1&mr=r&qw=q" target="_blank">Be strong and courageous</a> | Check all forms of the idiom חֲזַ֣ק וֶאֱמָץ֒.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.31:15&options=HNVUG" target="_blank">Deut. 31:15</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.31:18,29&options=HNVUG" target="_blank">Deut. 31:18,29</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6089&version=2021&page=1&mr=r&qw=q" target="_blank">Verb radix repetition</a> | Repetition of a verb radix to express emphasis 
 
 ## Related Text-Fabric Notebooks
 
