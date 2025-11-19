@@ -42,6 +42,7 @@ Verse | Query | Short description
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.1:22,28&options=HNVUG" target="_blank">Gen. 1:22&28</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q" target="_blank">be fertile and be many</a> | Command by God to animals (v22) and mankind=Adam/Eve (v28)
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.2:1,2&options=HNVUG" target="_blank">Gen. 2:1,2</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6306&version=2021&page=1&mr=r&qw=q" target="_blank">Completion</a> | Verb כָּלָה - completing
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.2:4&options=HNVUG" target="_blank">Gen. 2:4</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6261&version=2021&page=1&mr=r&qw=q" target="_blank">family stories - Toldot</a> | Toldot is found first time in Gen. 2:4; telling the family story of heaven and earth.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.4:14&options=HNVUG" target="_blank">Gen. 4:14</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7122&version=2021&page=1&mr=r&qw=q" target="_blank">Hiding one's face</a> | Hiding one's face - וּמִפָּנֶ֖יךָ אֶסָּתֵ֑ר.
 
 ## Related Text-Fabric Notebooks
 
