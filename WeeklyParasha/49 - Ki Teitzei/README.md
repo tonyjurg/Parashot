@@ -24,9 +24,10 @@ Parasha Ki Teitzei ("When you go out") contains a diverse collection of laws gov
 ## Related SHEBANQ queries
 
 Verse | Query | Short description
---- | --- | --- 
+--- | --- | ---
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.21:23;22:1,4,7;23:22;24:13&options=HNVUG" target="_blank">Deut. 21:23; 22:1,4,7; 23:22; 24:13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6089&version=2021&page=1&mr=r&qw=q" target="_blank">Verb radix repetition</a> | Repetition of a verb radix to express emphasis
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.22:1&options=HNVUG" target="_blank">Deut. 22:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6089&version=2021&page=1&mr=r&qw=q" target="_blank">'certain return' in Torah</a> | For certain bring back a stray sheep
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.25:11&options=HNVUG" target="_blank">Deut. 25:11</a>|  <a href="https://shebanq.ancient-data.org/hebrew/text?iid=5471&version=2021&page=1&mr=r&qw=q" target="_blank">Deliver from the hand</a>| Locate texts with the words (in any order) "delivered from the hand". (Timothy Baze)
-<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.21:23;22:1,4,7;23:22;24:13&options=HNVUG" target="_blank">Deut. 21:23; 22:1,4,7; 23:22; 24:13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6089&version=2021&page=1&mr=r&qw=q" target="_blank">Verb radix repetition</a> | Repetition of a verb radix to express emphasis 
 
 ## Related Text-Fabric Notebooks
 
