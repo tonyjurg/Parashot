@@ -35,6 +35,7 @@ Verse | Query | Description
 --- | --- | ---
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.48:11&options=HNVUG" target="_blank">Gen. 48:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6875	&version=2021&page=1&mr=r&qw=q" target="_blank">God caused to see</a> | God as subject with verb רָאָה with hifil stem (expressing causative actions)
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.49:33&options=HNVUG" target="_blank">Gen. 49:33</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6306&version=2021&page=1&mr=r&qw=q" target="_blank">Completion</a> | Verb כָּלָה - completing
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.50:15&options=HNVUG" target="_blank">Gen. 50:15</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6641&version=2021&page=1&mr=r&qw=q" target="_blank">'certain return' in Torah</a> | The brothers expect Joseph's certain retaliation
 
 ## Related Text-Fabric Notebooks
 
