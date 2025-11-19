@@ -33,7 +33,8 @@ Parasha Mishpatim details a comprehensive set of laws covering various aspects o
 
 Verse | Query | Short description
 --- | --- | --- 
-Ex. 21:1 | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6342&page=1&mr=r&qw=q" target="_blank">Put before them</a> | How is the תָּשִׂ֖ים לִפְנֵיהֶֽם used elsewhere?
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.21:1&options=HNVUG" target="_blank">Ex. 21:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6342&page=1&mr=r&qw=q" target="_blank">Put before them</a> | How is the תָּשִׂ֖ים לִפְנֵיהֶֽם used elsewhere?
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.23:4&options=HNVUG" target="_blank">Ex. 23:4</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6641&page=1&mr=r&qw=q" target="_blank">'certain return' in Torah</a> | making certain the lost donkey is brought back to its proper owner
 
 ## Related Text-Fabric Notebooks
 
