@@ -44,8 +44,6 @@ Verse | Query | Description
 
 GitHub | NBviewer | Short description
 ---|---|---
-[hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/hapax.ipynb" target="_blank">hapax</a> | find unique words (*hapax legomena*)
-
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/15%20-%20Bo/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/15%20-%20Bo/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/15%20-%20Bo/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/15%20-%20Bo/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
