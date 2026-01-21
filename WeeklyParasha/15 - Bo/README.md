@@ -33,6 +33,7 @@ Parasha Bo ("Come"), named after a imperative verb meaning 'come' or 'go', detai
 
 Verse | Query | Description
 --- | --- | ---
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.10:1&options=HNVUG" target="_blank">Ex. 10:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7209&version=2021&page=1&mr=r&qw=q" target="_blank">Come to the Pharao</a> | Where else is the phrase בֹּ֛א אֶל־ used? 
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.10:13&options=HNVUG" target="_blank">Ex. 10:13</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.10:17,18&options=HNVUG" target="_blank">Ex. 10:17,18</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7181&version=2021&page=1&mr=r&qw=q" target="_blank">Pleadings</a> | Who is involved in act of pleading/prayer (verb עתר)?
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.12:14,17&options=HNVUG" target="_blank">Ex. 12:14&17</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6558&version=2021&page=1&mr=r&qw=q" target="_blank">'on the same day'</a> | on this fvery day I brought your multitudes out of the land of Egypt;
