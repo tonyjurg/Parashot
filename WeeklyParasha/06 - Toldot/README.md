@@ -39,6 +39,7 @@ Verse | Query | Description
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.26:2,24&options=HNVUG" target="_blank">Gen. 26:2,24 </a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.26:33&options=HNVUG" target="_blank">Gen. 26:33</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6558&version=2021&page=1&mr=r&qw=q" target="_blank">'on the same day'</a> |Occurences of the expression יֹּ֣ום הַזֶּ֗ה.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.27:30&options=HNVUG" target="_blank">Gen. 27:30</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6306&version=2021&page=1&mr=r&qw=q" target="_blank">Completion</a> | Verb כָּלָה - completing
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.28:3&options=HNVUG" target="_blank">Gen. 28:3</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7268&page=1&mr=r&qw=q" target="_blank">קהל</a> | verb and noun forms of קהל
 
 ## Related Text-Fabric Notebooks
 
