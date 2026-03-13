@@ -34,6 +34,7 @@ Parasha Vayechi ("and he lived") is the final portion of the Book of Genesis. It
 Verse | Query | Description
 --- | --- | ---
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.48:11&options=HNVUG" target="_blank">Gen. 48:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6875	&version=2021&page=1&mr=r&qw=q" target="_blank">God caused to see</a> | God as subject with verb רָאָה with hifil stem (expressing causative actions)
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.48:4;49:6&options=HNVUG" target="_blank">Gen. 48:4, 49:6</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7268&page=1&mr=r&qw=q" target="_blank">קהל</a> | verb and noun forms of קהל
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.49:33&options=HNVUG" target="_blank">Gen. 49:33</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6306&version=2021&page=1&mr=r&qw=q" target="_blank">Completion</a> | Verb כָּלָה - completing
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.50:15&options=HNVUG" target="_blank">Gen. 50:15</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6641&version=2021&page=1&mr=r&qw=q" target="_blank">'certain return' in Torah</a> | The brothers expect Joseph's certain retaliation
 
@@ -44,12 +45,6 @@ GitHub | NBviewer | Short description
 [hapax](hapax.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/hapax.ipynb" target="_blank">hapax</a>| find unique words (*hapax legomena*) in this parasha
 [lexical_parallels.ipynb](lexical_parallels.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| find lexical parallels between verses
 [delta_mt_and_sp.ipynb](delta_mt_and_sp.ipynb) | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT)
-
-GitHub | NBviewer | Short description
----|---|---
-<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/12%20-%20Vayechi/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/hapax.ipynb" target="_blank">hapax</a>| Find unique words (*hapax legomena*) in this parasha.
-<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/12%20-%20Vayechi/lexical_parallels.ipynb" target="_blank">Lexical parallels</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/lexical_parallels.ipynb" target="_blank">Lexical parallels</a>| Find lexical parallels between verses.
-<a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/12%20-%20Vayechi/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/12%20-%20Vayechi/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/12%20-%20Vayechi/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 ## Hebcal
