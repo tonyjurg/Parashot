@@ -37,6 +37,7 @@ Verse | Query | Short description
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.32:32&options=HNVUG" target="_blank">Gen. 32:33(32)</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6558&version=2021&page=1&mr=r&qw=q" target="_blank">'on the same day'</a> | Where else is the phrase הַיֹּ֣ום הַזֶּ֑ה?
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.35:9&options=HNVUG" target="_blank">Gen. 35:9 </a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6876&version=2021&page=1&mr=r&qw=q" target="_blank">God appears</a> | God (or something of God) as subject to רָאָה in nifil stem.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.35:11&options=HNVUG" target="_blank">Gen. 35:11</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6286&version=2021&page=1&mr=r&qw=q" target="_blank">Be fertile and be many</a> | Command by God to Jacob after returning to Bethel.
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Gen.35:11&options=HNVUG" target="_blank">Gen. 35:11</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7268&page=1&mr=r&qw=q" target="_blank">קהל</a> | verb and noun forms of קהל
 
 ## Related Text-Fabric Notebooks
 
