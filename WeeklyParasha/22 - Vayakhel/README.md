@@ -33,6 +33,7 @@ Parasha Vayakhel details Moses gathering the Israelites to instruct them on the 
 
 Verse | Query | Short description
 --- | --- | --- 
+<a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.35:1&options=HNVUG" target="_blank">Ex. 35:1</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=7268&page=1&mr=r&qw=q" target="_blank">Vayakhel</a> | Vayakhel (וַיַּקְהֵ֣ל): verb and noun forms of קהל
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.35:21&options=HNVUG" target="_blank">Ex. 35:21</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6312	&version=2021&page=1&mr=r&qw=q" target="_blank">Ruach as subject</a> | The use of רוּחַ as subject in a phrase
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Ex.37:19,20&options=HNVUG" target="_blank">Ex. 37:19,20</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6982	&version=2021&page=1&mr=r&qw=q" target="_blank">Almond and almond blossem</a> | The various use of almond in symbolic and practical contexts
 
