@@ -47,6 +47,8 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/28%20-%20Metzora/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/28%20-%20Metzora/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 
+{% include gematria-browser.html number=28 name="Metzora" %}
+
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. [Hebcal entry for parasha Metzora](https://www.hebcal.com/sedrot/metzora).

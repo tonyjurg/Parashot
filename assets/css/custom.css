@@ -36,3 +36,63 @@ gsc-input-box {
 .next-shabbat p {
     margin: 0 0 0.75rem;
 }
+
+.gematria-browser {
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    border: 1px solid #d5e4e5;
+    border-left: 4px solid #087989;
+    border-radius: 4px;
+    background: #f4f9f9;
+}
+
+.gematria-browser-logo {
+    flex: 0 0 64px;
+    width: 64px;
+    height: 64px;
+}
+
+.gematria-browser h2 {
+    margin: 0 0 0.5rem;
+    font-size: 1.15rem;
+    color: #183747;
+}
+
+.gematria-browser p {
+    margin: 0 0 0.75rem;
+}
+
+.gematria-browser a {
+    color: #087080;
+    text-decoration: underline;
+    text-underline-offset: 0.15em;
+}
+
+.gematria-browser a:hover {
+    color: #183747;
+}
+
+.gematria-browser a:focus-visible {
+    outline: 2px solid #087989;
+    outline-offset: 3px;
+}
+
+.gematria-browser-sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+@media (max-width: 480px) {
+    .gematria-browser {
+        flex-direction: column;
+    }
+}

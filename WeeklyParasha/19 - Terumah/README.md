@@ -46,6 +46,8 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/19%20-%20Terumah/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/19%20-%20Terumah/delta_mt_and_sp.ipynb" target="_blank">Delta SP and MT</a>| Identify differences between the Samaritan Pentateuch (SP) and Masoretic Text (MT).
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/19%20-%20Terumah/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/19%20-%20Terumah/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
+{% include gematria-browser.html number=19 name="Terumah" %}
+
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/terumah" target="_blank">Hebcal entry for parasha Terumah</a>.

@@ -1,0 +1,8 @@
+<aside class="gematria-browser" aria-label="Gematria browser for {{ include.name | escape }}">
+  <img class="gematria-browser-logo" src="{{ '/assets/images/gematria-browser.svg' | relative_url }}" width="64" height="64" alt="">
+  <div>
+    <h2>Parasha Gematria Browser</h2>
+    <p>Explore Hebrew word values and find matching passages in {{ include.name | escape }}.</p>
+    <a href="https://tonyjurg.github.io/parasha-gematria-browser/#parasha={{ include.number }}&amp;method=hechrechi&amp;representation=full&amp;reading=ketiv" target="_blank" rel="noopener noreferrer">Explore {{ include.name | escape }} gematria <span aria-hidden="true">↗</span><span class="gematria-browser-sr-only"> (opens in a new tab)</span></a>
+  </div>
+</aside>

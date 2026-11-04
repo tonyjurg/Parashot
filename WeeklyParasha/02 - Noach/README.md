@@ -49,6 +49,8 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/02%20-%20Noach/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/02%20-%20Noach/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
 
+{% include gematria-browser.html number=2 name="Noach" %}
+
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/noach" target="_blank">Hebcal entry for parasha Noach</a>.

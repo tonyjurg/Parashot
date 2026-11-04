@@ -35,6 +35,8 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/47%20-%20Re'eh/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/47%20-%20Re'eh/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*)
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/47%20-%20Re'eh/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/47%20-%20Re'eh/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
+{% include gematria-browser.html number=47 name="Re'eh" %}
+
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/reeh" target="_blank">Hebcal entry for parasha Re’eh</a>.

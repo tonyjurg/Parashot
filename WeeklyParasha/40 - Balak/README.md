@@ -38,6 +38,8 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/40%20-%20Balak/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/40%20-%20Balak/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*)
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/40%20-%20Balak/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/40%20-%20Balak/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
+{% include gematria-browser.html number=40 name="Balak" %}
+
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/balak" target="_blank">Hebcal entry for parasha Balak</a>.

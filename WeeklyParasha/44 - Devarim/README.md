@@ -34,6 +34,8 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/44%20-%20Devarim/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/44%20-%20Devarim/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*)
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/44%20-%20Devarim/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/44%20-%20Devarim/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
+{% include gematria-browser.html number=44 name="Devarim" %}
+
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/devarim" target="_blank">Hebcal entry for parasha Devarim</a>.

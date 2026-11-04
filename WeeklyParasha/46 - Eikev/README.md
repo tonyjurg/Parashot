@@ -34,6 +34,8 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/46%20-%20Eikev/hapax.ipynb" target="_blank">hapax</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/46%20-%20Eikev/hapax.ipynb" target="_blank">hapax</a> | Find unique words (*hapax legomena*)
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/46%20-%20Eikev/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/46%20-%20Eikev/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 
+{% include gematria-browser.html number=46 name="Eikev" %}
+
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/eikev" target="_blank">Hebcal entry for parasha Eikev</a>.

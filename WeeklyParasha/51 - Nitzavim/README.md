@@ -35,6 +35,8 @@ GitHub | NBviewer | Short description
 <a href="https://github.com/tonyjurg/Parashot/tree/main/WeeklyParasha/51%20-%20Nitzavim/parasha_analysis.ipynb" target="_blank">Parasha statistics</a> | <a href="https://nbviewer.org/github/tonyjurg/Parashot/blob/main/WeeklyParasha/51%20-%20Nitzavim/parasha_analysis.ipynb" target="_blank">Parasha statistics</a>| Create graphical statistics for this parasha.
 <a href="https://www.stepbible.org/?q=version=NASB2020\|reference=Deut.31:29&options=HNVUG" target="_blank">Deut. 31:29</a> | <a href="https://shebanq.ancient-data.org/hebrew/text?iid=6089&version=2021&page=1&mr=r&qw=q" target="_blank">Verb radix repetition</a> | Repetition of a verb radix to express emphasis 
 
+{% include gematria-browser.html number=51 name="Nitzavim" %}
+
 ## Hebcal
 
 Additional details about Jewish calendar and holiday information, offering users a resource for tracking Hebrew dates, candle lighting times, and other relevant information in the Jewish calendar. <a href="https://www.hebcal.com/sedrot/nitzavim" target="_blank">Hebcal entry for parasha Nitzavim</a>.
