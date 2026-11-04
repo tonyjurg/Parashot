@@ -19,3 +19,20 @@ gsc-input-box {
     width: 170px !important; 
     height: 20px !important;  
 }
+
+.next-shabbat {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.25rem;
+    border-left: 4px solid #267cb9;
+    border-radius: 4px;
+    background: #f3f7fa;
+}
+
+.next-shabbat h2 {
+    margin: 0 0 0.75rem;
+    font-size: 1.2rem;
+}
+
+.next-shabbat p {
+    margin: 0 0 0.75rem;
+}

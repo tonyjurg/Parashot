@@ -6,6 +6,8 @@
 
 Digital Humanities for the weekly Parasha (the weekly Torah portion, or *parashat hashavuah* in Hebrew). The tools in this repository are based upon the <a href="https://etcbc.github.io/bhsa/" target="_blank">Biblia Hebraica Stuttgartensia Amstelodamensis (BHSA)</a>, a Text-Fabric representation of the Hebrew Bible with linguistic annotations, created by the <a href="https://etcbc.nl/" target="_blank">Eep Talstra Centre for Bible and Computer (ETCBC)</a> at the VU Amsterdam.
 
+{% include next-shabbat.html %}
+
 ## The weekly parasha
 
 A “parasha” is a section of the Torah divided for weekly reading. Each parasha encompasses a specific portion of text, and there are 54 parashot (plural for parasha) covering the entire five books of the Torah, ensuring the entire Torah is read over the course of a year. This weekly reading cycle, known as the Torah portion, is integral to Jewish liturgy and communal worship, providing a structured approach to studying and reflecting upon the Torah’s teachings. The information on this site is structured along these parashot.

@@ -1,0 +1,30 @@
+{% assign reading = site.data.next_shabbat %}
+{% if reading %}
+<aside class="next-shabbat" aria-label="Upcoming Shabbat reading">
+  <h2>This coming Shabbat · {{ reading.date_label | escape }}</h2>
+  {% if reading.portions.size > 0 %}
+  <p>
+    {% if reading.portions.size == 1 %}
+      The weekly Torah portion is
+    {% else %}
+      The weekly Torah portions are
+    {% endif %}
+    {% for portion in reading.portions %}
+      <a href="{{ portion.url | relative_url | escape }}">{{ portion.name | escape }}</a>{% unless forloop.last %} and {% endunless %}
+    {% endfor %}.
+  </p>
+  {% else %}
+  <p>
+    This Shabbat is {{ reading.festival | escape }}.
+    A festival Torah reading replaces the regular weekly portion.
+  </p>
+  {% endif %}
+  {% if reading.torah != empty %}
+  <p>Torah reading: {{ reading.torah | escape }}</p>
+  {% endif %}
+  <small>
+    Calendar data: <a href="https://www.hebcal.com/">Hebcal</a>
+    · {{ reading.cycle | escape }}
+  </small>
+</aside>
+{% endif %}
