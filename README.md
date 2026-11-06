@@ -24,3 +24,7 @@ Various parashot are illustrated with images created by AI models based on a pro
 
 <img src="images/ReadingTroughTheLensOfTenach.png">
 
+## Responsible disclosure
+
+This project was created with assistance from OpenAI Codex. The human maintainer remains responsible for reviewing, testing, and accepting all code and documentation changes.
+
